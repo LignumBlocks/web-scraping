@@ -41,9 +41,15 @@ async def scrape_investopedia(query):
                     article_page = await context.new_page()
                     try:
                         await article_page.goto(link_href, wait_until="domcontentloaded", timeout=60000)
-                        await article_page.wait_for_selector('div.article-body-content')  # Ajusta según el HTML
 
+                        # Intenta buscar 'article-body-content' primero
                         content_element = await article_page.query_selector('div.article-body-content')
+
+                        # Si no se encuentra 'article-body-content', intenta con 'div.article-content'
+                        if not content_element:
+                            content_element = await article_page.query_selector('div.article-content')
+
+                        # Extraer el texto del contenido
                         content_text = await content_element.inner_text() if content_element else "Contenido no disponible"
 
                     except Exception as e:

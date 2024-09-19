@@ -10,12 +10,12 @@ import os
 
 # Lista de scrapers a activar (puedes incluir o eliminar fuentes según tu necesidad)
 active_scrapers = [
-    'forbes',
-    'consumer finance',
+    #'forbes',
+    #'consumer finance',
     'investopedia',
-    'marketwatch',
-    'morningstar',
-    'the balance money'
+    #'marketwatch',
+    #'morningstar',
+    #'the balance money'
 ]
 
 # Función para guardar datos en CSV de forma incremental

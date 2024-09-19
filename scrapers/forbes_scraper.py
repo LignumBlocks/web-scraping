@@ -8,7 +8,7 @@ async def scrape_forbes(query):
     
     async with async_playwright() as playwright:
         # Lanzar el navegador (puedes cambiar headless=False si quieres ver el proceso)
-        browser = await playwright.chromium.launch(headless=True)
+        browser = await playwright.chromium.launch(headless=False)
         context = await browser.new_context()
 
         # Crear una nueva página
