@@ -1,0 +1,1108 @@
+query,title,description,link,content
+Financial Management Using Multiple Accounts,Financial ratio,"financial statements. Often used in accounting, there are many standard ratios used to try to evaluate the overall financial condition of a corporation...",https://en.wikipedia.org/wiki/Financial_ratio,"Part of a series on
+Accounting
+
+
+Historical costConstant purchasing powerManagementTax
+
+
+show
+Major types
+
+
+show
+Key concepts
+
+
+show
+Selected accounts
+
+
+show
+Accounting standards
+
+
+show
+Financial statements
+
+
+show
+Bookkeeping
+
+
+show
+Auditing
+
+
+show
+People and organizations
+
+
+show
+Development
+
+
+show
+Misconduct
+
+vte
+
+A financial ratio or accounting ratio states the relative magnitude of two selected numerical values taken from an enterprise's financial statements. Often used in accounting, there are many standard ratios used to try to evaluate the overall financial condition of a corporation or other organization. Financial ratios may be used by managers within a firm, by current and potential shareholders (owners) of a firm, and by a firm's creditors. Financial analysts use financial ratios to compare the strengths and weaknesses in various companies.[1] If shares in a company are publicly listed, the market price of the shares is used in certain financial ratios.
+
+Ratios can be expressed as a decimal value, such as 0.10, or given as an equivalent percentage value, such as 10%. Some ratios are usually quoted as percentages, especially ratios that are usually or always less than 1, such as earnings yield, while others are usually quoted as decimal numbers, especially ratios that are usually more than 1, such as P/E ratio; these latter are also called multiples. Given any ratio, one can take its reciprocal; if the ratio was above 1, the reciprocal will be below 1, and conversely. The reciprocal expresses the same information, but may be more understandable: for instance, the earnings yield can be compared with bond yields, while the P/E ratio cannot be: for example, a P/E ratio of 20 corresponds to an earnings yield of 5%.
+
+Sources of data[edit]
+
+Values used in calculating financial ratios are taken from the balance sheet, income statement, statement of cash flows or (sometimes) the statement of changes in equity. These comprise the firm's ""accounting statements"" or financial statements. The statements' data is based on the accounting method and accounting standards used by the organisation.
+
+Purpose and types[edit]
+Federal debt to Federal revenue ratio
+
+Financial ratios quantify many aspects of a business and are an integral part of the financial statement analysis. Financial ratios are categorized according to the financial aspect of the business which the ratio measures. Liquidity ratios measure the availability of cash to pay debt.[2] Activity ratios measure how quickly a firm converts non-cash assets to cash assets.[3] Debt ratios measure the firm's ability to repay long-term debt.[4] Profitability ratios measure the firm's use of its assets and control of its expenses to generate an acceptable rate of return.[5] Market ratios measure investor response to owning a company's stock and also the cost of issuing stock.[6] These are concerned with the return on investment for shareholders, and with the relationship between return and the value of an investment in company's shares.
+
+Financial ratios allow for comparisons
+
+between companies
+between industries
+between different time periods for one company
+between a single company and its industry average
+
+Ratios generally are not useful unless they are benchmarked against something else, like past performance or another company. Thus, the ratios of firms in different industries, which face different risks, capital requirements, and competition are usually hard to compare.
+
+Accounting methods and principles[edit]
+
+Financial ratios may not be directly comparable between companies that use different accounting methods or follow various standard accounting practices. Most public companies are required by law to use generally accepted accounting principles for their home countries, but private companies, partnerships and sole proprietorships may elect to not use accrual basis accounting. Large multi-national corporations may use International Financial Reporting Standards to produce their financial statements, or they may use the generally accepted accounting principles of their home country.
+
+There is no international standard for calculating the summary data presented in all financial statements, and the terminology is not always consistent between companies, industries, countries and time periods.
+
+Types of Ratio Comparisons[edit]
+
+An important of ration analysis is interpreting ratio values. A meaningful basis for comparison is needed to answer questions such as ""Is it too high or too low?"" or ""Is it good or bad?"". Two types of ratio comparisons can be made, cross-sectional and time-series.[7]
+
+Cross-Sectional Analysis[edit]
+
+Cross-sectional analysis compares the financial ratios of different companies at the same point in time. It allows companies to benchmark from other competitors by comparing their ratio values to similar companies in the industry.
+
+Time-Series Analysis[edit]
+
+Time-series analysis evaluates a company's performance over time. It compares its current performance against past or historical performance. This can help assess the company's progress by looking into developing trends or year-to-year changes.
+
+Abbreviations and terminology[edit]
+
+Various abbreviations may be used in financial statements, especially financial statements summarized on the Internet. Sales reported by a firm are usually net sales, which deduct returns, allowances, and early payment discounts from the charge on an invoice. Net income is always the amount after taxes, depreciation, amortization, and interest, unless otherwise stated. Otherwise, the amount would be EBIT, or EBITDA (see below).
+
+Companies that are primarily involved in providing services with labour do not generally report ""Sales"" based on hours. These companies tend to report ""revenue"" based on the monetary value of income that the services provide.
+
+Note that Shareholders' Equity and Owner's Equity are not the same thing, Shareholder's Equity represents the total number of shares in the company multiplied by each share's book value; Owner's Equity represents the total number of shares that an individual shareholder owns (usually the owner with controlling interest), multiplied by each share's book value. It is important to make this distinction when calculating ratios.
+
+Abbreviations[edit]
+
+(Note: These are not ratios, but values in currency.)
+
+COGS = Cost of goods sold, or cost of sales.
+EBIT = Earnings before interest and taxes
+EBITDA = Earnings before interest, taxes, depreciation, and amortization
+EPS = Earnings per share
+Ratios[edit]
+Profitability ratios[edit]
+
+Profitability ratios measure the company's use of its assets and control of its expenses to generate an acceptable rate of return
+
+Gross margin, Gross profit margin or Gross Profit Rate[8][9]
+⁠
+Gross Profit
+/
+Net Sales
+⁠ :::OR :::⁠
+Net Sales - COGS
+/
+Net Sales
+⁠
+Operating margin, Operating Income Margin, Operating profit margin or Return on sales (ROS)[9][10]
+⁠
+Operating Income
+/
+Net Sales
+⁠
+Note: Operating income is the difference between operating revenues and operating expenses, but it is also sometimes used as a synonym for EBIT and operating profit.[11] This is true if the firm has no non-operating income. (Earnings before interest and taxes / Sales[12][13])
+Profit margin, net margin or net profit margin[14]
+⁠
+Net Profit
+/
+Net Sales
+⁠
+Return on equity (ROE)[14]
+⁠
+Net Income
+/
+Average Shareholders Equity
+⁠
+Return on assets (ROA ratio or Du Pont Ratio)[6]
+⁠
+Net Income
+/
+Average Total Assets
+⁠
+Return on assets (ROA)[15]
+⁠
+Net Income
+/
+Total Assets
+⁠
+Return on assets Du Pont (ROA Du Pont)[16]
+⁠
+Net Income
+/
+Net Sales
+⁠ · ⁠
+Net Sales
+/
+Total Assets
+⁠
+Return on Equity Du Pont (ROE Du Pont)
+⁠
+Net Income
+/
+Net Sales
+⁠ · ⁠
+Net Sales
+/
+Average Assets
+⁠ · ⁠
+Average Assets
+/
+Average Equity
+⁠
+Return on net assets (RONA)
+⁠
+Net Income
+/
+Fixed Assets + Working Capital
+⁠
+Return on capital (ROC)
+⁠
+EBIT(1 − (Tax Rate))
+/
+Invested Capital
+⁠
+Risk adjusted return on capital (RAROC)
+⁠
+Expected Return
+/
+Economic Capital
+⁠ :::OR :::⁠
+Expected Return
+/
+Value at Risk
+⁠
+Return on capital employed (ROCE)
+⁠
+EBIT
+/
+Capital Employed
+⁠
+Note: this is somewhat similar to (ROI), which calculates Net Income per Owner's Equity
+Cash flow return on investment (CFROI)
+⁠
+Cash Flow
+/
+Market Recapitalisation
+⁠
+Efficiency ratio
+⁠
+Non-Interest expense
+/
+Revenue
+⁠
+Net gearing
+⁠
+Net debt
+/
+Equity
+⁠
+Basic Earnings Power Ratio[17]
+⁠
+EBIT
+/
+Total Assets
+⁠
+Liquidity ratios[edit]
+
+Liquidity ratios measure the availability of cash to pay debt.
+
+Current ratio (Working Capital Ratio)[18]
+⁠
+Current Assets
+/
+Current Liabilities
+⁠
+Acid-test ratio (Quick ratio)[18]
+⁠
+Current Assets − (Inventories + Prepayments)
+/
+Current Liabilities
+⁠
+Cash ratio[18]
+⁠
+Cash and Marketable Securities
+/
+Current Liabilities
+⁠
+Operating cash flow ratio
+⁠
+Operating Cash Flow
+/
+Total Debts
+⁠
+Net working capital to sales ratio [19]
+This ratio asseses a business's actual liquidity position against its need for liquidity, represented by its sales:[19]
+⁠
+Current Assets - Current Liabilities
+/
+Sales
+⁠
+Activity ratios (efficiency ratios)[edit]
+
+Activity ratios measure the effectiveness of the firm's use of resources.
+
+Average collection period[3]
+⁠
+Accounts Receivable
+/
+Annual Credit Sales
+⁠ × 365 Days
+Degree of Operating Leverage (DOL)
+⁠
+Percent Change in Net Operating Income
+/
+Percent Change in Sales
+⁠
+DSO Ratio.[20]
+⁠
+Accounts Receivable
+/
+Total Annual Sales
+⁠ × 365 Days
+Average payment period[3]
+⁠
+Accounts Payable
+/
+Annual Credit Purchases
+⁠ × 365 Days
+Asset turnover[21]
+⁠
+Net Sales
+/
+Total Assets
+⁠
+Stock turnover ratio[22][23]
+⁠
+Cost of Goods Sold
+/
+Average Inventory
+⁠
+Receivables Turnover Ratio[24]
+⁠
+Net Credit Sales
+/
+Average Net Receivables
+⁠
+Inventory conversion ratio[4]
+⁠
+365 Days
+/
+Inventory Turnover
+⁠
+Inventory conversion period (essentially same thing as above)
+⁠
+Inventory
+/
+Cost of Goods Sold
+⁠ × 365 Days
+Receivables conversion period
+⁠
+Receivables
+/
+Net Sales
+⁠ × 365 Days
+Payables conversion period
+⁠
+Accounts Payables
+/
+Purchases
+⁠ × 365 Days
+Cash Conversion Cycle
+(Inventory Conversion Period) + (Receivables Conversion Period) − (Payables Conversion Period)
+Debt ratios (leveraging ratios)[edit]
+
+Debt ratios quantify the firm's ability to repay long-term debt. Debt ratios measure the level of borrowed funds used by the firm to finance its activities.
+
+Debt ratio[25]
+⁠
+Total Liabilities
+/
+Total Assets
+⁠
+Debt to equity ratio[26]
+⁠
+(Long-term Debt) + (Value of Leases)
+/
+(Average Shareholders Equity)
+⁠
+Long-term Debt to equity (LT Debt to Equity)[26]
+⁠
+(Long-term Debt)
+/
+(Average Shareholders Equity)
+⁠
+Times interest earned ratio (Interest Coverage Ratio)[26]
+⁠
+EBIT
+/
+Annual Interest Expense
+⁠
+OR
+⁠
+Net Income
+/
+Annual Interest Expense
+⁠
+Debt service coverage ratio
+⁠
+Net Operating Income
+/
+Total Debt Service
+⁠
+Market ratios[edit]
+
+Market ratios measure investor response to owning a company's stock and also the cost of issuing stock. These are concerned with the return on investment for shareholders, and with the relationship between return and the value of an investment in company's shares.
+
+Earnings per share (EPS)[27]
+⁠
+Net Earnings
+/
+Number of Shares
+⁠
+Payout ratio[27][28]
+⁠
+Dividends
+/
+Earnings
+⁠
+OR
+⁠
+Dividends
+/
+EPS
+⁠
+Dividend cover (the inverse of Payout Ratio)
+⁠
+Earnings per Share
+/
+Dividend per Share
+⁠
+P/E ratio
+⁠
+Market Price per Share
+/
+Diluted EPS
+⁠
+Dividend yield
+⁠
+Dividend
+/
+Current Market Price
+⁠
+Cash flow ratio or Price/cash flow ratio[29]
+⁠
+Market Price per Share
+/
+Present Value of Cash Flow per Share
+⁠
+Price to book value ratio (P/B or PBV)[29]
+⁠
+Market Price per Share
+/
+Balance Sheet Price per Share
+⁠
+Price/sales ratio
+⁠
+Market Price per Share
+/
+Gross Sales
+⁠
+PEG ratio
+⁠
+Price per Earnings
+/
+Annual EPS Growth
+⁠
+
+Other Market Ratios
+
+EV/EBITDA
+⁠
+Enterprise Value
+/
+EBITDA
+⁠
+EV/Sales
+⁠
+Enterprise Value
+/
+Net Sales
+⁠
+Cost/Income ratio
+
+Sector-specific ratios
+
+EV/capacity
+EV/output
+Capital budgeting ratios[edit]
+Main article: Capital budgeting
+
+In addition to assisting management and owners in diagnosing the financial health of their company, ratios can also help managers make decisions about investments or projects that the company is considering to take, such as acquisitions, or expansion.
+
+Many formal methods are used in capital budgeting, including the techniques such as
+
+Net present value
+Profitability index
+Internal rate of return
+Modified internal rate of return
+Equivalent annuity
+See also[edit]
+List of financial performance measures
+Greeks (finance)
+References[edit]
+^ Groppelli, Angelico A.; Ehsan Nikbakht (2000). Finance, 4th ed. Barron's Educational Series, Inc. p. 433. ISBN 0-7641-1275-9.
+^ Groppelli, p. 434.
+^ 
+Jump up to:
+a b c Groppelli, p. 436.
+^ 
+Jump up to:
+a b Groppelli, p. 439.
+^ Groppelli, p. 442.
+^ 
+Jump up to:
+a b Groppelli, p. 445.
+^ Gitman & Zutter (2013). Principles of Managerial Finance (13th ed.). Pearson Education Limited. pp. 119–121. ISBN 978-0-273-77986-5.
+^ Williams, P. 265.
+^ 
+Jump up to:
+a b Williams, p. 1094.
+^ Williams, Jan R.; Susan F. Haka; Mark S. Bettner; Joseph V. Carcello (2008). Financial & Managerial Accounting. McGraw-Hill Irwin. p. 266. ISBN 978-0-07-299650-0.
+^ ""Operating income definition"". Archived from the original on 26 April 2014. Retrieved 7 September 2008.
+^ Groppelli, p. 443.
+^ Bodie, Zane; Alex Kane; Alan J. Marcus (2004). Essentials of Investments, 5th ed. McGraw-Hill Irwin. p. 459. ISBN 0-07-251077-3.
+^ 
+Jump up to:
+a b Groppelli, p. 444.
+^ Professor Cram. ""Ratios of Profitability: Return on Assets"" College-Cram.com. 14 May 2008
+^ Professor Cram. ""Ratios of Profitability: Return on Assets Du Pont"", College-Cram.com. 14 May 2008
+^ Weston, J. (1990). Essentials of Managerial Finance. Hinsdale: Dryden Press. p. 295. ISBN 0-03-030733-3.
+^ 
+Jump up to:
+a b c Groppelli, p. 435.
+^ 
+Jump up to:
+a b Drake, P. P., Financial ratio analysis, p. 6, published on 15 December 2012
+^ Houston, Joel F.; Brigham, Eugene F. (2009). Fundamentals of Financial Management. [Cincinnati, Ohio]: South-Western College Pub. p. 90. ISBN 978-0-324-59771-4.
+^ Bodie, p. 459.
+^ Groppelli, p. 438.
+^ Weygandt, J. J., Kieso, D. E., & Kell, W. G. (1996). Accounting Principles (4th ed.). New York, Chichester, Brisbane, Toronto, Singapore: John Wiley & Sons, Inc. p. 801-802.
+^ Weygandt, J. J., Kieso, D. E., & Kell, W. G. (1996). Accounting Principles (4th ed.). New York, Chichester, Brisbane, Toronto, Singapore: John Wiley & Sons, Inc. p. 800.
+^ Groppelli, p. 440; Williams, p. 640.
+^ 
+Jump up to:
+a b c Groppelli, p. 441.
+^ 
+Jump up to:
+a b Groppelli, p. 446.
+^ Groppelli, p. 449.
+^ 
+Jump up to:
+a b Groppelli, p. 447.
+External links[edit]
+Stock Valuation Metrics
+show
+vte
+Financial ratios
+Authority control databases: National 	
+Germany"
+Financial Management Using Multiple Accounts,Accounting software,"budgets, perform accounting tasks for multiple currencies, perform payroll and customer relationship management, and prepare financial reporting.[citation...",https://en.wikipedia.org/wiki/Accounting_software,"Not to be confused with Accountability software.
+Example of General Ledger and purchase journal in a Belgian accounting program
+
+Accounting software is a computer program that maintains account books on computers, including recording transactions and account balances. It may depend on virtual thinking. Depending on the purpose, the software can manage budgets, perform accounting tasks for multiple currencies, perform payroll and customer relationship management, and prepare financial reporting.[citation needed] Work to have accounting functions be implemented on computers goes back to the earliest days of electronic data processing.[1] Over time, accounting software has revolutionized from supporting basic accounting operations to performing real-time accounting and supporting financial processing and reporting.[2] Cloud accounting software was first introduced in 2011, and it allowed the performance of all accounting functions through the internet.
+
+Modules[edit]
+
+Accounting software is typically composed of various modules, with different sections dealing with particular areas of accounting. Among the most common are:
+
+Core modules
+Accounts receivable—where the company enters money received
+Accounts payable—where the company enters its bills and pays money it owes
+General ledger—the company's ""books""
+Billing—where the company produces invoices to clients/customers
+Stock/inventory—where the company keeps control of its inventory
+Purchase order—where the company orders inventory
+Sales order—where the company records customer orders for the supply of inventory
+Bookkeeping—where the company records collection and payment
+Financial close management — where accounting teams verify and adjust account balances at the end of a designated time period
+Non-core modules[citation needed]
+Debt collection—where the company tracks attempts to collect overdue bills (sometimes part of accounts receivable)
+Electronic payment processing
+Expense—where employee business-related expenses are entered
+Inquiries—where the company looks up information on screen without any edits or additions
+Payroll—where the company tracks salary, wages, and related taxes
+Reports—where the company prints out data
+Timesheet—where professionals (such as attorneys and consultants) record time worked so that it can be billed to clients
+Purchase requisition—where requests for purchase orders are made, approved and tracked
+Reconciliation—compares records from parties at both sides of transactions for consistency
+Drill down
+Journals
+Departmental accounting
+Support for value added taxation
+Calculation of statutory holdback
+Late payment reminders
+Bank feed integration
+Document attachment system
+Document/Journal approval system
+
+Note that vendors may use differing names for these modules.
+
+Implementation[edit]
+
+In many cases, implementation (i.e. the installation and configuration of the system at the client) can be a bigger consideration than the actual software chosen when it comes down to the total cost of ownership for the business. Most mid-market and larger applications are sold exclusively through resellers, developers, and consultants. Those organizations generally pass on a license fee to the software vendor and then charge the client for installation, customization, and support services. Clients can normally count on paying roughly 50-200% of the price of the software in implementation and consulting fees.[citation needed][3]
+
+Other organizations sell to, consult with, and support clients directly, eliminating the reseller. Accounting software provides many benefits such as speed up the information retrieval process, bring efficiency in Bank reconciliation process, automatically prepare Value Added TAX (VAT) / Goods and Services TAX (GST), and, perhaps most importantly, provide the opportunity to see the real-time state of the company's financial position.[citation needed]
+
+Types[edit]
+Personal accounting[edit]
+See also: Personal finance
+
+Personal accounting software is simple in design and is used mostly for individuals. Some activities that it supports are accounts payable-type accounting transactions, managing budgets, and simple account reconciliation. It is relatively inexpensive compared to the other accounting options. One of the more common uses of personal accounting software is for tax preparation. This software is used to file tax returns in a format suitable with the Internal Revenue Service. An example of such software would be TurboTax.[4]
+
+Low-end market[edit]
+
+At the low-end of the business markets, inexpensive applications software allows most general business accounting functions to be performed. Suppliers frequently serve a single national market, while larger suppliers offer separate solutions in each national market.
+
+Many of the low end products are characterized by being ""single-entry"" products, as opposed to double-entry systems seen in many businesses. Some products have considerable functionality but are not considered GAAP or IFRS/FASB compliant. Some low-end systems do not have adequate security nor audit trails.
+
+Mid-market[edit]
+
+The mid-market covers a wide range of business software that may be capable of serving the needs of multiple national accountancy standards and allow accounting in multiple currencies.
+
+In addition to general accounting functions, the software may include integrated or add-on management information systems, and may be oriented towards one or more markets, for example with integrated or add-on project accounting modules.
+
+Software applications in this market typically include the following features:
+
+Industry-standard robust databases
+Industry-standard reporting tools
+Tools for configuring or extending the application (e.g. an SDK), access to program code.
+High-end market[edit]
+See also: Enterprise resource planning
+
+Accounting software for large organizations was typically the province of mainframe computers. Organizations could either development their own software, modeling their internal financial processes, or buy a commercial package and tailor it to their needs. By the 1970s and 1980s, some of the software companies making accounting packages for the IBM mainframe market were Management Science America, McCormack & Dodge, Walker Interactive Products, Informatics General, and Cullinet Software.[5][6]
+
+Over time, the most complex and expensive business accounting software became frequently part of an extensive suite of software often known as enterprise resource planning (ERP) software. These applications typically have a very long implementation period, often greater than six months. In many cases, these applications are simply a set of functions which require significant integration, configuration and customization to even begin to resemble an accounting system.
+
+Many freeware high-end open-source accounting software are available online these days which aim to change the market dynamics[citation needed]. Most of these software solutions are web-based.
+
+The advantage of a high-end solution is that these systems are designed to support individual company specific processes, as they are highly customizable and can be tailored to exact business requirements. This usually comes at a significant cost in terms of money and implementation time.
+
+Hybrid solutions[edit]
+
+As technology improves, software vendors have been able to offer increasingly advanced software at lower prices. This software is suitable for companies at multiple stages of growth. Many of the features of mid-market and high-end software (including advanced customization and extremely scalable databases) are required even by small businesses as they open multiple locations or grow in size. Additionally, with more and more companies expanding overseas or allowing workers to home office, many smaller clients have a need to connect multiple locations. Their options are to employ software-as-a-service or another application that offers them similar accessibility from multiple locations over the internet.
+
+SaaS accounting software[edit]
+
+With the advent of faster computers and internet connections, accounting software companies have been able to create accounting software which is paid for on a monthly recurring charge instead of a larger upfront license fee (software as a service - SaaS). The rate of adoption of this new business model has increased steadily to the point where legacy players have been forced to come out with their own online versions.
+
+Cloud Accounting Software[edit]
+
+Cloud Accounting Software is where financial information can be accessed from any device connected to the Internet at any time even though the financial data itself is located at a centralized computer. This differs from more traditional accounting software as it is restricted to a certain computer or system of computers and that accounting information can not be easily accessed from other devices. Some reasons cloud accounting software is preferred by users is there is no need to worry about maintenance or hardware system upgrades, it can reduce overall costs, and that a user can gain access from multiple locations. One of the primary reasons cloud accounting software is not being used is the threat of the security of the data.[7]
+
+Data Privacy and Security[edit]
+
+Privacy in cloud computing is in constant risk of disclosure when in possession of a third party. Factors resulting in distrust of privacy include unauthorization, unpredictability, and nonconformity. Security threats vary from different cloud environments and interactions and can cause significant risks that must be considered specific to that origin. Unauthorization is a threat stemming from allowing third party organizations to handle an individual's data and the user not having full control. Lack of user control is the effect of keeping data in the cloud, as opposed to one's own local host, and increases user's level of unpredictability. Legislative complexity impacts cloud computing in where the data is being stored and the laws that data in that location, or locations, must follow. While cloud computing and traditional IT environments may pose differing privacy issues, the security controls are generally similar.[8]
+
+See also[edit]
+Accounting
+Index of accounting articles
+Comparison of accounting software
+Double-entry bookkeeping system
+E-accounting
+Enterprise resource planning
+Tax compliance software
+References[edit]
+^ Kircher, Paul (1955). ""The need for integration of accounting systems and the design of electronic data-processing systems"". Proceedings of the March 1–3, 1955, Western Joint Computer Conference (AFIPS '55 (Western)). Association for Computing Machinery. pp. 26–28. doi:10.1145/1455292.1455297.
+^ Astuty, Widia (2015-06-30). ""An Analysis of the Effects on Application of Management Accounting Information Systems and Quality Management Accounting Information"". Information Management and Business Review. 7 (3): 80–92. doi:10.22610/imbr.v7i3.1156. ISSN 2220-3796.
+^ [unreliable source?]Collins, J. Carlton. ""Implementation Costs"". ASA Research. Retrieved 6 April 2013.
+^ Weber, Richard P.; Madeo, Silvia b. (Spring 1986). ""Tax Software Reviews"". Journal of the American Taxation Association. 7 (2): 86.
+^ Desmond, John (April 22, 1985). ""Softalk: MSA gears up for IBM moves"". Computerworld. pp. 45, 56.
+^ ""After 15 Years, Informatics Confident of Its Survival"". Computerworld. April 25, 1977. p. 52.
+^ Suni, Ritu (April 2018). ""An Empirical Study on Cloud Accounting Awareness and Adoption among Accounting Practitioners in Sri Lanka"". IUP Journal of Accounting Research & Audit Practices. 17 (2): 36–50.
+^ Pearson, Siani (2013). Privacy and Security for Cloud Computing. New York: Springer. pp. 30–38.
+External links[edit]
+Wikimedia Commons has media related to Accounting software.
+vte
+Accounting software
+
+
+Comparison of accounting software
+
+Open-source	
+Non-web	
+GnuCashHomeBankKMyMoneyLedgerRCA Open-Source ApplicationTrytonTurboCASH
+
+Web-based	
+AdempiereApache OFBizCompiereDolibarrERPNextiDempiereIntarSLedgerSMBmetasfreshOdooOpenbravoTryton
+
+Freeware	
+NolaProOutright
+
+Retail	
+AcumaticaAgressoAME Accounting SoftwareAplos SoftwareBanktivityCGram SoftwareCoda FinancialsEclipse ERPFinancialForce.comFortora Fresh FinanceFreeAgentFreshBooksGem AccountsJD EdwardsLiberty AccountsDynamics 365MoneydanceMYOBNetSuiteNewViewsNOSA XPOpen Systems Accounting SoftwareOracle ApplicationsQuickBooksQuickenReckonSage 50cloudSage 300Sage AccountingSage X3Sage IntacctSAP Business OneSAP ERPTally.ERP 9TRAVERSEWave AccountingXeroYou Need a Budget
+
+File formats	
+NV2OFCOFXQCQFXQIFTXTXBRL
+
+
+ Category"
+Financial Management Using Multiple Accounts,Financial risk management,"risk management, however, financial risk management focuses more on when and how to hedge, often using financial instruments to manage costly exposures...",https://en.wikipedia.org/wiki/Financial_risk_management,"Categories of
+Financial risk
+
+Credit risk
+
+Settlement risk
+Concentration risk
+Sovereign risk
+Default risk
+
+Market risk
+
+Interest rate risk
+Inflation risk
+Currency risk
+Equity risk
+Commodity risk
+Volatility risk
+Systemic risk
+
+Liquidity risk
+
+Refinancing risk
+Deposit risk
+Margining risk
+
+Investment risk
+
+Model risk
+Execution risk
+Valuation risk
+
+Business risk
+
+Reputational risk
+Operational risk
+Country risk
+Political risk
+Legal risk
+Moral hazard
+
+Profit risk
+Non-financial risk
+
+Stranded asset
+
+vte
+
+Institutions
+
+American Risk and Insurance Association
+Association of Insurance and Risk Managers in Industry and Commerce
+Global Association of Risk Professionals
+Global Risk Institute
+Institute of Risk Management
+Professional Risk Managers' International Association
+Risk and Insurance Management Society
+
+Certifications
+
+Certified Risk Analyst (CRA)
+Certified Risk Management Professional (RIMS-CRMP)
+Certified Risk Professional (MIRM designation)
+Chartered Enterprise Risk Analyst (CERA; Society of Actuaries)
+Chartered Enterprise Risk Actuary (CERA; Institute and Faculty of Actuaries)
+Financial Risk Manager (FRM)
+Professional Risk Manager (PRM)
+
+Financial risk management is the practice of protecting economic value in a firm by managing exposure to financial risk - principally operational risk, credit risk and market risk, with more specific variants as listed aside. As for risk management more generally, financial risk management requires identifying the sources of risk, measuring these, and crafting plans to mitigate them.[1][2] See Finance § Risk management for an overview.
+
+Financial risk management as a ""science"" can be said to have been born[3] with modern portfolio theory, particularly as initiated by Professor Harry Markowitz in 1952 with his article, ""Portfolio Selection"";[4] see Mathematical finance § Risk and portfolio management: the P world.
+
+The discipline can be qualitative and quantitative; as a specialization of risk management, however, financial risk management focuses more on when and how to hedge,[5] often using financial instruments to manage costly exposures to risk.[6]
+
+In the banking sector worldwide, the Basel Accords are generally adopted by internationally active banks for tracking, reporting and exposing operational, credit and market risks.[7][8]
+Within non-financial corporates,[9][10] the scope is broadened to overlap enterprise risk management, and financial risk management then addresses risks to the firm's overall strategic objectives.
+In investment management[11] risk is managed through diversification and related optimization; while further specific techniques are then applied to the portfolio or to individual stocks as appropriate.
+
+In all cases, the last ""line of defence"" against risk is capital, ""as it ensures that a firm can continue as a going concern even if substantial and unexpected losses are incurred"".[12]
+
+Economic perspective[edit]
+
+Neoclassical finance theory - i.e., financial economics - prescribes that a firm should take on a project if it increases shareholder value.[13] Finance theory also shows that firm managers cannot create value for shareholders or investors by taking on projects that shareholders could do for themselves at the same cost; see Theory of the firm and Fisher separation theorem.
+
+There is therefore a fundamental debate relating to ""Risk Management"" and shareholder value.[5][14][15] The discussion essentially weighs the value of risk management in a market versus the cost of bankruptcy in that market: per the Modigliani and Miller framework, hedging is irrelevant since diversified shareholders are assumed to not care about firm-specific risks, whereas, on the other hand hedging is seen to create value in that it reduces the probability of financial distress.
+
+When applied to financial risk management, this implies that firm managers should not hedge risks that investors can hedge for themselves at the same cost.[5] This notion is captured in the so-called ""hedging irrelevance proposition"":[16] ""In a perfect market, the firm cannot create value by hedging a risk when the price of bearing that risk within the firm is the same as the price of bearing it outside of the firm.""
+
+In practice, however, financial markets are not likely to be perfect markets.[17][18][19][20] This suggests that firm managers likely have many opportunities to create value for shareholders using financial risk management, wherein they have to determine which risks are cheaper for the firm to manage than the shareholders. Here, market risks that result in unique risks for the firm are commonly the best candidates for financial risk management.[21]
+
+Application[edit]
+
+As outlined, businesses are exposed, in the main, to market, credit and operational risk. A broad distinction[12] exists though, between financial institutions and non-financial firms - and correspondingly, the application of risk management will differ. Respectively:[12] For Banks and Fund Managers, ""credit and market risks are taken intentionally with the objective of earning returns, while operational risks are a byproduct to be controlled"". For non-financial firms, the priorities are reversed, as ""the focus is on the risks associated with the business"" - ie the production and marketing of the services and products in which expertise is held - and their impact on revenue, costs and cash flow, ""while market and credit risks are usually of secondary importance as they are a byproduct of the main business agenda"". (See related discussion re valuing financial services firms as compared to other firms.) In all cases, as above, risk capital is the last ""line of defence"".
+
+Banking[edit]
+The 5% Value at Risk of a hypothetical profit-and-loss probability density function
+Specific banking frameworks
+Market risk
+
+FRTB
+Internal models approach (IMA)
+Standardized approach (market risk)
+
+Credit risk
+
+Internal ratings-based approach (IRB)
+Foundation IRB (F-IRB)
+Advanced IRB (A-IRB)
+Standardized approach (credit risk)
+
+Counterparty credit risk
+
+Current exposure method (CEM)
+Standardised method (SM)
+Standardized approach (counterparty credit risk) (SA-CCR)
+
+Operational risk
+
+Advanced measurement approach (AMA)
+Basic indicator approach
+Standardized approach (operational risk)
+Standardised measurement approach (SMA)
+
+vte
+Further information: Bank § Capital and risk, Investment banking § Risk management, and Shadow banking system § Risks or vulnerability
+See also: Derivative (finance) § Risks, Interest rate swap § Risks, Option (finance) § Risks, Value at risk § VaR risk management, and Corporate bond § Risk analysis
+
+Banks and other wholesale institutions face various financial risks in conducting their business, and how well these risks are managed and understood is a key driver [22] behind profitability, as well as of the quantum of capital they are required to hold.[23] Financial risk management in banking has thus grown markedly in importance since the Financial crisis of 2007–2008.[24] (This has given rise[24] to dedicated degrees and professional certifications.)
+
+The major focus here is on credit and market risk, and especially through regulatory capital, includes operational risk. Credit risk is inherent in the business of banking, but additionally, these institutions are exposed to counterparty credit risk. Both are to some extent offset by margining and collateral; and the management is of the net-position. Large banks are also exposed to Macroeconomic systematic risk - risks related to the aggregate economy the bank is operating in[25] (see Too big to fail).
+
+The discipline[26][27][7][8] is, as outlined, simultaneously concerned with (i) managing, and as necessary hedging, the various positions held by the institution - both trading positions and long term exposures; and (ii) calculating and monitoring the resultant economic capital, as well as the regulatory capital under Basel III — which covers also leverage and liquidity — with regulatory capital as a floor.
+
+Correspondingly, and broadly, the analytics [27][26] are based as follows: For (i) on the ""Greeks"", the sensitivity of the price of a derivative to a change in its underlying factors; as well as on the various other measures of sensitivity, such as DV01 for the sensitivity of a bond or swap to interest rates, and CS01 or JTD for exposure to credit spread. For (ii) on value at risk, or ""VaR"", an estimate of how much the investment or area in question might lose with a given probability in a set time period, with the bank holding ""economic""- or “risk capital” correspondingly; common parameters are 99% and 95% worst-case losses - i.e. 1% and 5% - and one day and two week (10 day) horizons.[28] These calculations are mathematically sophisticated, and within the domain of quantitative finance.
+
+The regulatory capital quantum is calculated via specified formulae: risk weighting the exposures per highly standardized asset-categorizations, applying the aside frameworks, and the resultant capital — at least 12.9%[29] of these Risk-weighted assets (RWA) — must then be held in specific ""tiers"" and is measured correspondingly via the various capital ratios. In certain cases, banks are allowed to use their own estimated risk parameters here; these ""internal ratings-based models"" typically result in less required capital, but at the same time are subject to strict minimum conditions and disclosure requirements. As mentioned, additional to the capital covering RWA, the aggregate balance sheet will require capital for leverage and liquidity; this is monitored via[30] the LR, LCR, and NSFR ratios.
+
+The financial crisis exposed holes in the mechanisms used for hedging (see Fundamental Review of the Trading Book § Background, Tail risk § Role of the global financial crisis (2007-2008), Value at risk § Criticism, and Basel III § Criticism). As such, the methodologies employed have had to evolve, both from a modelling point of view, and in parallel, from a regulatory point of view.
+
+Regarding the modelling, changes corresponding to the above are: (i) For the daily direct analysis of the positions at the desk level, as a standard, measurement of the Greeks now inheres the volatility surface — through local- or stochastic volatility models — while re interest rates, discounting and analytics are under a ""multi-curve framework"". Derivative pricing now embeds considerations re counterparty risk and funding risk, amongst others,[31] through the CVA and XVA ""valuation adjustments""; these also carry regulatory capital. (ii) For Value at Risk, the traditional parametric and ""Historical"" approaches, are now supplemented[32][27] with the more sophisticated Conditional value at risk / expected shortfall, Tail value at risk, and Extreme value theory. For the underlying mathematics, these may utilize mixture models, PCA, volatility clustering, copulas, and other techniques.[33] Extensions to VaR include Margin-, Liquidity-, Earnings- and Cash flow at risk, as well as Liquidity-adjusted VaR. For both (i) and (ii), model risk is addressed[34] through regular validation of the models used by the bank's various divisions; for VaR models, backtesting is especially employed.
+
+Regulatory changes, are also twofold. The first change, entails an increased emphasis[35] on bank stress tests.[36] These tests, essentially a simulation of the balance sheet for a given scenario, are typically linked to the macroeconomics, and provide an indicator of how sensitive the bank is to changes in economic conditions, whether it is sufficiently capitalized, and of its ability to respond to market events. The second set of changes, sometimes called ""Basel IV"", entails the modification of several regulatory capital standards (CRR III is the EU implementation). In particular FRTB addresses market risk, and SA-CCR addresses counterparty risk; other modifications are being phased in from 2023.
+
+To operationalize the above, Investment banks, particularly, employ dedicated ""Risk Groups"", i.e. Middle office teams monitoring the firm's risk-exposure to, and the profitability and structure of, its various businesses, products, asset classes, desks, and / or geographies.[37] By increasing order of aggregation:
+
+Financial institutions will set[38][26][39] limit values for each of the Greeks, or other sensitivities, that their traders must not exceed, and traders will then hedge, offset, or reduce periodically if not daily; see the techniques listed below. These limits are set given a range [40] of plausible changes in prices and rates, coupled with the board-specified risk appetite[41] re overnight-losses.[42]
+Desks, or areas, will similarly be limited as to their VaR quantum (total or incremental, and under various calculation regimes), corresponding to their allocated [43] economic capital; a loss which exceeds the VaR threshold is termed a ""VaR breach"". RWA is correspondingly monitored from desk level[38] and upward.
+Each area's (or desk's) concentration risk will be checked[44][37][45] against thresholds set for various types of risk, and / or re a single counterparty, sector or geography.
+Leverage will be monitored, at very least re regulatory requirements, LR, as leveraged positions could lose large amounts for a relatively small move in the price of the underlying.
+Relatedly,[30] liquidity risk is monitored: LCR measures the ability of the bank to survive a short-term stress, covering its total net cash outflows over the next 30 days with ""high quality liquid assets""; NSFR assesses its ability to finance assets and commitments within a year. Any ""gaps"", also, must be managed.[46]
+Systemically Important Banks hold additional capital such that their total loss absorbency capacity, TLAC, is sufficient[47] given both RWA and leverage. (See also ""MREL""[48] for EU institutions.)
+
+Periodically,[49] these all are estimated under a given stress scenario — regulatory and,[50] often, internal — and risk capital, [22] together with these limits if indicated,[22][51] is correspondingly revisited (or optimized[52]). Here, more generally, these tests provide estimates for scenarios beyond the VaR thresholds, thus “preparing for anything that might happen, rather than worrying about precise likelihoods"".[53] The approaches taken center either on a hypothetical or historical scenario,[35][27] and may apply increasingly sophisticated mathematics[54][27] to the analysis.
+
+A key practice,[55] incorporating and assimilating the above, is to assess the Risk-adjusted return on capital, RAROC, of each area (or product). Here,[56] ""economic profit"" is divided by allocated-capital; and this result is then compared[56][23] to the target-return for the area — usually, at least the equity holders' expected returns on the bank stock[56] — and identified under-performance can then be addressed. (See similar below re. DuPont analysis.) The numerator, risk-adjusted return, is realized trading-return less a term and risk appropriate funding cost as charged by Treasury to the business-unit under the bank's funds transfer pricing (FTP) framework;[57] direct costs are (sometimes) also subtracted.[55] The denominator is the area's allocated capital, as above, increasing as a function of position risk;[58][59][55] several allocation techniques exist.[43] RAROC is calculated both ex post as discussed, used for performance evaluation (and related bonus calculations), and ex ante - i.e. expected return less expected loss - to decide whether a particular business unit should be expanded or contracted.[60]
+
+Other teams, overlapping the above Groups, are then also involved in risk management. Corporate Treasury is responsible for monitoring overall funding and capital structure; it shares responsibility for monitoring liquidity risk, and for maintaining the FTP framework. Middle Office maintains the following functions also: Product Control is primarily responsible for insuring traders mark their books to fair value — a key protection against rogue traders — and for ""explaining"" the daily P&L; with the ""unexplained"" component, of particular interest to risk managers. Credit Risk monitors the bank's debt-clients on an ongoing basis, re both exposure and performance. In the Front Office, specialized XVA-desks are tasked with centrally monitoring and managing overall CVA and XVA exposure and capital, typically with oversight from the appropriate Group.[31]
+
+Performing the above tasks — while simultaneously ensuring that computations are consistent[61] over the various areas, products, teams, and measures — requires that banks maintain a significant investment[62] in sophisticated infrastructure, finance / risk software, and dedicated staff. Risk software often deployed is from FIS, Kamakura, Murex, Numerix and Refinitiv. Large institutions may prefer systems developed entirely ""in house"" - notably[63] Goldman Sachs (""SecDB""), JP Morgan (""Athena""), Jane Street, Barclays (""BARX""), BofA (""Quartz"") - while, more commonly, the pricing library will be developed internally, especially as this allows for currency re new products or market features.
+
+Corporate finance[edit]
+Contribution analytics: Profit and Loss for units sold at current fixed costs.
+The same, for varying (scenario-based) Revenue levels, at current Fixed and Total costs.
+Further information: Corporate finance § Financial risk management
+See also: Asset and liability management, Treasury management, Strategic financial management, and Managerial risk accounting
+
+In corporate finance, and financial management more generally,[64][10] financial risk management, as above, is concerned with business risk - risks to the business’ value, within the context of its business strategy and capital structure.[65] The scope here - ie in non-financial firms[12] - is thus broadened[9][66][67] (re banking) to overlap enterprise risk management, and financial risk management then addresses risks to the firm's overall strategic objectives, incorporating various (all) financial aspects[68] of the exposures and opportunities arising from business decisions, and their link to the firm’s appetite for risk, as well as their impact on share price. In many organizations, risk executives are therefore involved in strategy formulation: ""the choice of which risks to undertake through the allocation of its scarce resources is the key tool available to management.""[69]
+
+Re the standard framework,[68] then, the discipline largely focuses on operations, i.e. business risk, as outlined. Here, the management is ongoing[10] — see following description — and is coupled with the use of insurance,[70] managing the net-exposure as above: credit risk is usually addressed via provisioning and credit insurance; likewise, where this treatment is deemed appropriate, specifically identified operational risks are also insured.[67] Market risk, in this context,[12] is concerned mainly with changes in commodity prices, interest rates, and foreign exchange rates, and any adverse impact due to these on cash flow and profitability, and hence share price.
+
+Correspondingly, the practice here covers two perspectives; these are shared with corporate finance more generally:
+
+Both risk management and corporate finance share the goal of enhancing, or at least preserving, firm value.[64] Here,[9][68] businesses devote much time and effort to (short term) liquidity-, cash flow- and performance monitoring, and Risk Management then also overlaps cash- and treasury management, especially as impacted by capital and funding as above. More specifically re business-operations, management emphasizes their break even dynamics, contribution margin and operating leverage, and the corresponding monitoring and management of revenue, of costs, and of other budget elements. The DuPont analysis entails a ""decomposition"" of the firm's return on equity, ROE, allowing management to identify and address specific areas of concern,[71] preempting any underperformance vs shareholders' required return.[72] In larger firms, specialist Risk Analysts complement this work with model-based analytics more broadly;[73][74] in some cases, employing sophisticated stochastic models,[74][75] in, for example, financing activity prediction problems, and for risk analysis ahead of a major investment.
+Firm exposure to long term market (and business) risk is a direct result of previous capital investment decisions. Where applicable here[12][68][64] — usually in large corporates and under guidance from[76] their investment bankers — risk analysts will manage and hedge[70] their exposures using traded financial instruments to create commodity-,[77][78] interest rate-[79][80] and foreign exchange hedges[81][82] (see further below). Because company specific, ""over-the-counter"" (OTC) contracts tend to be costly to create and monitor — i.e. using financial engineering and / or structured products — ”standard” derivatives that trade on well-established exchanges are often preferred.[14][68] These comprise options, futures, forwards, and swaps; the ""second generation"" exotic derivatives usually trade OTC. Complementary to this hedging, periodically, Treasury may also adjust the capital structure, reducing financial leverage - i.e. repaying debt-funding - so as to accommodate increased business risk; they may also suspend dividends.[83]
+
+Multinational corporations are faced with additional challenges, particularly as relates to foreign exchange risk, and the scope of financial risk management modifies significantly in the international realm.[81] Here, dependent on time horizon and risk sub-type — transactions exposure[84] (essentially that discussed above), accounting exposure,[85] and economic exposure[86] — so the corporate will manage its risk differently. The forex risk-management discussed here and above, is additional to the per transaction ""forward cover"" that importers and exporters purchase from their bank (alongside other trade finance mechanisms).
+
+Hedging-related transactions will attract their own accounting treatment, and corporates (and banks) may then require changes to systems, processes and documentation;[87][88] see Hedge accounting, Mark-to-market accounting, Hedge relationship, Cash flow hedge, IFRS 7, IFRS 9, IFRS 13, FASB 133, IAS 39, FAS 130.
+
+It is common for large corporations to have dedicated risk management teams — typically within FP&A or corporate treasury — reporting to the CRO; often these overlap the internal audit function (see Three lines of defence). For small firms, it is impractical to have a formal risk management function, but these typically apply the above practices, at least the first set, informally, as part of the financial management function; see discussion under Financial analyst.
+
+The discipline relies on a range of software,[89] correspondingly, from spreadsheets (invariably as a starting point, and frequently in total[90]) through commercial EPM and BI tools, often BusinessObjects (SAP), OBI EE (Oracle), Cognos (IBM), and Power BI (Microsoft).
+
+Investment management[edit]
+Further information: Portfolio optimization, Active management, and Passive management
+See also: Post-modern portfolio theory and Financial economics § Portfolio theory
+Efficient Frontier. The hyperbola is sometimes referred to as the ""Markowitz bullet"", and its upward sloped portion is the efficient frontier if no risk-free asset is available. With a risk-free asset, the straight capital allocation line is the efficient frontier.
+Here maximizing return and minimizing risk such that the portfolio is Pareto efficient (Pareto-optimal points in red).
+
+Fund managers, classically,[91] define the risk of a portfolio as its variance[11] (or standard deviation), and through diversification the portfolio is optimized so as to achieve the lowest risk for a given targeted return, or equivalently the highest return for a given level of risk; these risk-efficient portfolios form the ""Efficient frontier"" (see Markowitz model). The logic here is that returns from different assets are highly unlikely to be perfectly correlated, and in fact the correlation may sometimes be negative. In this way, market risk particularly, and other financial risks such as inflation risk (see below) can at least partially be moderated by forms of diversification.
+
+A key issue, however, is that the (assumed) relationships are (implicitly) forward looking. As observed in the late-2000s recession, historic relationships can break down, resulting in losses to market participants believing that diversification would provide sufficient protection (in that market, including funds that had been explicitly set up to avoid being affected in this way[92]). A related issue is that diversification has costs: as correlations are not constant it may be necessary to regularly rebalance the portfolio, incurring transaction costs, negatively impacting investment performance;[93] and as the fund manager diversifies, so this problem compounds (and a large fund may also exert market impact). See Modern portfolio theory § Criticisms.
+
+Addressing these issues, more sophisticated approaches have been developed, both to defining risk, and to the optimization itself. (Respective examples: (tail) risk parity, focuses on allocation of risk, rather than allocation of capital; the Black–Litterman model modifies the ""Markowitz optimization"", to incorporate the views of the portfolio manager.[94]) Relatedly, modern financial risk modeling employs a variety of techniques — including value at risk, historical simulation, stress tests, and extreme value theory — to analyze the portfolio and to forecast the likely losses incurred for a variety of risks and scenarios.
+
+Here, guided by the analytics, Fund Managers (and traders) will apply specific risk hedging techniques.[91][11] As appropriate, these may relate to the portfolio as a whole or to individual holdings:
+
+To protect the overall portfolio, [95] Fund Managers may sell the Stock market index future or buy puts on the Stock market index option;[96] [97] the respective sensitivities, portfolio beta and option delta, determine the number of hedge-contracts required [95] For both, the logic is that the (diversified) portfolio is likely highly correlated with the stock index it is part of: thus if the portfolio-value declines, the index will have declined likewise with the derivative holder profiting correspondingly.[95] Fund managers may (instead) engage in ""portfolio insurance"", a dynamic hedging process that involves selling index futures during periods of decline and using the proceeds to offset portfolio losses.
+Fund managers, or traders, may also wish to hedge a specific stock's price. Here, they may likewise[95] buy a single-stock put, or sell a single-stock future. Alternative strategies may rely on assumed relationships between related stocks, employing, for example, a ""Long/short"" strategy.
+Bond portfolios, when e.g. a component of an Asset-allocation fund or other diversified portfolio, are typically managed similar to equity above: the Fund Manager will hedge her bond allocation with bond index futures or options; with the number of contracts, a function of duration .[98][99][95] In other contexts, the concern may be the net-obligation or net-cashflow. Here the fund manager employs Interest rate immunization or cashflow matching. Immunization is a strategy that ensures that a change in interest rates will not affect the value of a fixed-income portfolio (an increase in rates results in a decreased instrument value). It is often used to ensure that the value of a pension fund's assets (or an asset manager's fund) increase or decrease in an exactly opposite fashion to their liabilities, thus leaving the value of the pension fund's surplus (or firm's equity) unchanged, regardless of changes in the interest rate. Cashflow matching is similarly a process of hedging in which a company or other entity matches its cash outflows - i.e., financial obligations - with its cash inflows over a given time horizon. See also Laddering.[100]
+For individual bonds and other fixed income securities, specific credit and interest rate risks can be hedged[95] using interest rate- and credit derivatives. Sensitivities re interest rates are measured using duration and convexity for bonds, and DV01 and key rate durations generally, and an offsetting derivative-position is purchased. For credit risk,[101] sensitivities are measured via CS01, while analysts use models such as Jarrow–Turnbull and KMV to estimate the (risk neutral[102]) probability of default, hedging where appropriate, usually via CDS. Probabilities (actuarial) may also be obtained from Bond credit ratings; then, often at a portfolio level — e.g. for credit-VaR — analysts will use a transition matrix of these [103] to estimate the probability and impact of a ""credit migration"",[104][105] aggregating the bond-by-bond result. Interest rate- and credit risk together, may be hedged via a Total return swap. See Fixed income analysis
+For derivative portfolios, and positions, the Greeks are a vital risk management tool: as above, these measure sensitivity to a small change in a given underlying price, rate, or parameter, and the portfolio is then rebalanced accordingly[95] by including additional derivatives with offsetting characteristics, or by purchasing or selling specified units of the underlying security.
+
+Further, and more generally, various safety-criteria may guide overall portfolio construction. The Kelly criterion [106] will suggest - i.e. limit - the size of a position that an investor should hold in her portfolio. Roy's safety-first criterion[107] minimizes the probability of the portfolio's return falling below a minimum desired threshold. Chance-constrained portfolio selection similarly seeks to ensure that the probability of final wealth falling below a given ""safety level"" is acceptable.
+
+Managers may also employ factor models [108] (generically APT) to measure exposure to macroeconomic and market risk factors using time series regression. Ahead of an anticipated movement in any of these factors, the Manager may then, as indicated, reduce holdings, hedge, or purchase offsetting exposure. Inflation for example, although impacting all securities, [109] can be managed [110] [111] at the portfolio level by appropriately [112] increasing exposure to inflation-sensitive stocks, and / or by investing in tangible assets, commodities and inflation-linked bonds; the latter may also provide a direct hedge. [113]
+
+In parallel with all above, [114][115] managers — active and passive — periodically monitor and manage tracking error, i.e. underperformance vs a ""benchmark"". Here, they will use attribution analysis preemptively so as to diagnose the source early, and to take corrective action: realigning, often factor-wise, on the basis of this ""feedback"". [115] [116] As relevant, they will similarly use style analysis to address style drift. See also Fixed-income attribution.
+
+Given the complexity of these analyses and techniques, Fund Managers typically rely on sophisticated software (as do banks, above). Widely used platforms are provided by BlackRock (Aladdin), Refinitiv (Eikon), Finastra, Murex, Numerix, MPI and Morningstar.
+
+See also[edit]
+Articles
+Outline of finance § Risk management
+Discussion
+Asset and liability management
+Basel III: Finalising post-crisis reforms
+Corporate governance
+Enterprise risk management
+Finance § Risk management
+Risk management § Finance
+Lists
+economic crises
+asset bubbles
+stock market crashes and bear markets
+trading losses
+corporate collapses and scandals
+accounting scandals
+banking crises
+bank runs
+largest U.S. bank failures
+bank failures in the United States (2008–present)
+Bibliography[edit]
+
+Financial institutions
+
+Allen, Steve L. (2012). Financial Risk Management: A Practitioner's Guide to Managing Market and Credit Risk (2 ed.). John Wiley. ISBN 978-1118175453.
+Coleman, Thomas (2011). A Practical Guide to Risk Management (PDF). CFA Institute. ISBN 978-1-934667-41-5.
+Crockford, Neil (1986). An Introduction to Risk Management (2 ed.). Woodhead-Faulkner. ISBN 0-85941-332-2.
+Crouhy, Michel; Galai, Dan; Mark, Robert (2013). The Essentials of Risk Management (2 ed.). McGraw-Hill Professional. ISBN 9780071818513.
+Christoffersen, Peter (2011). Elements of Financial Risk Management (2 ed.). Academic Press. ISBN 978-0-12-374448-7.
+Farid, Jawwad Ahmed (2013). Models at Work: A Practitioner's Guide to Risk Management. Palgrave Macmillan. ISBN 978-1137371638.
+Hull, John (2023). Risk Management and Financial Institutions (6 ed.). John Wiley. ISBN 978-1-119-93248-2.
+McNeil, Alexander J.; Frey, Rüdiger; Embrechts, Paul (2015), Quantitative Risk Management. Concepts, Techniques and Tools, Princeton Series in Finance (revised ed.), Princeton, NJ: Princeton University Press, ISBN 9780691166278, MR 2175089, Zbl 1089.91037
+Miller, Michael B. (2019). Quantitative Financial Risk Management. John Wiley. ISBN 9781119522201.
+Roncalli, Thierry (2020). Handbook of Financial Risk Management. Chapman & Hall. ISBN 9781138501874.
+Tapiero, Charles (2004). Risk and Financial Management: Mathematical and Computational Methods. John Wiley & Son. ISBN 0-470-84908-8.
+van Deventer; Donald R.; Kenji Imai; Mark Mesler (2004). Advanced Financial Risk Management: Tools and Techniques for Integrated Credit Risk and Interest Rate Risk Management. John Wiley. ISBN 978-0-470-82126-8.
+Wernz, Johannes (2021). Bank Management and Control: Strategy, Pricing, Capital and Risk Management (2 ed.). Springer. ISBN 978-3030428686.
+
+Corporations
+
+Baranoff, Etti; Brockett, Patrick; Kahane, Yehuda (2009). Risk Management for Enterprises and Individuals. Saylor. ISBN 9780982361801.
+Blunden, Tony; Thirlwell, John (2021). Mastering Risk Management. FT Publishing International. ISBN 978-1292331317.
+Damodaran, Aswath (2007). Strategic Risk Taking: A Framework for Risk Management. FT Press. ISBN 978-0137043774.
+García, Francisco J. P. (2017). Financial Risk Management: Identification, Measurement and Management. Palgrave Macmillan. ISBN 978-3-319-41365-5.
+Hampton, John (2011). The AMA Handbook of Financial Risk Management. American Management Association. ISBN 978-0814417447.
+Lam, James (2003). Enterprise Risk Management: From Incentives to Controls. John Wiley. ISBN 978-0-471-43000-1.
+Myint, Stanley; Famery, Fabrice (2019). The Handbook of Corporate Financial Risk Management. Risk Books. ISBN 978-1782723929.
+
+Portfolios
+
+Baker, H. Kent; Filbeck, Greg (2015). Investment Risk Management. Oxford Academic. ISBN 978-0199331963.
+Cowell, Frances (2013). Risk-Based Investment Management in Practice. Palgrave Macmillan. ISBN 978-1-137-34639-1.
+Fabozzi, Frank J.; Sergio M. Focardi; Petter N. Kolm (2004). Financial Modeling of the Equity Market: From CAPM to Cointegration. Hoboken, NJ: Wiley. ISBN 0-471-69900-4.
+Fabozzi, Frank J.; Petter N. Kolm; Dessislava Pachamanova; Sergio M. Focardi (2007). Robust Portfolio Optimization and Management. Hoboken, New Jersey: John Wiley & Sons. ISBN 978-0-471-92122-6
+Grinold, Richard; Kahn, Ronald (1999). Active Portfolio Management: A Quantitative Approach for Producing Superior Returns and Controlling Risk (2nd ed.). McGraw Hill. ISBN 978-0070248823.
+Harvey, Campbell; Rattray, Sandy; Van Hemert, Otto (2021). Strategic Risk Management: Designing Portfolios and Managing Risk. Wiley Finance. ISBN 978-1119773917.
+Maginn, John L.; Tuttle, Donald L.; Pinto, Jerald E.; McLeavey, Dennis W. (2007). Managing Investment Portfolios: A Dynamic Process (3rd ed.). Springer. ISBN 978-0470080146.
+Paleologo, Giuseppe A. (2021). Advanced Portfolio Management: A Quant's Guide for Fundamental Investors (1st ed.). Wiley. ISBN 978-1119789796.
+Rasmussen, M. (2003). Quantitative Portfolio Optimisation, Asset Allocation and Risk Management. Palgrave Macmillan. ISBN 978-1403904584.
+Schulmerich, Marcus; Leporcher, Yves-Michel; Eu, Ching-Hwa (2015). Applied Asset and Risk Management. Springer. ISBN 978-3642554438.
+References[edit]
+^ Peter F. Christoffersen (22 November 2011). Elements of Financial Risk Management. Academic Press. ISBN 978-0-12-374448-7.
+^ Financial Risk Management, Finance Glossary. Gartnergartner.com
+^ W. Kenton (2021). ""Harry Markowitz"", investopedia.com
+^ Markowitz, H.M. (March 1952). ""Portfolio Selection"". The Journal of Finance. 7 (1): 77–91. doi:10.2307/2975974. JSTOR 2975974.
+^ a b c See § ""Does Corporate Risk Management Create Value?"" in Capital Budgeting Applications and Pitfalls. Ch 13 of Ivo Welch (2022). Corporate Finance, 5 Ed. IAW Publishers. ISBN 978-0984004904
+^ Allan M. Malz (13 September 2011). Financial Risk Management: Models, History, and Institutions. John Wiley & Sons. ISBN 978-1-118-02291-7.
+^ a b Van Deventer, Nicole L, Donald R., and Kenji Imai. Credit risk models and the Basel Accords. Singapore: John Wiley & Sons (Asia), 2003.
+^ a b Drumond, Ines. ""Bank capital requirements, business cycle fluctuations and the Basel Accords: a synthesis."" Journal of Economic Surveys 23.5 (2009): 798-830.
+^ a b c John Hampton (2011). The AMA Handbook of Financial Risk Management. American Management Association. ISBN 978-0814417447
+^ a b c Jayne Thompson (2019). What Is Financial Risk Management?, chron.com
+^ a b c Will Kenton (2023). What Is Risk Management in Finance, and Why Is It Important?, investopedia.com
+^ a b c d e f See ""Market Risk Management in Non-financial Firms"", in Carol Alexander, Elizabeth Sheedy eds. (2015). The Professional Risk Managers’ Handbook 2015 Edition. PRMIA. ISBN 978-0976609704
+^ See for example, ""Corporate Finance: First Principles"", in Aswath Damodaran (2014). Applied Corporate Finance. Wiley. ISBN 978-1118808931
+^ a b Jonathan Lewellen (2003). Financial Management - Risk Management. MIT OCW
+^ Why Corporations Hedge; Ch 3.7 in Baranoff et. al.
+^ KRISHNAMURTI CHANDRASEKHAR; Krishnamurti & Viswanath (eds.) ""; Vishwanath S. R. (2010-01-30). Advanced Corporate Finance. PHI Learning Pvt. Ltd. pp. 178–. ISBN 978-81-203-3611-7.
+^ John J. Hampton (1982). Modern Financial Theory: Perfect and Imperfect Markets. Reston Publishing Company. ISBN 978-0-8359-4553-0.
+^ Zahirul Hoque (2005). Handbook of Cost and Management Accounting. Spiramus Press Ltd. pp. 201–. ISBN 978-1-904905-01-1.
+^ Kirt C. Butler (28 August 2012). Multinational Finance: Evaluating Opportunities, Costs, and Risks of Operations. John Wiley & Sons. pp. 37–. ISBN 978-1-118-28276-2.
+^ Dietmar Franzen (6 December 2012). Design of Master Agreements for OTC Derivatives. Springer Science & Business Media. pp. 7–. ISBN 978-3-642-56932-6.
+^ Corporate Finance: Part I. Bookboon. pp. 32–. ISBN 978-87-7681-568-4.
+^ a b c Office of the Comptroller of the Currency (2019). Comptroller’s Handbook: ""Corporate and Risk Governance""
+^ a b Fadi Zaher (2022). Using Economic Capital to Determine Risk, investopedia.
+^ a b The Rise of the Chief Risk Officer, Institutional Investor (March 2017).
+^ Bolt, Wilko; Haan, Leo de; Hoeberichts, Marco; Oordt, Maarten van; Swank, Job (September 2012). ""Bank Profitability during Recessions"" (PDF). Journal of Banking & Finance. 36 (9): 2552–64. doi:10.1016/j.jbankfin.2012.05.011. Archived from the original (PDF) on 2020-10-03. Retrieved 2022-03-22.
+^ a b c Martin Haugh (2016). ""Basic Concepts and Techniques of Risk Management"". Columbia University
+^ a b c d e Roy E. DeMeo (N.D.) ""Quantitative Risk Management: VaR and Others"". UNC Charlotte
+^ Pearson, Neil (2002). Risk Budgeting: Portfolio Problem Solving with Value-at-Risk. John Wiley & Sons. ISBN 978-0-471-40556-6.
+^ Steven Nickolas (2023). ""Tier 1 Capital vs. Tier 2 Capital"", Investopedia
+^ a b PwC (2016). An overview of the LCR, NSFR and LR
+^ a b International Association of Credit Portfolio Managers (2018). ""The Evolution of XVA Desk Management""
+^ Saunders, Anthony; Allen, Linda (2010). Credit Risk Management In and Out of the Financial Crisis: New Approaches to Value at Risk and Other Paradigms. Hoboken, NJ: John Wiley & Sons. ISBN 978-0-470-62236-0.
+^ See for example III.A.3, in Carol Alexander, ed. (January 2005). The Professional Risk Managers' Handbook. PRMIA Publications. ISBN 978-0976609704
+^ Riccardo Rebonato (N.D.). Theory and Practice of Model Risk Management.
+^ a b Troy Segal (2021). ""What Is a Bank Stress Test? How It Works, Benefits, and Criticism"", Investopedia
+^ Basel Committee on Banking Supervision (2009). ""Principles for sound stress testing practices and supervision""
+^ a b International Association of Credit Portfolio Managers (2022). ""Risk mitigation techniques in credit portfolio management""
+^ a b Bank for International Settlements (2019). MAR12 - Definition of trading desk
+^ Open Risk Manual (2021). ""Risk Limit""
+^ Bank for International Settlements (2001). Principles for the Management and Supervision of Interest Rate Risk
+^ Open Risk Manual (2021). ""Limit framework""
+^ Staff (2023). ""Mitigating Overnight Position Volatility"". fastercapital.com
+^ a b Guo, Qiheng, Daniel Bauer, and George H. Zanjani. 2021. “Capital Allocation Techniques: Review and Comparison.” Variance 14 (2).
+^ Basel Committee on Banking Supervision (1999). ""Risk Concentrations Principles""
+^ ""Principles for the Management of Concentration Risk"" (PDF). Malta Financial Services Authority. 2010.
+^ Bank for International Settlements (2016). Interest rate risk in the banking book
+^ Bank for International Settlements (2017). TLAC – Executive Summary
+^ ""Minimum Requirement for own funds and Eligible Liabilities""; see MREL, treasurers.org
+^ Basel Committee on Banking Supervision (2009). ""Range of practices and issues in economic capital frameworks""
+^ KPMG (2016).""Stress testing - A benchmark analysis of systemically important financial institutions""
+^ Financial Stability Board (2013). ""Principles for An Effective Risk Appetite Framework""
+^ KPMG (2017). ""Balance sheet optimisation:the returns dilemma for banks""
+^ David Aldous (2016). Review of Financial Risk Management... for Dummies
+^ Li Ong (2014). ""A Guide to IMF Stress Testing Methods and Models"", International Monetary Fund
+^ a b c Michel Crouhy (2006). ""Risk Management, Capital Attribution and Performance Measurement""
+^ a b c J Skoglund (2010). ""Funds Transfer Pricing and Risk Adjusted Performance Measurement"". SAS Institute.
+^ Wolters Kluwer (2021). ""Enhancing fund transfer pricing systems""
+^ Karen Moss (2018). ""Funds-transfer-pricing in Banks: what are the main drivers?"". Moodys Analytics
+^ James Chen (2021). Risk-Adjusted Return on Capital (RAROC) Explained & Formula, Investopedia
+^ See ""Economic Capital and RAROC"", Chapter 28 in Hull, John (2023).
+^ Michael Gibson (1997). ""Information systems for risk management"". Federal Reserve Board
+^ See e.g. ""Build vs Buy"" in Holton, G. (2013). Value-at-Risk: Theory and Practice, Second Edition
+^ Sarah Butcher (2017). ""The $bn struggle to replicate Goldman Sachs' special powers"", efinancialcareers.com
+^ a b c Risk Management and the Financial Manager. Ch. 20 in Julie Dahlquist, Rainford Knight, Alan S. Adams (2022). Principles of Finance. OpenStax, Rice University. ISBN 9781951693541.
+^ Will Kenton (2022). ""Business Risk"", Investopedia
+^ Stanley Myint (2022). Introduction to Corporate Financial Risk Management. PRMIA Thought Leadership Webinar
+^ a b ""Risk Management and the Firm’s Financial Statement — Opportunities within the ERM"" in Esther Baranoff, Patrick Brockett, Yehuda Kahane (2012). Risk Management for Enterprises and Individuals. Saylor Academy
+^ a b c d e Margaret Woods and Kevin Dowd (2008). Financial Risk Management for Management Accountants, Chartered Institute of Management Accountants
+^ Don Chance and Michael Edleson (2021). Introduction to Risk Management. Ch 10 in ""Derivatives"". CFA Institute Investment Series. ISBN 978-1119850571
+^ a b Managing financial risks; summary of Ch. 51 in: Pascal Quiry; Yann Le Fur; Antonio Salvi; Maurizio Dallochio; Pierre Vernimmen (2011). Corporate Finance: Theory and Practice (3rd ed.). Wiley. ISBN 978-1119975588
+^ Marshall Hargrave (2022). Dupont Analysis, Investopedia.
+^ See discussion under § Shareholder Value, ROE, and Cash Flow Analyses in: Jamie Pratt and Michael Peters (2016). Financial Accounting in an Economic Context (10th Edition). Wiley Finance. ISBN 978-1-119-30616-0
+^ See §39 ""Corporate Planning Models"", and §294 ""Simulation Model"" in Joel G. Siegel; Jae K. Shim; Stephen Hartman (1 November 1997). Schaum's quick guide to business formulas: 201 decision-making tools for business, finance, and accounting students. McGraw-Hill Professional. ISBN 978-0-07-058031-2. Retrieved 12 November 2011.
+^ a b David Shimko (2009). Quantifying Corporate Financial Risk. archived 2010-07-17.
+^ See for example this problem (from John Hull's Options, Futures, and Other Derivatives), discussing cash position modeled stochastically.
+^ David Shimko (2009). Dangers of Corporate Derivative Transactions
+^ Deloitte / MCX (2018). Commodity price risk management
+^ CPA Australia (2012). A guide to managing commodity risk
+^ Association of Chartered Certified Accountants (N.D.). Interest rate risk management
+^ CPA Australia (2008). Understanding and Managing Interest Rate Risk
+^ a b Association of Chartered Certified Accountants (N.D.). Foreign currency risk and its management
+^ CPA Australia (2009). A guide to managing foreign exchange risk
+^ Claire Boyte-White (2023). 4 Reasons a Company Might Suspend Its Dividend, Investopedia
+^ ""Contrary to conventional wisdom it may be rational to hedge translation exposure."": Raj Aggarwal (1991). ""Management of Accounting Exposure to Currency Changes: Role and Evidence of Agency Costs"". Managerial Finance, Vol. 17 No. 4, pp. 10-22.
+^ Aggarwal, Raj, ""The Translation Problem in International Accounting: Insights for Financial Management."" Management International Review 15 (Nos. 2-3, 1975): 67-79. (Proposed accounting framework for evaluating and developing translation procedures for multinational corporations).
+^ Aggarwal, Raj; DeMaskey, Andrea L. (April 30, 1997). ""Cross-Hedging Currency Risks in Asian Emerging Markets Using Derivatives in Major Currencies"". The Journal of Portfolio Management. 23 (3): 88–95. doi:10.3905/jpm.1997.409611. S2CID 153476555.
+^ Price Waterhouse Coopers (2017). Achieving hedge accounting in practice under IFRS 9
+^ Conti, Cesare & Mauri, Arnaldo (2008). ""Corporate Financial Risk Management: Governance and Disclosure post IFRS 7"", Icfai Journal of Financial Risk Management, ISSN 0972-916X, Vol. V, n. 2, pp. 20–27.
+^ See: ""Financial Management System (FMS) - Gartner Finance Glossary"". Gartner. Retrieved 2022-01-06.
+^ Jeremy Fabbri (2020). Should You Use Spreadsheets for Risk Management?
+^ a b Pamela Drake and Frank Fabozzi (2009). What Is Finance?
+^ Khandani, Amir E.; Lo, Andrew W. (2007). ""What Happened To The Quants In August 2007?"" (PDF). Journal of Financial Markets. 14 (1): 1–46.
+^ William F. Sharpe (1991). ""The Arithmetic of Active Management"" Archived 2013-11-13 at the Wayback Machine. Financial Analysts Journal Vol. 47, No. 1, January/February
+^ Guangliang He and Robert Litterman (1999). ""The Intuition Behind Black-Litterman Model Portfolios"". Goldman Sachs Quantitative Resources Group
+^ a b c d e f g For discussion and examples re calculating the appropriate ""optimal hedge ratio"" - based on beta, delta, or duration - and then executing, see: Roger G . Clarke (1992). ""Options and Futures: A Tutorial"". CFA Institute Research Foundation
+^ Staff (2020). What is index option trading and how does it work?, Investopedia
+^ Daniel Laboe (2021). How To Properly Hedge Your Portfolio Using Put Options, nasdaq.com
+^ Staff (2020). How to hedge your bond portfolio against falling rates, bloomberg.com
+^ Jeffrey L. Stouffer (2011). Protecting A Bond Portfolio With Futures Contracts, Financial Advisor Magazine
+^ C. Kopp (2022). ""Bond Laddering: How it Works, Benefits, Variations"", investopedia.com
+^ See e.g. OpenGamma Quantitative Research (2013). The Pricing and Risk Management of Credit Default Swaps
+^ Jorge A. Chan-Lau (2006). Market-Based Estimation of Default Probabilities and Its Application to Financial Market Surveillance International Monetary Fund
+^ Paul Glasserman (2000). Probability Models of Credit Risk
+^ Mukul Pareek (2021). ""Credit Migration Framework""
+^ Staff (2021). How Credit Rating Risk Affects Corporate Bonds, Investopedia
+^ Justin Kuepper (2023). Using the Kelly Criterion for Asset Allocation and Money Management, Investopedia
+^ Will Kenton (2020). Roy's Safety-First Criterion (SFRatio) Definition and Calculation, Investopedia
+^ ""A Practitioner's Guide to Factor Models"". CFA Institute Research Foundation
+^ Troy Segal (2022). ""What is inflation and how does inflation affect investments?"". Investopedia
+^ James Chen (2022). ""Inflation Hedge"", Investopedia
+^ Staff (2022-01-31). ""Managing Portfolio Risk in A High-Inflation Market"". KLO Financial Services. Retrieved 2023-05-12.
+^ See. e.g., Morgan Stanley (2022). ""Managing Inflation Risk through Improved Portfolio Optimization""
+^ Dmitry Pugachevsky (2023). Managing inflation risk with hedging strategies, risk.net
+^ Carl Bacon (2019). “Performance Attribution History and Progress”, CFA Institute Research Foundation
+^ a b Michael McMillan (2012). ""Performance Measurement: The What, Why, and How of the Investment Management Process"", CFA Institute
+^ True Tamplin (2023). ""Benchmarking and Performance Attribution"", Finance Strategists
+External links[edit]
+CERA - The Chartered Enterprise Risk Analyst Credential - Society of Actuaries (SOA)
+Financial Risk Manager Certification Program - Global Association of Risk Professionals (GARP)
+Professional Risk Manager Certification Program - Professional Risk Managers' International Association (PRMIA)
+Risk Journals Homepage
+vte
+Financial risk and financial risk management
+
+Categories	
+Credit risk	
+Consumer credit riskSovereign credit riskSettlement riskDefault riskConcentration riskCredit derivativeSecuritization
+
+Market risk	
+Commodity risk (e.g. Volume risk, Basis risk, Shape risk, Holding period risk, Price area risk)Equity riskValuation riskFX riskMargining riskInterest rate riskInflation riskVolatility riskLiquidity risk (e.g. Refinancing risk, Deposit risk)
+
+Operational risk	
+Operational risk managementBusiness riskModel riskReputational riskCountry riskPolitical riskLegal risk
+
+Other	
+Execution riskProfit riskSystemic riskNon-financial risk
+
+Modeling	
+Arbitrage pricing theoryBlack–Scholes modelReplicating portfolioCash flow matchingConditional Value-at-Risk (CVaR)CopulaDrawdownFirst-hitting-time modelInterest rate immunizationMarket portfolioModern portfolio theoryOmega ratioRAROCRisk-free rateRisk paritySharpe ratioSortino ratioSurvival analysis (Proportional hazards model)Tracking errorValue-at-Risk (VaR) and extensions (Profit at risk, Margin at risk, Liquidity at risk, Cash flow at risk, Earnings at risk)
+
+Basic concepts	
+Asset allocationAsset and liability managementAsset pricingBad debtCapital assetCapital structureCorporate financeCost of capitalDiversificationEconomic bubbleEnterprise valueESGExchange traded fundExpected returnFinancial adviseranalysisanalystassetbettingcrimeengineeringlawrisksocial workFundamental analysisGrowth investingHazardHedgeInvestment managementRiskRisk poolRisk of ruinSystematic riskMathematical financeMoral hazardRisk-return spectrumSpeculationSpeculative attackStatistical financeStrategic financial managementStress test (financial)Structured financeStructured productSystemic riskToxic asset
+
+
+Financial economicsInvestment managementMathematical finance
+vte
+Risk management
+
+Risk type & source	
+Risk type	
+Business risks Reputational damagePersonal risk Health riskPsychosocial hazardNatural risk Natural disasterAnthropogenic hazard Political riskTechnology risk IT riskAIMacro risk / External risk Extreme riskGlobal catastrophic riskSafety hazardSecurity risk Vulnerability (computing)ThreatAccidentOperational risk Execution riskModel riskReputational riskCountry riskLegal riskFinancial risk Credit riskLiquidity riskInterest rate riskExchange rate riskMarket riskProfit riskSystemic riskStrategic riskResidual risk
+
+Risk source	
+HazardConflictUncertaintyVulnerability
+
+Countermeasures	
+Enterprise risk management Corporate governanceRegulatory complianceGRCInternal controlPersonal risk management Health insuranceStress managementDisease managementOperational risk management Supply chainProjectQualitySecurity management Identity and access managementVulnerability managementIncident managementBusiness continuity planningDisaster risk reductionFinancial risk management DiversificationHedgeRisk poolStrategic managementRisk communication Warning systemPrecautionary principleInsuranceCrisis management Disaster managementOccupational safety and healthSwiss cheese model
+
+Risk assessment	
+Exposure assessmentHazard analysisScenario planningContingency planBrainstormingStructured or semi-structured interviewsDelphi methodChecklistPreliminary hazard analysis (PHA)Hazard and operability study (HAZOP)Hazard analysis and critical control points (HACCP)Toxicity assessmentStructured What If Technique (SWIFT)Scenario analysisBusiness impact analysisRoot cause analysisFailure mode and effects analysis (FMEA) / FMECAFault tree analysisEvent tree analysisCause and consequence analysisCause-and-effect analysisLayer protection analysis (LOPA)Decision treeHuman reliability analysis (HRA)Bow tie analysisReliability centered maintenanceSneak circuit analysisMarkov analysisMonte Carlo simulationBayesian statistics and Bayes netsFN curveRisk indexRisk MatrixCost/benefit analysis Risk–benefit ratioMulti-criteria decision analysis (MCDA)
+
+Related concepts	
+ISO 31000 ISO/IEC 31010COSORisk appetiteHazard mapRare eventsProblem solving SecurityOpportunity cost"

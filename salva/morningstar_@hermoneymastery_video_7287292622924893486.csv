@@ -1,0 +1,883 @@
+query,title,description,link,content
+benefits of high-yield savings accounts vs traditional savings accounts,Bryan Armour: Is Index Investing’s Superpower Unstoppable?,No disponible,https://www.morningstar.com/personal-finance/bryan-armour-is-index-investings-superpower-unstoppable,"Home
+Personal Finance
+Bryan Armour: Is Index Investing’s Superpower Unstoppable?
+Bryan Armour: Is Index Investing’s Superpower Unstoppable?
+
+A Morningstar researcher discusses rising passive share, bitcoin ETFs, and the future of active management.
+
+Christine Benz
+ and Dan Lefkovitz
+Mar 19, 2024
+Share
+
+Listen Now: Listen and subscribe to Morningstar’s The Long View from your mobile device: Apple Podcasts | Spotify | Google Play
+
+Our guest this week is our colleague, Bryan Armour, who is director of passive investment strategies research, North America, for Morningstar Research Services. Bryan is also editor of the ETFInvestor newsletter. Before joining Morningstar in 2020, Bryan spent seven years working for Finra, the Financial Industry Regulatory Authority, conducting trade surveillance and investigations specializing in exchange-traded funds. Prior to Finra, he worked for a proprietary trading firm as an options trader at the Chicago Mercantile Exchange. Bryan holds a BA in Economics from the University of Illinois and the Chartered Financial Analyst designation.
+
+Background
+
+Bio
+
+Passive Investing and ETFs
+
+“Index Funds Have Officially Won,” by John Rekenthaler, Morningstar.com, Feb. 13, 2024.
+
+“Active Funds Fell Short of Passive Peers in 2023,” by Bryan Armour, Morningstar.com, March 12, 2024.
+
+“It’s Official: Passive Funds Overtake Active Funds,” by Adam Sabban, Morningstar.com, Jan. 17, 2024.
+
+“ETFs vs. Mutual Funds: The Benefits That Really Matter,” by Bryan Armour, Morningstar.com, Feb. 6, 2024.
+
+“2023 Model Portfolio Landscape,” Morningstar.com.
+
+“Markets Are ‘Fundamentally Broken’ Due to Passive Investing, Says David Einhorn,” by William Watts, marketwatch.com, Feb. 9, 2024.
+
+“How Fund Fees Are the Best Predictor of Returns,” by Russ Kinnel, Morningstar.com, Jan. 12, 2016.
+
+“Cage Match: Traditional Index Funds vs. ETFs,” by Christine Benz and Margaret Giles, Morningstar.com, Oct. 20, 2023.
+
+“Global Fund Flows: 2023 in Review,” Morningstar.com, Feb. 6, 2024.
+
+“A Closer Look at Vanguard’s Newest Core Bond ETFs,” by Dan Sotiroff, Morningstar.com, Feb. 12, 2024.
+
+“3 New ETFs That Stand Out From the Pack,” by Ryan Jackson, Morningstar.com, Aug. 30, 2023.
+
+“Converting Mutual Funds to ETFs: What to Make of the Trend,” by Daniel Sotiroff, Morningstar.com, April 11, 2023.
+
+“How to Choose a Great Dividend ETF,” by Dan Sotiroff, Morningstar.com, May 17, 2023.
+
+“The Best and Worst New ETFs of 2023,” by Bryan Armour, Morningstar.com, Dec. 19, 2023.
+
+Bitcoin and Covered-Call ETFs
+
+“Spot Bitcoin ETFs Are Here. Should You Invest?” by Bryan Armour, Morningstar.com, Jan. 11, 2024.
+
+“Grayscale’s Victory Over the SEC Doesn’t Mean a Spot Bitcoin ETF—for Now,” by Bryan Armour, Morningstar.com, Aug. 30, 2023.
+
+“Should You Buy a Covered-Call ETF?” Video interview with Bryan Armour and Ruth Saldanha, Morningstar.com, June 14, 2023.
+
+Securities Mentioned
+
+iShares ESG Aware ETF ESGU
+
+iShares MSCI USA Quality Factor ETF QUAL
+
+ARK Innovation ETF ARKK
+
+Grayscale Bitcoin Trust (BTC) GBTC
+
+JPMorgan Equity Premium Income ETF JEPI
+
+Global X Nasdaq 100 Covered Call ETF QYLD
+
+Vanguard’s High Dividend Yield ETF VYM
+
+BlackRock Flexible Income ETF BINC
+
+Schwab High Yield Bond ETF SCYB
+
+T. Rowe Price Capital Appreciation Equity ETF TCAF
+
+2x Bitcoin Strategy ETF BITX
+
+YieldMax AI Option Income Strategy ETF AIYY
+
+Other
+
+“The ETF Rule: What It Is and Why It Matters,” by Irene Huhulea, Investopedia.com, Jan. 25, 2024.
+
+Bryan Armour: Index Investing Is a Runaway Freight Train
+
+A Morningstar researcher discusses rising passive share, bitcoin ETFs, and the future of active management.
+
+(Please stay tuned for important disclosure information at the conclusion of this episode.)
+
+Dan Lefkovitz: Hi, and welcome to The Long View. I’m Dan Lefkovitz, strategist for Morningstar Indexes.
+
+Christine Benz: And I’m Christine Benz, director of personal finance and retirement planning for Morningstar.
+
+Lefkovitz: Our guest this week is our colleague, Bryan Armour, who is director of passive investment strategies research, North America, for Morningstar Research Services. Bryan is also editor of the ETFInvestor newsletter. Before joining Morningstar in 2020, Bryan spent seven years working for Finra, the Financial Industry Regulatory Authority, conducting trade surveillance and investigations specializing in exchange-traded funds. Prior to Finra, he worked for a proprietary trading firm as an options trader at the Chicago Mercantile Exchange. Bryan holds a BA in Economics from the University of Illinois and the Chartered Financial Analyst designation.
+
+Before we begin the discussion, I should say that I’m part of Morningstar’s Index group and we license to ETF providers, but we will not be discussing any investable products tracking a Morningstar Index today. In fact, Bryan’s team doesn’t cover them.
+
+Bryan, thanks so much for joining us on The Long View.
+
+Bryan Armour: Thank you both for having me.
+
+Lefkovitz: Absolutely. Well, we wanted to start off with a major milestone that we hit recently in the US market, not referring to the bitcoin spot ETFs that started trading, but the fact that passive strategies now account for the majority of assets in funds and ETFs and on a global basis, passive share is about 40%. Our colleague, John Rekenthaler, recently wrote that index funds have officially won. So, do you see anything that could slow the rise of index investing?
+
+Armour: It’s a runaway freight train right now. But no, it’s been a long, persistent trend. And I think the real reason why it’s done so well is because of the cost story. Passive investing comes with lower fees, lower trading costs, greater tax efficiency. And that’s going to be hard for active managers to beat consistently because they have to beat passive on a gross basis and then by more than the difference in their fees as well.
+
+To take a step back, indexes are concentrated right now, market-cap-weighted indexes. And so, I think the S&P 500 is the highest concentration in top 10 holdings in the past 50-some years. And so there is an opportunity for active investors, I think. And you have these zombie flows that are coming from passives where it’s like savings come in and just go out to the market where active managers could really find an advantage. And so, a rough stretch for cap-weighted indexes might not be enough to move passives off the mark. But the best chance for active managers to get back on top is to cut costs and take away passives’ superpower.
+
+Benz: Well, we want to delve into some of those themes and some of the performance trends that you and the team have observed. But sticking with fund flows: It had been the case that investors were preferring actively managed fixed-income funds, but even that seems to have shifted toward passive over the past several years. Can you talk about that because it seems like the fundamental case for an active strategy in fixed income is stronger than is the case for equities, but maybe you can delve into that and what you’re seeing in terms of flows?
+
+Armour: So, in general, we’re seeing—if you draw a straight line, it’s from active mutual funds, going out of active mutual funds into passive ETFs. And it’s generally true across the board for fixed income, equity, and so on. And so, it does make the most sense, I think, to go passive in the areas where there’s the richest information embedded in prices of stocks, for example, or US Treasuries as a fixed-income example. So, large-blend-style funds, those types of stocks have the widest coverage, the fastest reaction to changes in information about the companies. And so, they tend to be priced very well, and passives can really free ride that pricing by active managers and kick it back to investors for a lower cost. Where there are some issues, like you said, or how do you index the bond market? And if you go by market weighting, then you end up investing the most in the most indebted issuers. So, in some cases, for core bonds, for things like Treasuries—very liquid market. And so, those are fit for passive investing. And if you look at like an ag-bond fund, that’s a huge chunk of the ag right now is Treasuries. But something like muni bonds, for example, there is some inefficiency in selecting munis. They’re not taking part in the issuance. So, to some extent, they might get some of the leftovers. But just in general, it’s easier for investors to understand what a passive fund is going to do. And those expectations and low fees are a good fit for most people.
+
+Lefkovitz: And it seems like a lot of advisors these days might be ETF only. I know you’ve written about models as well, model portfolios. What role are they playing in flows?
+
+Armour: So, there’s been a shift in distribution in that sense where advisors are moving to fee-based advice instead of commission-based. And what that means for investors is that they’re going to push toward cheaper funds, which often means ETFs or index mutual funds. And then if they do go active, then—ETFs are growing a menu, and we’ve seen model portfolios come as a really good option for advisors where they can just follow the script rather than spending too much time with asset allocation. And so model portfolio gives you the full portfolio of here are all the ETFs that you can invest in to follow the model. And it’s been a really good tool for investors, and it’s pushed some flows around, too. We just had the Model Flows Landscape report come out recently from Manager Research here at Morningstar. And model portfolios are growing extremely fast. And iShares, for example, is one of the biggest model portfolios. They work really closely with advisors to help them understand the changes that they’re making and give them performance attribution analysis and things like that to pass on to clients. But last March, they shifted from their iShares ESG Aware ETF, ESGU, to their Quality Factor ETF, which is QUAL. And that led to a $5 billion outflow of ESGU into QUAL. And so, it’s ending up having some pretty significant ramifications in the market.
+
+Benz: Let’s talk about providers and what you’re seeing in terms of flows to providers. It seems like the big three—Vanguard, BlackRock, State Street—have grown market share, but maybe you could just talk about that, how the spoils do seem to be going to fewer firms.
+
+Armour: The biggest have gotten bigger. And I would even say that Vanguard and iShares are in their own tier now and then State Street is alone in that next tier. But a lot of it has been scale. It’s been being able to scale their operations, scale their strategies, and offer them for low costs, which then put pressure on others to catch up. And we’re at a point where Vanguard might actually catch iShares soon. So, they’ve been winning the flows battle the past few years. But there’s two ways that assets can increase. One is new flows, net investment, and the other is performance of the existing assets. So, Vanguard does have a little bit more of a tilt toward equity assets, which means they could be boosted by a strong stock market and actually take over as the top ETF provider. And then in the active ETF space, there’s been a shift in the largest providers. Dimensional converted their first mutual fund to an ETF about three years ago, and they’ve already taken over as the largest issuer in the active ETF space. And then options-based strategies have been a huge growth engine of active ETFs, and JP Morgan has really benefited from that.
+
+Lefkovitz: Well, we want to get back to all those topics that you just touched on. But I wanted to ask you, Bryan, there’s this perennial question of whether the rise of passive share has led to market distortions. And we had a comment recently from David Einhorn, a prominent hedge fund manager, saying that passive investing has fundamentally broken the market. Wondering if you have a perspective on that?
+
+Armour: It depends where you’re coming from in your perspective on how you’re seeing the market. Because from David’s perspective, I think, he runs long-short hedge funds, for example, and the market is less reactive potentially compared to what it used to be. So, it’s difficult for that type of strategy to efficiently realize mispricings of individual stocks, and shorting is expensive. And so, the longer the lead time to realizing it, the greater the cost and then the more different ways that things can go awry. So, from most investors’ perspectives, though, they don’t have access to these hedge funds. Their investment minimums, there are all sorts of different things that prevent the average investor from buying into these things.
+
+So, it goes back to my original thought on zombie flows. There are opportunities for active managers. Right now, it’s just slower for the market to catch up. The flip side is for average investors, it’s been overwhelmingly positive. You get cheaper, better-performing strategies in most cases. Our colleague Russ Kinnel long showed that low fees are the best predictor of future success. And so, it may not be the best outcome for David Einhorn’s clients, but a vast majority of investors don’t even have access to his hedge fund. And so, it’s a clear net win for investors. And he continued on in his comments after saying that passive investing had fundamentally broken the market by saying that he had adapted. And that’s really, like any strategy from two decades ago, is less likely to work today anyway. So, it’s really adapt or die. And it sounds like he didn’t complain about it. He’s just changed his strategy to better adapt to it.
+
+Benz: Your team’s remit is passive investment strategies. You’re vehicle agnostic. So, I guess, we wanted to ask about index funds, traditional index funds versus exchange-traded funds. It does seem like the flows have very much gone to ETFs. Advisors seem to be articulating a strong preference for ETFs. I guess the question is, is that overdone? I know that there are tax efficiency benefits with ETFs versus traditional index mutual funds, but maybe you can talk about that?
+
+Armour: Comparing index ETFs to traditional index funds, that tax efficiency, that is the crown jewel of ETFs doesn’t apply as much. I would agree with that. First of all, Christine, you wrote a wonderful article for Morningstar.com on this subject. I encourage everyone to read that that’s interested in this conversation. But ETFs tend to have lower fees and tax efficiency. So, the lower fee portion of that still remains. Often their fees are priced closer to retirement plan share classes than retail investor share classes. And then when net flows are going in and out, ETFs can swap holdings for shares in kind, which doesn’t create a taxable event. So, there’s advantages for the ETF, but the problem is that for a traditional index fund, a broad index fund, the fee differences are pretty minimal. And then they’re typically market-cap weighted, so they aren’t trading much and they’re not realizing many capital gains. And so, ETF’s tax advantage is minimal. The difference really comes down to flexibility, I would say, and ETFs are easier to trade in and out of, but those trades come at a small cost like crossing bid/ask spreads, premium or discounts to NAV. But I think this is what Jack Bogle’s initial dislike of ETFs, where it came from, is that the ease of trading could actually be to investors’ detriment if they end up over-trading.
+
+Benz: I wanted to just follow up and stick with this tax efficiency question. I do feel like there’s confusion about fixed-income ETFs being particularly tax-efficient. Like they might have some tax efficiency benefits relative to an active fund, but generally they’re not all that tax-efficient. So maybe you can talk about that, Bryan.
+
+Armour: Unfortunately, interest income is not a capital gain. So, the tax efficiency is purely on capital gains. If the price of the security you hold goes up and you sell it, that price from where you bought it to where you sold it is a capital gain. Interest income is separate from that. It will be taxed as normal income. And so similar also to dividends, these distributions are not incorporated in the tax efficiency of ETFs. And so, if you hold something like long-dated Treasuries and the price of yields go down, then you could potentially have a much more tax-efficient vehicle in an ETF in that circumstance. But for most of the time when prices are relatively stable and most of total return is coming from interest, then the ETF wrapper doesn’t gain any advantage over a mutual fund.
+
+Lefkovitz: I wanted to get back to actively managed ETFs because it’s a space that’s growing very fast and wanted to delve a little bit more deeply. So according to our asset flows data, actively managed ETFs grew 37% in 2023, while passives grew just 8%. Bryan, what’s behind the growth of Active ETFs, do you think?
+
+Armour: I think there are two main reasons. The SEC passed the ETF rule in 2019, which really just made launching ETFs and management of ETFs more efficient by allowing custom-creation redemption baskets is probably the primary reason for Active ETFs. But number two is, Active ETFs are meeting investors where they are. And so, starting with that second point, the increased use of ETFs, the flows going into ETFs really drives asset managers’ interest in launching ETFs and accessing other potential clients. In some cases, it could be, but in most cases, it’s not replacing mutual funds, it’s really just accessing different clients.
+
+For the ETF rule, creation/redemptions, the way the pro rata baskets used to work prior to the ETF rule is, effectively a market maker would go out, buy all the stocks of the S&P 500, for example, in the correct proportion. They would hand those over to an ETF provider. They would get ETF shares back. If they wanted to redeem those ETF shares, then they would get the stocks back. And by doing that in-kind transfer, they never have a taxable event that occurs.
+
+What’s changed is that they no longer get a pro rata slice of the portfolio. Now they have the ability to use custom baskets. So, if you think of an active manager that holds Nvidia, a year ago, it was a $100-something dollars and it got up to $700 recently. And that would be a $600 capital gain you’re sitting on. You could negotiate a custom basket with a market maker to basically get rid of all your Nvidia and take no capital gains on any of that gain. And so, the benefits from custom baskets are tax efficiency. It also pushes some of the trading costs. If you’re using the custom basket for portfolio management, then those trading costs are borne by the market maker, not you, because the transaction is in kind. And then it’s just another tool for PMs. And so, we’ve seen the uptake by some traditional mutual fund providers in response. You can see the increase in products in assets and flows start after 2019 after the ETF rule was enacted. And since then, Dimensional Fund Advisors, Capital Group, T. Rowe Price, Morgan Stanley have all started to dip their toes into the ETF market.
+
+Benz: I think I heard someone characterize active ETFs as the last gasp of a dying industry, the active asset-management industry. Do you think that’s too harsh?
+
+Armour: No. I mean, yes, I do think that’s too harsh. I disagree with that comment. There are still use cases for active. Like I said, there’s still plenty of opportunities in the ETF wrapper. Mutual fund providers still have a major role in retirement plans. We’ve seen growth of CITs and other vehicles to gain more efficiencies there as well. But we’re still in the early phases of active ETF trend. And just now we’re starting to see portfolio managers accept greater transparency. And so, star managers like BlackRock’s Rick Rieder, T. Rowe Price’s David Giroux launched their first ETFs last year. So, I think it’s actually an exciting time. There’s a lot going on in the ETF space. It’s not the end of asset management overall.
+
+Lefkovitz: Are there areas where you think that active ETFs won’t work so well?
+
+Armour: There are strategies where ETFs aren’t as effective as mutual funds. And a prime example of that would be discretionary active in illiquid markets or small caps or something where there isn’t as much liquidity in the underlying stocks. So, for example, ARKK, the ARK Innovation ETF, there is a direct correlation between flows and performance back in 2020, 2021 when it was going up and down dramatically. But capacity is a concern. It’s something that strategies need to be aware of before going into the ETF wrapper because ETFs can’t close to new investors. And that’s something that has led active ETF providers like Dimensional, Avantis to really lead because they have very well-diversified portfolios. They hold a bunch of stocks and then they tilt things the way they see fit. But the more discretionary active, smaller portfolio-type active strategies don’t seem to do as well in the ETF wrapper.
+
+Benz: I wanted to go back to the tax efficiency of active ETFs, active equity ETFs specifically. It does seem like based on what you’ve said that there would be tax efficiency benefits of the active ETF relative to an active traditional mutual fund. But how about relative to a passive, say, total market ETF, that’s still going to be more tax-efficient, right?
+
+Armour: Well, it’s actually going to be pretty close because there are instances where, depending on how the active manager deploys their strategy in the ETF wrapper—if you look at like Dimensional, Avantis, those are more well-diversified portfolios, but they’ve never realized, or most have never realized, a capital gain. Capital Group, T. Rowe Price have had very minimal capital gains in the ETF wrapper. They had none last year between both of them. So there really isn’t much more to gain from a tax efficiency perspective than that. And so, it just really depends on the strategy though.
+
+Benz: So, the low-turnover piece is crucial, it seems like, right?
+
+Armour: It’s low turnover, but it’s also when you redeem ETF shares, when you have a custom redemption basket, you can put your highest capital gain security as a higher weight in the portfolio and when you redeem it out, you get rid of it and then you can bring it back in at a higher cost basis. And so there are ways to gain tax efficiency beyond just limiting trading. And so that’s really where the biggest advantage has been for active ETFs.
+
+Lefkovitz: Bryan, Vanguard launched some active bond funds in December and your team, when you wrote about them, put active in quotations. Can you talk about those?
+
+Armour: So, Dan Sotiroff does a great job of distilling down the strategies of the new Vanguard bond funds. I believe, one is Core, one is Core-Plus Bond Fund. He put active in quotes because these are well diversified bond funds that are meant to be sit at the core of your portfolio and they’re low cost. In general, they hold duration in line with their benchmarks. So, in a lot of ways, that’s a passive approach where they then add an increment of active is by taking on a little bit more credit risk than their benchmark. And then they look to generate alpha a bit through individual bond selection. But generally, they’re matching the characteristics of their benchmark. And then the fee is very close to passives. So, with incremental benefits, by taking on a little bit more risk and be more thoughtful about which bonds they hold.
+
+Benz: We wanted to ask about active versus passive performance, which you’ve already alluded to, but you’re involved in this semiannual active Passive/Barometer Study, which looks at the success rates for active funds relative to passive in different categories. First, maybe you can talk about what a success rate is, how we define that, and also what you’ve observed having looked at these data over the years?
+
+Armour: So, we’re actually about to publish year-end 2023. So that might even be out by the time this comes out. But we look at success rates for active managers across different categories and holistically. But what we’re looking for is, does an active fund beat the average passive fund? And we look at that as an equal-weighted average of all passive funds within that category. So, we create the peer group, we create the benchmark. This way it’s not like an index where there are no fees, or it’s held to the index construction rules or anything like that. If you were going to pick up the average passive fund, would this active fund beat it? And so, success rates generally over the long term are lower than 50% and in certain areas of the market significantly lower than 50%. And so, if you look at large-blend category, for example, like I alluded to before, there’s incredible coverage of those stocks that sit in that portion of the market. And so, the prices, it’s really hard to carve an edge for an active manager because all the information is priced in. And so, what we’ve seen is over the long term, not only are success rates low, but active managers tend to lag the average passive peer significantly for the ones that do survive. And so that’s one thing with success rates. We look at not only do they beat the average passive fund, but they also have to survive over the period. So over longer-term periods, very difficult to beat passives, but over the short term, things can be pretty noisy.
+
+Lefkovitz: And what have been some areas where active has been successful?
+
+Armour: So, the key is there are two different things that dictate success for active funds. Number one, what are the odds of picking a winner? And then number two, how much can you win versus how much can you lose? And so, indexes prefer liquid markets, ones where the information is embedded in the price quickly and the index funds can represent the market well. Illiquid markets tend to be tougher to index. They usually have to create index rules to get around some of the more illiquid holdings, which creates opportunities for active managers to find advantages over their index peers. So, some of the ones that usually as you go down the market-cap ladder from large cap to mid-cap to small cap, success rates will increase. If you look at like foreign small/mid versus foreign large-blend, actives tend to do better in the smaller-cap area. Real estate is another example. Emerging markets tends to be better for actives. And bonds is more of a mixed bag, but high-yield bonds, active managers tend to do better than core bond funds.
+
+Benz: We wanted to ask about these waves of mutual fund to exchange-traded fund conversions and also ETFs being created as a share class of a mutual fund. You referenced, Bryan previously, DFA having done some of these conversions over the past few years, but maybe you can talk about what’s going on there.
+
+Armour: I believe there’s been about 70 mutual fund ETF conversions at this point. It depends on the strategy at hand. So DFA, they originally moved over some of their tax-managed strategies because the ETF wrapper, for the reasons I discussed, is more tax-efficient. And then also they have these extra portfolio management tools through the use of in-kind creation/redemption baskets. And so, for them, it made sense. If there are complications with strategy fit, like I said before, they can’t close to new investors in the ETF wrapper. So small-cap, more-niche strategies, it might not make as much sense to convert over to ETFs. But generally, what happens is, one day a mutual fund wakes up as an ETF and that track record is still there. But it’s not a panacea for mutual fund managers. DFA has experienced significant inflows, but some of the other ones that converted have actually been seeing outflows. It’s not automatically by joining the ETF market do you see inflows.
+
+And then the other caveat for mutual fund ETF conversions is it doesn’t work if assets are held in retirement accounts. Generally speaking, retirement accounts are built for mutual funds for end-of-day NAV pricing and intraday pricing and nonfractional shares of ETFs make it really hard to switch over. So generally speaking, those with higher retirement account assets or more-niche strategies will find it hard to convert to ETFs.
+
+Benz: And how about the idea of an ETF being created as a share class of an existing mutual fund? I think that was originally a Vanguard innovation, but now other firms have jumped onto that.
+
+Armour: And their patent expired early last year for that. We’ve seen Dimensional, Fidelity, Morgan Stanley, a few others apply for that same treatment, and the SEC is currently reviewing those applications. But I think there the advantage is if you do have retirement assets, if you do have some reason, distribution, or whatever reason that exists that you want your mutual funds, but you also want to reach ETF investors, then this is a really good way of doing that. And some of the ETF, if it gets large enough, some of those creation/redemptions, the in-kind creation/redemptions can actually enhance the tax efficiency of the mutual fund share classes then. But the downside for the ETF investors is if investors are redeeming their mutual funds, that could create some capital gains taxes and that could make their way over to the ETF shareholders.
+
+Lefkovitz: Well, let’s get to bitcoin, the moment that many listeners are waiting for. This has been one of the biggest stories in ETF lands in recent years. SEC approved ETFs tracking the spot price of bitcoin. We now have several bitcoin ETFs. So, what have you observed watching this space since these funds started trading in January?
+
+Armour: I think the biggest thing at the beginning was fee wars broke out at the 11th hour. And we saw a very consistent lineup of fees between 19 basis points and 25 if you exclude waivers, the one outlier being Grayscale Bitcoin Trust, which converted to an ETF from a private trust into an over-the-counter trust now currently an ETF for the first time. And they are charging 1.5% and big reason why is because they came in with large assets and they have investors in their asset base that have large capital gains they’re sitting on. They know they’re not going to leave and switch to a different bitcoin ETF. But there’s a huge disadvantage for new investors by investing in GBTC. But the rest are all very tight in terms of fees in that 6-basis-point range.
+
+But so far since it started trading, the liquidity ecosystem has been very strong. So, there was a batch approval. Nine new ETFs were approved for trading on the same day and then Grayscale also converted. So, there are 10 new ETFs on Jan. 11. And the existing funds in the market, so GBTC is an example, but also futures-based bitcoin ETFs, and then futures on the Chicago Mercantile Exchange, and spot bitcoin itself creates a whole liquidity ecosystem where market makers can hedge between all these different products, and they can look for arbitrage between them. And so, it’s led to really tight bid/ask spreads and very strong liquidity overall. And then they’ve gathered considerable assets. IShares and Fidelity currently lead the pack. I believe there’s now four ETFs over $1 billion. Maybe I shouldn’t even say that at this point because it’s all going to change by the time this goes live.
+
+But they’ve gathered considerable assets. IShares and Fidelity are leading the pack. Bitwise and ARKK are really in that next tier. And they’ve lived up to the billing in terms of volatile performance. Early investors were hit with an immediate 15% drawdown. They’ve already reversed the course and are up since their inception. So overall, it’s gone extremely well for the bitcoin ETFs. But obviously it’s been a volatile few weeks for the ETFs in terms of performance.
+
+Benz: So how about for investors? I guess setting aside the merits of crypto and bitcoin, how about the introduction of ETFs for investors who would be inclined to invest in these assets? Do you think that this is a development for the greater good?
+
+Armour: Well, it’s a positive development for crypto investors. I think it’s better than what currently existed prior to the spot bitcoin ETFs hitting the market. So, there are futures ETFs that had launched in 2021. And there are some frictions in rolling futures that made it underperform the price of bitcoin on its own. GBTC charged 2% and operated like a closed-end fund prior to becoming an ETF. It created all sorts of problems for investors. And crypto exchanges are very expensive to trade on. There’s always a concern of losing your key or how are you going to custody all your bitcoin. So, it’s a good thing for crypto investors in general. But to some extent, I don’t think most investors need to speculate on bitcoin. So, to me, overall, it’s more of a distraction than a benefit for investors.
+
+Lefkovitz: And Vanguard has sat it out. Curious what you make of that.
+
+Armour: So, Vanguard has shown no interest in launching a bitcoin ETF themselves. But a step further, they don’t even make the other bitcoin ETFs available to their investors. And so, they believe it’s speculative. There’s no inherent economic value or cash flows and volatility can wreak havoc on portfolios. Our research has found the same—in terms of it’s very difficult to create a fundamental value for bitcoin. What should it be worth? And we’ve shown that the volatility has a pretty big impact on portfolios, even in a very small allocation like 5% or lower. To some extent, I almost feel like the SEC refusing to approve the spot bitcoin ETF actually gave bitcoin more legs and got more attention for bitcoin. And in the same vein, Vanguard takes the decision out of investors’ hands. And I don’t really feel strongly either way. But in general, sometimes it gives it more power to say no to it.
+
+Benz: Are there any other areas that you’re watching for regulatory approval or maybe new product development? There’s naturally been talk of non-bitcoin crypto ETFs. But I’m wondering if you’ve heard anything about that or other areas?
+
+Armour: The current one in the queue for the SEC is spot ethereum. So, ethereum futures ETFs already exist, but the spot version is the next one waiting on approval. SEC is currently taking the same course as it did with bitcoin. So, it’s been just delaying decisions and waiting until the last second until they get a hard deadline to actually make a decision. But in the same vein as bitcoin, since a futures ETF already exists, they would really struggle with explaining why they would be able to deny spot ethereum versus approve the futures ETF. So, the likely outcome is approval for ethereum, but it is a little bit different than bitcoin, so it remains in flux. Beyond that, we’ve seen all the common product variants that exist in ETF form already filed to come into the market like covered-call versions of bitcoin ETFs, leverage, inverse. But these are things that most investors shouldn’t really take interest in.
+
+Lefkovitz: And then covered-call ETFs that are tracking equity indexes, those have been very popular recently. What do you think is behind that trend?
+
+Armour: I don’t know how the hot trend in the market flipped from meme stocks to covered calls. It’s a little bit of whiplash for investors. But it’s been an astonishing trend in terms of assets and product development. It seems like a covered call is being slapped on every single strategy from single stocks to Bitcoin to S&P 500. JPMorgan Equity Premium Income ETF, JEPI, is the poster child right now. It’s over $30 billion in assets, and we actually cover this ETF. It’s sensible approach, low-risk strategy. But most covered-call strategies are highly tax inefficient. In the same way we were talking about bond ETFs earlier, the premium received from covered calls is not considered a capital gain. So that’s something that will be distributed as income that investors will have to pay taxes on and then reinvest if they’re not using the income for personal uses. And there’s a huge opportunity cost for covered-call ETFs. So, Eugene Fama’s doctoral thesis remains true today where the distribution of market returns have fat tails. So that means there are more extreme gains and losses than expected from a normal distribution of returns. And so, we always talk about downside risk and how that can set investors back. But the same is true of missing out on the best months or years for an investment. And so, it doesn’t make sense to give up the good fat tail and keep exposure to the bad one for covered-call strategies. Because what you’re doing is you’re selling upside and cashing in that expected volatility and taking the income instead of and capping upside. And so, a prime example would be Global X Nasdaq 100 Covered Call ETF, which is QYLD. It launched in December 2013. And it’s basically like QQQ except with a covered call attached. And it’s trailed QQQ by an annualized 10 percentage points since its launch in 2013. So QQQ over that whole time is up 450%. QYLD is up 100%. So, it’s a substantial opportunity cost that you’re giving up with covered calls.
+
+Benz: Sticking with some of the fads in the ETF space, we wanted to ask about strategic beta, smart beta, factor investing, whatever you want to call it. It seems like just a few years ago, maybe five years ago, that was like the hot topic. Maybe you can talk about what you’re seeing these days in that strategic beta area.
+
+Armour: It’s slowed down for sure. There’s not as much attention from investors or inflows coming in. But generally speaking, there’s still solid strategies. It’s something similar to active investing, except they codified it to track an index of some of the active risks that it takes. And so, it’s still a reasonable investment thesis. The biggest problem has been that market-cap weighted and growth stocks have really done the best. And most of strategic beta is about value. It’s low volatility. It’s some of these things that haven’t kept pace with the market overall over the past decade or so. And so, it’s sort of swung out of favor, but it’s still a very good option for investors.
+
+Lefkovitz: Dividends seem to be an area within strategic beta that remains popular with investors, probably for income. I think your team recently upgraded some dividend-focused ETFs. What was behind that?
+
+Armour: So, when dividend ETFs or strategies are done well, their portfolios can tap into cheap stocks with strong fundamentals, and when done poorly, they can fall victim to value traps. So those are stocks that their prices are dropping alongside their business as their business deteriorates. And so, what we saw from these four dividend ETFs is they have very steady approaches. We’re seeing a lot of consistency in their holdings and their factor exposures over time. They have resilient portfolios, and they really do a good job of addressing the value traps. So, what ends up coming out of that is a strong risk/reward profile. So, it’s typically for those ETFs that are performing similar to the market in terms of returns but with lower risk. And there’s a couple different ways that they get there and between the four ETFs two are dividend growth ETFs, which is, you’re looking more at quality companies that have been steadily growing dividends for eight to 10 years, something like that. And then the high dividend yield strategies look for above-average yielders, but then they pair back some of the risks that can come with that by controlling Vanguard’s High Dividend Yield ETF, for example, takes the top half of dividend yielders and market-cap weights it, and that effectively takes out some of the risk of value traps. But overall, they just give a really solid combination of value, quality, profitability that has tended to work well over the long term and basically all markets.
+
+Benz: I wanted to ask about thematic funds, which is another trend that was really popular just a couple of years ago, things like AI or clean energy. Interest seems to have cooled in those types of products as well. What have you observed in that space?
+
+Armour: It has cooled. Absolutely. I think a lot of investors were burned in 2021, 2022 when thematics were hitting a fever pitch and then markets turned south and a lot of the growth stocks, a lot of the ESG stocks that had done so well in 2020 dropped significantly. And so, it still gets tons of attention. Thematics is nothing new, but it tends to do really well when there’s a market bubble. And so, lots of product development in 2000 and 2007 and 2020 and then shortly thereafter, markets dropped. But AI, I’ve talked a lot about AI ETFs, especially with reporters and that’s something that my friends would ask about. And the problem with AI ETFs is it’s really hard to define the theme and which stocks fit within AI. So, Nvidia is the one that’s held in all AI ETFs, but from there, there’s very little consensus about what stock counts as AI. And some hold Amazon and Apple and Google and Microsoft. And then some hold these small companies that develop chatbots or robots that are more AI directly. And so, there’s not a great way to capture the trend as it currently stands. And that’s often the case with thematics in general. It’s something that will stick around. I think there will still be investors interested in it because the narratives are so strong. But generally speaking, it’s really hard for investors to perform well in those types of ETFs.
+
+Lefkovitz: Bryan, wanted to get your thoughts on direct indexing—taking an index and then making some adjustments, customizing, personalizing. This is an area that got a lot of discussion a few years ago as an alternative, even a rival to ETFs. What are you seeing in the direct-indexing space?
+
+Armour: Direct indexing is hard to make available to everyone. There’s lots of considerations with smaller accounts, how are you breaking up fractional shares, and there’s a lot more risk taken on by the asset managers doing this for smaller investors. So, it’s really targeted toward wealthier investors. But with an ETF, like I said, a lot of the benefit from direct indexing that they talk about is tax-loss harvesting. In general, in ETFs, you can already do that without needing to tax-loss harvest. So, there’s not a significant advantage for direct indexing over just holding an ETF. I think it’d be more about the personalization, the customization of the strategies depending on the particular investor. And so, it remains a high-net-worth strategy. I don’t see it as something that’s going to help the everyday investor.
+
+Benz: I wanted to ask about this annual list that you put out of best and worst ETFs. It’s instructive not just for the specific funds that you’re flagging, but it also gives a sense of what we think are useful vehicles that address a real investment need versus just products that might be beneficial only to the asset manager or sponsor. Can you take us through a couple of case studies on your 2023 best and worst list?
+
+Armour: Definitely. So, this is a fun activity that team all weighs in. We all vote on which ETFs we believe are best and worst. So, we go through like a nomination process and vote on them. And so, there’s a couple of different ways that new ETFs can really break into the market. And so, most of what we think of ETFs like S&P 500 ETF, Total Market—that’s already been done. So, the way our asset managers can differentiate new ETFs is by giving access to something that doesn’t currently exist in the market or improving on an existing asset class.
+
+And so, the two best new ETFs that we highlighted last year—one of them was a BlackRock Flexible Income ETF, which is Rick Rieder’s first ETF that he’s launched. So, he was Morningstar’s 2023 Outstanding Portfolio Manager of the Year. And he’s had a long track record of success and it’s something that’s new that investors couldn’t get in the ETF wrapper before. And so, it’s been just a new way for active ETF investors to engage with ETFs.
+
+And the other best new ETF was Schwab High Yield Bond ETF. What I liked about that one is it was almost like the Vanguard effect in bonds where they come in, they cut expense ratios, and force others to cut with them. This one played out a little differently, though. They came in at 10 basis points, which was the lowest fee on the market in State Street. And State Street then cut their High Yield Bond ETF to 5 in response, and then Schwab shortly thereafter cut theirs to 3. So, in the course of a couple months, the cheapest high-yield bond ETF went from 10 basis points to 3. And then in response, you saw other asset managers cutting their fees, maybe not down to 3 basis points, but to 8, to 5. So, it’s really created a fee war, or at least a fee skirmish in high-yield bonds.
+
+Another good example would be T. Rowe Price Capital Appreciation Equity ETF. There’s a mutual fund strategy. It’s multi-asset. This is equity-only, the ETF, but the mutual fund has been closed to new investors for a number of years. So, it’s really opened the doors for investors and to David Giroux and into that strategy, at least the equity portion.
+
+In terms of worst ETFs, it’s often these types of strategies that tend to help the issuer more than investors. And the first one was this 2 times Bitcoin Strategy ETF. So not only is this futures-based but it’s also leveraged to 2 times. It’s just really unnecessary. I mean, bitcoin is highly, highly volatile. There’s been several times where they’ve experienced over 40% drawdowns in the past five years without leverage. And so, this is just unnecessary, and then they add almost a 2% fee on top of it. It’s just really playing into some of investors’ worst habits and trying to cash in on those. Another one is YieldMax, AI option-income strategy. So, it looks like it might be AI thematic ETF, but that’s actually a stock with the ticker AI. So, it’s a single-stock ETF, and then they sell a covered call against it. Why investors would need to buy this and for this particular stock that has only a $3 billion market cap is beyond me. I think it’s just taking advantage of the fact that its ticker is AI, to be honest.
+
+Lefkovitz: Well, Bryan, thanks so much for sharing your insights. This has been great.
+
+Armour: Absolutely. Thanks for having me on.
+
+Benz: Thanks for being here, Bryan.
+
+Thank you for joining us on The Long View. If you could, please take a moment to subscribe to and rate the podcast on Apple, Spotify, or wherever you get your podcasts.
+
+You can follow us on Twitter @Christine_Benz.
+
+Lefkovitz: And at Dan Lefkovitz on LinkedIn.
+
+Benz: George Castady is our engineer for the podcast and Kari Greczek produces the show notes each week.
+
+Finally, we’d love to get your feedback. If you have a comment or a guest idea, please email us at TheLongView@Morningstar.com. Until next time, thanks for joining us.
+
+(Disclaimer: This recording is for informational purposes only and should not be considered investment advice. Opinions expressed are as of the date of recording. Such opinions are subject to change. The views and opinions of guests on this program are not necessarily those of Morningstar, Inc. and its affiliates. While this guest may license or offer products and services of Morningstar and its affiliates, unless otherwise stated, he/she is not affiliated with Morningstar and its affiliates. Morningstar does not guarantee the accuracy, or the completeness of the data presented herein. Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from or related to the information, data analysis, or opinions, or their use. Past performance is not a guarantee of future results. All investments are subject to investment risk, including possible loss of principal. Individuals should seriously consider if an investment is suitable for them by referencing their own financial position, investment objectives and risk profile before making any investment decision.)
+
+The author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.
+
+Share"
+current annual percentage yield for high-yield savings accounts,Greg McBride: ‘Successful Saving Is All About the Habit’,No disponible,https://www.morningstar.com/personal-finance/greg-mcbride-successful-saving-is-all-about-habit,"Home
+Personal Finance
+Greg McBride: ‘Successful Saving Is All About the Habit’
+Greg McBride: ‘Successful Saving Is All About the Habit’
+
+The chief financial analyst for Bankrate discusses the state of the economy and the outlook for interest rates, as well as the many savings products that are available today.
+
+Christine Benz
+ and Amy C. Arnott, CFA
+May 7, 2024
+Share
+
+Listen Now: Listen and subscribe to Morningstar’s The Long View from your mobile device: Apple Podcasts | Spotify | Google Play
+
+Our guest on the podcast today is Greg McBride. Greg is chief financial analyst for Bankrate.com, where he has worked for more than 25 years. He received his bachelor’s in finance from the University of Florida. He is also a CFA charterholder.
+
+Background
+
+Bio
+
+Bankrate
+
+State of the Economy/Outlook for Interest Rates
+
+“Survey: Despite a Resilient Economy, Experts Still See a Near 1-in-2 Chance of a Recession,” by Sarah Foster, bankrate.com, Jan. 3, 2024.
+
+“Bankrate’s Interest Rate Forecast for 2024: Mortgages, Credit Cards and More Will Stay Pricey, Even if the Fed Cuts Rates,” by Sarah Foster, bankrate.com, Jan. 2, 2024.
+
+“Credit Card Debt Is at a Record High as Fed Raises Rates Again,” by Cora Lewis, apnews.com, March 22, 2023.
+
+“Take These 12 Steps as the Federal Reserve Keeps Interest Rates High,” by Sarah Foster, bankrate.com, May 1, 2024.
+
+Saving
+
+“Survey: Two-Thirds of Savers Still Earn a Savings Account APY of Less Than 4%,” by Karen Bennett, bankrate.com, March 27, 2024.
+
+“How the Federal Reserve Impacts Savings Account Interest Rates,” by Karen Bennett, bankrate.com, May 1, 2024.
+
+“CD Ladder: What It Is and How to Build One,” by Rene Bennett, bankrate.com, Feb. 27, 2024.
+
+“Why Now Might Be a Good Time to Consider Longer-Term CDs,” by Matthew Goldberg, bankrate.com, April 2, 2024.
+
+“How to Start (and Build) an Emergency Fund,” by Karen Bennett, bankrate.com, Feb. 29, 2024.
+
+“The Best Places to Keep Your Emergency Fund,” by Greg McBride, bankrate.com, Feb. 27, 2024.
+
+“Greg McBride’s 2023 Guide: How to Prioritize Emergency Savings, Retirement Savings and Debt Repayment,” by Greg McBride, bankrate.com, Feb. 28, 2023.
+
+“Is My Money Safe? What You Need to Know About Bank Failures,” by Adriana Morga, apnews.com, April 28, 2023.
+
+“Pros and Cons of a Money Market Account,” by Greg McBride, bankrate.com, March 26, 2024.
+
+Mortgages, Homebuying, and Auto Loans
+
+“Forecast: Mortgage Rates to Gradually Decline in 2024,” by Jeff Ostrowski, bankrate.com, Jan. 2, 2024.
+
+“What the Fed’s Moves Mean for Mortgages, Credit Cards and More,” by Tara Siegel Bernard, nytimes.com, March 20, 2024.
+
+“Housing Market Predictions for 2024,” by Ruben Caginalp, bankrate.com, April 4, 2024.
+
+“Auto Loan Forecast for 2024: Rates Should Ease for Good-Credit Borrowers,” by Rebecca Betterton, bankrate.com, Jan. 2, 2024.
+
+Other
+
+Rose Foundation’s Consumer Financial Education Fund
+
+Transcript
+
+(Please stay tuned for important disclosure information at the conclusion of this episode.)
+
+Christine Benz: Hi, and welcome to The Long View. I’m Christine Benz, director of personal finance and retirement planning for Morningstar.
+
+Amy Arnott: And I’m Amy Arnott, portfolio strategist for Morningstar.
+
+Benz: Our guest on the podcast today is Greg McBride. Greg is chief financial analyst for Bankrate.com, where he has worked for more than 25 years. He received his bachelor’s in finance from the University of Florida. He is also a CFA charterholder.
+
+Greg, welcome to The Long View.
+
+Greg McBride: It’s great to be here. Thanks so much for having me.
+
+Benz: Well, we’re really happy to have you here too. We want to start by discussing Bankrate generally and the role you play as its chief financial analyst. What’s a typical day like for you?
+
+McBride: I guess the good news is there really isn’t a typical. There’s a lot of variety, which is what makes it interesting and makes it fun. But now it’s everything from crunching numbers on data that we’ve gathered or polling that has been done on our behalf, to responding to media inquiries or just seeing what’s going on with the latest economic releases. For example, whether it’s inflation reports, or the jobs report, or a speech by one of the Fed governors. That can not only be impactful to markets, but it can also generate media inquiries. So those are the types of things that we keep up to date on every day.
+
+Arnott: Can you tell us a little bit more about the key areas that are within Bankrate’s purview? Is it mainly bank products for savers and borrowers?
+
+McBride: Namely, yes. As the name implies, Bankrate, that’s really how the company got its start—serving bank products across the spectrum, everything from the savings side over to mortgages, loans, and credit cards. Our website does go beyond that. So, we do have other sections of the site that are geared toward things like getting insurance. For example, if you go to through our mortgage channel, you can also go and get home insurance through that channel. You can get auto insurance through our auto channel. When you’re looking at auto loan rates, the next step there is you can research auto insurance options. So, we are expanding beyond that. But the real base core, if you will, has been bank financial products. But we’re increasingly trying to cover sideline-to-sideline personal finance.
+
+Benz: We want to delve into the current outlook for interest rates, the Fed’s actions. It’s been a little bit vexing, I think, for a lot of people in your shoes. A lot of economists were expecting to see a weakening in the US economy, at least eventually, due to rising interest rates. We had that inverted yield curve, which has been a harbinger of recession in the past. But that hasn’t materialized. And in fact, we’ve had a couple of recent inflation reports that were hotter than expected. So maybe you can talk about that—how you’re thinking about the state of the economy today and the direction of interest rates in the future.
+
+McBride: The economy has continued to surprise to the upside, both in terms of growth as well as employment. Last year, coming into 2023, it was pretty widespread, almost universal, the consensus that we were going to have a recession before the end of the year. It didn’t happen. In fact, the economy grew faster in 2023 than it did in 2022. And as we come into 2024, I think expectation is that things will slow, we’ll see slower growth, slower growth in the economy, slower growth in employment. But that mythical soft landing is more within reach than we would have expected or dreamed of 12 months ago. So, I think the odds of that soft landing, where the economy continues to grow but inflation gets down to 2%, the odds of that have improved every day. The odds of recession, I think, have really faded into the background. I think it’s too early for a victory lap. I wouldn’t say we’re completely out of the woods, but the odds, I think, are certainly in favor of the soft landing. We did a recent poll of economists and only about one in three expects a recession within the next 12 to 18 months, which is about half of what it was this time a year ago when two in three were saying so.
+
+Arnott: Would you say that this has been an especially difficult period to read from an economic standpoint relative to other points in your career?
+
+McBride: I don’t know. That’s a good question. Because there have been, I think, a number of different times where it’s been challenging. We’ve certainly seen things come out of left field. The economy was slowing in late 2019. The Fed was cutting rates, but nobody saw Covid coming and economic growth just completely falling off the cliff and then come roaring back. I think there’s been a lot of unique circumstances over the years that make it difficult. This is certainly one of them, but it by no means has a monopoly.
+
+Benz: What’s your take on the inflation front? Would you say that the Fed can declare victory?
+
+McBride: I think it’s a little early for that. I think things have certainly improved, but inflation is pretty stubborn at this point. It is not going to be a smooth ride down to 2%. It’s not necessarily going to come quickly. I do an annual interest-rate forecast at the beginning of every year. That’s something I start working on usually second half of December. At the time, I said that I expected inflation was going to be pretty stubborn and that the Fed was only going to end up cutting rates twice in 2024. At the time, widespread expectations in the markets were that the Fed was going to cut rates six times or even seven. That always struck me as fantasyland. Even the Fed at the time was saying three. The Fed is still saying three, but now those market expectations have really swung wildly to the point where it’s three or two, or sometimes you hear even some voices saying none this year, and that’s because of those inflation numbers that have been stubborn. We had a nice tailwind in the latter part of 2023 when gas prices were coming down. We don’t have that tailwind. So, as a result, we’ve seen the progress halted, and more recently, we’ve seen the oil prices start to work their way up. I think it’s going to take a couple of months to really see is that something that filters through even into core goods prices, and does that set back some of the progress that we had seen last year on inflation?
+
+Arnott: With that kind of stubborn inflation and some uptick in energy prices, when do you think we will actually see the first rate cuts, and are you still expecting to see about two rate cuts in 2024?
+
+McBride: I think we’re still on track for two. It’s probably not going to start as soon as investors might like. Initially, it was May, and now it was June, but I think even some of those June forecasts are starting to get pushed back. I think a lot will depend on what we get from the CPI reading, for example, next week. If that’s another bad number, those June expectations are going to go right out the window. So, it’s probably going to skew toward the second half of the year, but I still think we’re on track for two, but that’s contingent upon seeing some improvement in inflation, albeit uneven, but continued progress on that front, even if it comes slowly.
+
+Benz: I wanted to ask about the strength of the consumer. It seems like consumer spending has been really quite strong despite high inflation, but as interest rates were going up in 2022 and 2023, there was widespread concern that consumers would start to pull back. I’m wondering if that has materialized when you look at the data. Are there any areas where you’re seeing that, yeah, consumer spending is softening a little bit?
+
+McBride: What we see is really a K-shaped economy where the top 25% of households are doing fine. They’re continuing to spend, and that’s where a lot of discretionary spending is coming from. The top quarter of households contribute about 40% or so percent of the spending in the economy, sometimes a little bit more. On the other hand, 60% of households are living paycheck to paycheck, and that’s where inflation has really done a number, not only on their finances and their ability to make ends meet. You’ve seen savings balances go down, credit card balances going up, but also in confidence. So, there’s really two different things going on right there, and it’s one of those where it’s, if you look at the aggregate numbers, it’s looking at something from 35,000 feet, oh, it looks nice. Then when you’re on the ground, you’re like, ooh, not so nice.
+
+I think it’s kind of the same thing in that if we look at the aggregate numbers, and yes, the consumers continue to spend and everything looks positive, but when you look into the data, you see that for a lot of those households, the spending is happening because stuff costs more, not because everything is super wonderful. We’re seeing credit card balances going up, nobody is financing purchases at 20% interest because everything is wonderful. That’s a pretty clear sign of the financial strain that they’re feeling. So, yes, spending has been really strong, but for 60% of households, there’s not a lot of discretionary happening in that spending. It’s out of necessity and the bulk of the experiential travel and those type of things tends to come at the upper end of the income and wealth spectrum.
+
+Arnott: Within that 60% of households, are there any subsegments of consumers that look especially vulnerable or troubled to you right now? Is it mainly people who have a lot of credit card debt or student loans, for example?
+
+McBride: The credit card debt, I think, is certainly a real problem. I mentioned that we’ve got record-high credit card balances at a time when credit card rates are at a record high, but more people are carrying balances for a longer period of time, and it happens when unemployment has been below 4% for two years in a row. That’s not usually a mix that you see, and I think that’s in and of itself a warning flag. So, yes, paycheck-to-paycheck households, particularly low- and moderate-income households, they have really been feeling the strain, but it’s not exclusive to that segment. For example, there are some, even what we would call higher-income households, that they’ve gone a little overboard with the spending, and they too are in that position where the income may not be keeping up with their spending and their expenses, and as a result, it’s dented savings and resulted in more debt.
+
+Benz: Following up on the student loan question, Greg, I think when loans were on hiatus, student loan payments were on hiatus, I think there was this expectation that when they came back online that that would begin to punish those consumers. What do you see when you look at the data there?
+
+McBride: I’m not sure we’re seeing the full effect yet because I think in a lot of cases, the payments haven’t resumed in the sense that either the borrowers are maybe still not making the full payment; maybe they’re getting into a new income-based payment program; maybe they just haven’t started paying them back yet, knowing that it’s not something that’s going to show up on their credit report right away. So, I don’t know that we’ve seen the full effect there, but it’s a budget-buster for many of those who do have student loan debt. Budgets have been really, really tight the past couple of years just because of the escalation of day-to-day necessities. Then you throw in that, oh, by the way, that $300 a month or $500 a month student loan payment that you were making a few years ago, you’ve got to start making that again. That’s certainly a recipe for financial distress, and I don’t know that that’s one that we’ve really seen the full effects of at this point.
+
+Arnott: On the positive side, you’ve tweeted a couple of times about interest rates went through this rapid rise—took the elevator up in 2022 and 2023, but there’s an expectation that they’ll go down at a slower rate, take the staircase down more gradually. So, it seems like that would be pretty positive for both savers and investors. Is that your take?
+
+McBride: Certainly, for savers. We’ve seen some of the best returns we’ve seen in more than 15 years on safe haven products, and that’s everything from high-yield savings accounts and money market deposit accounts to money funds, Treasuries. And I think that even in an environment where interest rates are working their way a little bit lower, you’re still going to be outburning inflation on those risk-free or safe haven investments. And to string two years in a row together where you can say that, is pretty rare feat. So, I think from the cash investors’ standpoint, the outlook continues to be very positive, that idea that rates coming down but coming down slowly is actually a benefit. Where that’s a hindrance is back to a lot of those borrowers we were talking about a moment ago, where rates aren’t going to fall fast enough to bail you out. If you’ve got credit card debt, you need to focus on attacking that debt aggressively, taking advantage of 0% balance transfer offers to really put the wind at your back and really put the hammer down on paying down the debt because rates aren’t going to fall fast enough to really make a difference and bail you out. You’re going to have to do the heavy lifting on that.
+
+Benz: We have a whole bunch of questions about savings products, which are like the breakout sexy product of 2023 and 2024. But before we get into that, I just wanted to ask about the election in November and to what extent do you think the November election will factor into the Fed’s decision-making around interest-rate cuts? And maybe you can talk about what history tells us about that.
+
+McBride: There’s a tremendous difference of opinion. The Fed says that they do their best to be apolitical and the looming election doesn’t impact what they have to do to be what’s best for the economy. But on the other hand, I think just the awareness of it, that in and of itself can have a subliminal effect. There is a Fed meeting in September and then the next one is right after the election, literally the same week. So, if they get to September and it’s kind of on the fence about, well, do we cut rates or not, it’d be pretty easy to punt until the next meeting, which comes after the election, and then voila, they didn’t have any impact on the election. But by punting, does that have some effect on the economy, again, because they were trying to avoid any appearance of influencing the election or having an impact there? So, a lot of that is how people perceive that I think is going to depend on the lens through which they’re viewing it. But at the end of the day, I think the Fed is ultimately going to make decisions that are based on what they’re seeing in the economic data, and the timing of the calendar is going to be a pretty distant secondary consideration.
+
+Arnott: As Christine mentioned, this has been a great environment for savers. You can get yields of about 5.5% on the shortest end of the yield curve as we’re taping this at the very beginning of April. But one of your colleagues, Karen Bennett, recently wrote that the majority of savers are still in accounts that are yielding less than 4%, even though it’s really not that hard to get a better yield. So, what do you think is going on there?
+
+McBride: We did this consumer poll and we found that two thirds of savers are earning less than 4%, and that’s in an environment where, as you noted, the yields well above 5% are very attainable. And those 5%-plus yields are literally available to everyone. We got a plethora of accounts listed on Bankrate.com, but more than a dozen that are earning more than 5% APY, are federally insured, are available nationwide and have minimal deposits of no more than $100. Literally available to everyone. And so why are two thirds of savers not taking advantage of that?
+
+I think inertia is—it can work for you or against you. And if you just stick in with the same old bank account, same old savings account that you’ve had, you have not benefited from the sharpest run up in interest rates in 40 years. On the other hand, if you’re out there actively seeking better returns and putting your money where it’s going to be welcomed with open arms and higher returns, then you’re in that book where you’re earning 4.5%, 5% or more. And so, the only thing that’s really keeping anybody from earning 5%-plus is the person they see in the mirror. So, it is literally within reach of everyone. Everybody needs that rainy day fund. The ability to outearn inflation on that risk-free savings account, it’s a pretty rare circumstance to take advantage of while you can.
+
+Benz: Just to take a step back, Greg, can you talk about why there is such a huge range of interest rates on offer for these bank-offered products that are basically fungible? Why the huge variation in the return that you’re able to earn?
+
+McBride: What banks pay, whether it’s savings accounts or certificates of deposit, is ultimately a reflection of their desire for deposits. Market share equals pricing power. The banks that have the biggest market share, they’ve also got the most deposits. They don’t need to pay up to keep the deposits they have worked on and certainly not to bring in more. And their yields reflect that. Despite the sharpest increase in interest rates in 40 years, a lot of the big banks are still paying 0.01 on savings accounts, and that’s because they’ve got pricing power. They’ve got market share. They don’t need to pay up.
+
+On the other hand, there are banks out there that they don’t have the thousands of branches and ATMs all over the country. They don’t have billboards all over town. They don’t have their name on the stadium. They can’t outmarket their big behemoth competitors. How can they compete and how can they bring in the deposits that they need? Pay a higher rate of return. And as a saver, we can exploit that difference. We’re not hostage to the 0.01% that the big banks are paying. We can send our savings to a place where it’s going to earn a higher rate of return. We’re going to be able to preserve the buying power of that money. But we don’t have to change anything about our day-to-day banking. We can link that back to the checking account you have at your current bank or credit union.
+
+Arnott: Would it be fair to say that when you’re looking at the old-line brick-and-mortar banks that they might be relatively quick to ratchet down interest rates on their savings products when rates go down, but slower to adjust them upward?
+
+McBride: Yeah, I’d say that’s generally the case. The deposit costs, that’s a cost center. And so, banks, they depend on that interest margin, the difference between what they pay on deposits and what they earn on loans. And so, when interest rates go up, they’re pretty quick to reprice the loans. They reprice deposits as needed when rates fall. It’s going to take a while for that loan book to reprice. So, what do they have greater control over is what they’re paying on deposits. And so, yes, they do tend to move those down at a much quicker rate, which is how some of those banks ended up at 0.01% in the first place.
+
+Benz: I wanted to ask another, I think, pretty basic question. But we’re in this situation where bonds are yielding less than savings products today. In my investment career, I don’t remember that there’s been as long a stretch where this has been the case. Can you explain why this happens and maybe also help us size up this period relative to history that you’ve observed?
+
+McBride: You mentioned the inverted yield curve at the top of the segment. And that’s got a lot to do with it in the sense that because of the expectation that interest rates are going to come down—how much and when still to be determined—but the expectation is that interest rates are going to come down. The longer you go out of the yield curve, the less you’re earning. That’s certainly true with Treasuries, but it’s also true in terms of CDs and a lot of bonds, for example, particularly on the investment-grade side. So, the very short-term yields still reflect an environment where the fed-funds rate is as high as 5.5%. But the expectation that it’s not going to stay that way forever is why you find longer-term instruments that have yields that are below that.
+
+So, yes, you can put your money in a savings account earning over 5%, but once the Fed starts cutting rates, it’s probably not going to be earning 5%. It’s going to come down too. If you want safety and stability in terms of what you’re going to earn on a rate of return and you’re willing to commit your money for a period of time, yes, you can lock into a bond or a CD and do that, but the yield is going to be lower to reflect the expectation that by the time that matures, interest rates are expected to be considerably lower than what they’re at today.
+
+Arnott: If you are expecting that the Fed will be lowering rates and you don’t need the liquidity, do you think that locking in a five-year CD with a rate of 4.6% or 4.7% is a smart option today versus staying on the shorter end of the yield curve?
+
+McBride: The key ingredient there is, as you said, you don’t need the liquidity. Time horizon really has to be the determining factor. You can’t put yourself in a position where you’re chasing yield, and particularly now, yield curve is a burden. So, if you go longer term, you’re taking a lower yield than you could get on a shorter term. You don’t want to have to then cash out early and then give some of that yield back in the form of an early withdrawal penalty. So, time horizon is really now the determining factor of what maturity you pick. But yes, if you don’t need the liquidity, if you have the luxury of locking up your money for five years, I think the five-year CDs are very compelling right now, whether you’re a retiree that’s looking to set up future interest income, you have a specific expense at a particular time in the future, or you’re just looking to diversify an otherwise equity-heavy portfolio.
+
+Benz: Sticking with CDs for a moment, we wanted to ask about laddering CDs. We talk to a lot of retirees, and they say that that’s something that they like to do to help supply their cash flow needs for the years ahead. What do you think about laddering a portfolio of CDs today, even though the yields on shorter-term CDs are higher than the longer-term ones?
+
+McBride: Well, laddering in and of itself is kind of an all-weather strategy. The idea there is you’re diversifying among a range of maturity dates. So laddering is not how you’re necessarily going to optimize your interest earnings and get the absolute peak in the cycle that avoid the absolute bottom. Instead, what it’s designed to do is really smooth out those peaks and valleys and give you a more predictable stream of interest income, which is really what retirees are after. So, I think now is an awesome time to be setting up that ladder. It just the reality of it is, as those instruments mature in the years ahead, you’re likely to be reinvesting at lower rates of return. But by virtue of the ladder, you’re only ever reinvesting a portion of your money at a given point in time, not the whole ball of wax. And so that diversifies your exposure to falling interest rates from that standpoint.
+
+Arnott: If I’m shopping around CDs, whether I’m trying to set up a CD ladder or just buying one CD for a set time period, should I just look for the highest rate and call it a day? Or are there other factors to consider as I’m deciding what type of CD I want to purchase?
+
+McBride: Certainly, I think a couple of other factors you want to take into consideration, especially where else you may have money. For example, if you already have $200,000 in CDs at a particular bank, well, you don’t want to go out and put another $100,000 in there and put yourself over the Federal Deposit Insurance Corporation limits. And so, you have to certainly consider that. We mentioned the time horizon, that being a factor. But also, it’s a very competitive landscape. And so, you’re not necessarily tied to just one particular bank. If you want to get a competitive return, there are plenty to choose from. So, you see the one at the top of the list. Maybe you already have a few other CDs with them, and you don’t want to put more money with them, you can go to the next on the list. Maybe it’s a bank that you had a previous experience with, and you’re like, and I think I’ll try somebody else. You have that option. It’s a competitive field. There are plenty of other banks that are offering competitive returns. So, yeah, I think you can take other factors into consideration, but not feel like you’re sacrificing a lot in order to do so.
+
+Benz: In addition to information on different CDs and their interest rates, Bankrate also has information on savings accounts, high-yield savings accounts, as well as money market accounts. Maybe you can help us with the terminology there. What’s the difference among those three account types?
+
+McBride: Well, savings accounts and money market deposit accounts are, from a functionality perspective, kind of six of one, half a dozen of the other. They’re both designed to meet the same need, which is the need for immediate cash, not a transaction account that maybe you’re paying all your monthly bills out of, but you get an unexpected car repair bill or other unplanned expense, it’s the money that you tap into for that. A lot of the top-yielding accounts, you’ll see it’s a mix of savings accounts and money market deposit accounts. So, from a saver’s perspective, you’re really indifferent as to what nomenclature is attached. You want the Federal deposit insurance. You want to deal directly with the institution and know that your money is liquid. You can get to it when it’s needed and you’re earning a competitive rate of return.
+
+CDs are a time deposit. So, they’re more akin to bonds, where you’re committing your money for a period of time, but you also know exactly what you’re going to earn for that period of time. And if you renege on your end of the deal, in other words, you cash out early, you’re going to pay an early withdrawal penalty. That’s typically the forfeiture of interest for some period of time. Now, the little-known fact about early withdrawal penalties a lot of people don’t realize is that if you cash out of a CD and you haven’t earned enough interest to satisfy that early withdrawal penalty, they can dig into the principal for the difference. So, now, the cost of misjudging your time horizon not only has erased your return, it’s also erased some of your principal. Well, the whole reason you put your money in a CD is to preserve the principal. So, it really comes back to that time horizon being the determining factor, whether or not you’re in the market for a CD and if so, which maturity is right for you.
+
+Arnott: You mentioned the $250,000 limit for FDIC insurance and that being one of the reasons why you don’t want to have too many assets with one institution. There are also some firms now like Wealthfront, Betterment, and others who are offering much higher FDIC insurance limits, maybe up to $5 million or $8 million per depositor by working with a network of partner banks. Do you have any opinion on those types of programs or is there any risk under the surface with those programs?
+
+McBride: A lot of banks in fairness offer those options too, and some of those have been around for decades, some of these programs that banks use, and that allows them to be able to accommodate that high-net-worth client who—they bring a lot of money in the door, they can for the purposes of Federal deposit insurance, farm that out to their network of banks. But the customer gets the convenience of dealing with their preferred financial institution—we’ll deal with one bank, not 30 different banks. But for purposes of Federal deposit insurance, that may be chopped up into little pieces and farmed out to all those banks just so they stay under the Federal deposit insurance limit at all those banks. So, yeah, I think as we all got a reminder of about a year ago at this time with the failure of Silicon Valley Bank, among others, is there’s no sense having money in a bank that’s uninsured. You’re not being compensated for that risk. Federal deposit insurance is paid for by the banks, not by you. So, utilize it, make sure whenever money you’ve got on deposit with a bank, or a credit union is fully covered by Federal deposit insurance. And there are a lot of different ways to do that, many of which are involved still dealing with just one bank because they offer these programs that allow them to expand the amount of insurance coverage they offer to their clients.
+
+Benz: In a related vein, money market mutual funds, of course, are not FDIC-insured. There’s no guarantee of principal stability there, and we saw that in stark display during the great financial crisis. But it seems like one workaround would be to just invest in a money market mutual fund that invests in Treasury bonds, where you have a really good likelihood of being made whole. So, what do you think about that idea as a workaround for people with, for whatever reason, a lot of cash assets who don’t want to monkey around with bank FDIC protections?
+
+McBride: I think money funds are certainly a fine supplement to what you have. For example, the money that you’ve got in your brokerage account that you want to be able to put to work at a moment’s notice if the market has a bad day or a bad week, money fund is the place to have that money that’s instantly available at the point you want to invest. So, I don’t think this is necessarily all or nothing. Particularly for higher-net-worth clients, they like the idea of having some diversification in terms of where their different accounts are. Just that way, they don’t ever feel like they’re locked out of their money. And so, you may very realistically have a money fund or two with different brokerage accounts, but then also have a high-yield savings account that is for your emergency fund or money market deposit account that’s for a specific cash need that you have coming up in the next couple of months.
+
+Arnott: We’ve been talking a lot about cash and different types of accounts that people can use to hold cash. And definitely, if you look at a 5%, 5.5% yield, that is pretty attractive. But do you think there could be a risk that some investors are overallocating to cash right now?
+
+McBride: That’s a great question. Like I said, we’ve seen some of the best yields on cash that we’ve seen in more than 15 years. I think for most consumers, the problem is they don’t have enough cash. They’re anemically low on things like emergency savings. But for those that are higher-mass affluent, higher-net-worth households, yeah, I do think that there is a risk, particularly in times of market volatility. You look at 2022, both the bond market and stock market suffered losses that year and fairly steep ones. And at the time, interest rates were on the rise. So, I think there’s a lot of money that probably gravitated toward cash at that point in time that maybe hasn’t made its way back into those other asset classes, even though we’ve seen a nice rebound, particularly on the equity side with the market going on to set new record highs. So, yeah, I do think there’s a risk of having too much in safer haven investments. And as we’ve seen time and time again, the tendency to chase performance where just money came out of stocks and bonds when the prices were falling and went into cash, and the money is only going to come back out of cash and into stocks and bonds now that asset values are fully recovered, and you get to pay full price. That bad habit that investors have of chasing performance and in the process getting the timing all wrong.
+
+Benz: We’ve been talking about how this has been such a boon to savers, but we also wanted to talk about borrowers, the other side of the ledger. It’s not been such a happy situation for people in the market for new mortgages, for example. There’s that old saying that you should date the rate and marry the house. And so, I’m wondering if you can talk about whether you think that’s good advice for homebuyers in a market like the current one, that should they just focus on finding a house that they like and can afford and assume that they’ll be able to refinance at some later date? How should they approach it?
+
+McBride: I wouldn’t use the word assume, but I would say certainly prepare for the opportunity to refinance. So, yeah, I think by and large, that’s very apropos right now. And it’s why I’m not a fan of necessarily paying discount points in this environment to buy down your rate. You part with a lot of cash to buy down your rate just a little bit. And often, it will take you five or six years to earn that back. Well, there’s a fair chance rates will drop a little bit in the next five or six years to the point where you’d refinance. You take out a loan today at 7%. If rates fell to 6.25%, you’d be all over it to refinance.
+
+So, I’m not a fan of paying the discount points right now because I don’t necessarily think you’re going to get the return on investment. Likelihood is much higher that you get enough of the drop-in rates to be able to refinance. And I think for a lot of homebuyers and homeowners that have taken out loans with rates of 7% or even 8% like we saw last fall, that if interest rates were to fall over a prolonged period of time, that you could find yourself as a serial refinancer, that you basically, refinancing every time rates drop 75 or 100 basis points, doing it again and again. And who knows if that will happen and how low rates will go. But I do think that you will see ample refinancing opportunities come about over the next few years that certainly warrant that. So, I would certainly say be prepared. I would assume don’t sacrifice affordability. Make sure this is a payment you can live with. If things don’t materialize, and rates don’t fall, you’re the one that’s on the hook for the payments. But if things play out as expected, we do think mortgage rates are going to fall and you want to be prepared to take advantage of that.
+
+Arnott: With that widespread expectation that rates will fall eventually, are you seeing more people taking out adjustable-rate mortgages?
+
+McBride: Not really. And there was, I think, a little tendency of the media to over-report this about a year ago, when the percentage of applicants that were applying for adjustable-rate mortgages reached a multiyear high of 9%, which, if my math is correct, that means that about 10 out of 11 borrowers was not taking adjustable-rate mortgage. But yet, somehow, the surge and popularity of adjustable-rate mortgages became newsworthy. So, I think a little bit was overstated—it had been 6%. It went up to 9%. But it was still really, really low. And even now, it’s still very, very low. The fixed-rate mortgage, and specifically the 30-year fixed, is the dominant product, and with good reason. It’s the best gauge of affordability. There are plenty of areas of life to take risk. Your house is not one of them.
+
+Benz: I realize it’s kind of tangential to your work. But I wanted to ask about that National Association of Realtors settlement over agent commissions. There’s been a lot of discussion about the impact that that will have on buying and selling homes and the cost of buying and selling homes and the home market. Can you talk about that, especially the consumer implications?
+
+McBride: I think the design or the ideas that over time, it’s going to reduce transaction costs, particularly for sellers. And that’s certainly a good thing. The US has some of the highest transaction costs for real estate of any place in the world. And somebody can sell $300,000 worth of stock for literally pennies. But you go to sell a $300,000 house and you get back 8% or 9% in terms of various transaction costs. So, yeah, something’s got to change there.
+
+I’m curious to see how this unfolds. And I think it’s going to evolve over time. But I do worry if there might be the unintended consequence of buyers, particularly first-time buyers, find themselves perhaps a little orphaned in the environment in the sense that all the money is on the sales agent side. The more you gravitate to that side, all of a sudden, the first-time buyer who needs some guidance, maybe they don’t have as many people willing to take them around. Or you have buyers that they flat out can’t afford to pay out of pocket for the cost that it would take to retain a buyer’s agent. So, they either go it alone or maybe they go with the à la carte model. I think you’ll see more and more of that popping up as well, where I can drive myself around and look at houses, but what I really need is somebody who can look over the paperwork and those kinds of things, so paying a specific price for specific services that cover particular aspects of the process.
+
+Arnott: Another decision that people are faced with when they’re buying a house is whether they should use a mortgage broker. Can you talk about the pros and cons of using one?
+
+McBride: I’m just a big fan of casting a wide net. Not everybody charges the same price. You want to get the best deal for your money. And that means shopping around. And you certainly start with your own financial institution. But casting that wide net means doing a search, looking more broadly. That could be utilizing a mortgage broker. It could be using a site like Bankrate.com to compare among various mortgage lenders. The point being, cast a wide net and make sure that you can get the best deal that you can actually qualify for. Just go with the first one you see or the guy you know—you don’t have the context. Maybe you are getting a great deal. But unless you’ve been able to compare that to something else, you really don’t know if that’s the best deal you could get. So, I’m just a big fan of casting a wide net. Included in that net are mortgage brokers, traditional mortgage banks, credit unions. Casting that wide net is how you’re going to get the full scope of the marketplace.
+
+Benz: I wanted to ask about auto loans. Those interest rates have shot up a lot. And the terms are also really long, like seven years, eight years. Can you talk about what people should know if they’re in the market for a car and they have to finance it?
+
+McBride: This is one I think doesn’t get nearly enough attention. When you look at the strain that household budgets are feeling, oftentimes the reason for that is sitting in the driveway. Auto payments are budget busters. And particularly with the escalation of sticker prices and Americans’ preference for ever larger and more expensive vehicles, you’re seeing more and more amounts financed stretched over longer periods of time. And as you noted on top of that, interest rates have gone up pretty dramatically over the past couple of years. And so, you’re seeing an increasing number of borrowers who are taking payments at $700 or $800 a month for one vehicle. And many households have more than one vehicle. So, how much of that monthly budget is getting poured into car payments? It’s a depreciating asset.
+
+So, yeah, not a great time for buyers. And if so, do what you can to minimize the amount you’re financing and the period of time you’re financing it over. The goal is to get yourself to a point where you’ve got life without car payments. Because then, instead of pouring $700 or $800 a month into payments, now that $700 or $800 a month can go into savings, building up a little bit of a nest egg that you can use to pay cash for the next vehicle, or at least make a big dent in the amount that you have to finance. Unfortunately, a lot of people are on the wrong side of that, where they’re rolling negative equity into each new purchase. And so, over time, the amount they’ve owed has grown larger and larger and larger. So, it’s not just the vehicle that’s getting larger and larger. Over time, it’s the amount that’s owed, it goes up every time they trade a vehicle in, roll over the negative equity to buy an even pricier vehicle.
+
+Arnott: It’s interesting. We’ve talked to a couple of other people on the podcast who have pointed out that, especially for people who maybe grew up in poorer families and are just starting to make more money, that a really nice car is a very tangible sign of wealth and a way of maybe showing their friends, neighbors, even themselves that they’re doing well. And it seems like that is one of the reasons why a lot of people might tend to overspend on cars in particular.
+
+McBride: Completely agree. Unfortunately, it is seen as a status symbol, but it will eventually be a rust bucket. On the other hand, homes tend to appreciate in value. So, if you’re looking for a status symbol, at least pick one that’s going to appreciate over time, not one that’s going to depreciate.
+
+Benz: So, picking up on Amy’s question, you’ve been involved in credit counseling—providing credit counseling, I should say. Do you have any tips for people who have had issues with racking up credit card balances or other types of debt?
+
+McBride: I think the first thing—and I’m glad you brought this up—the first thing really is just knowing that there is help out there. There are options out there. You’ve mentioned my involvement in nonprofit credit counseling, I served on different boards in that industry for about a dozen years. And I did so on a volunteer capacity because I saw firsthand the great work that they do for people. And so, if you’re having problems with debt, if your balances are going up rather than down, if you’re having trouble making the payments, you’re not in this alone. One of the steps you could take, particularly if you feel like you just can’t get a handle on this, is to work with a nonprofit credit counseling agency. They can really work with you to help with things like budgeting. They can even negotiate with your creditors to negotiate lower interest rates, put you on a repayment plan—the end goal to get you out of that debt altogether and get you on a pathway toward financial stability. So, knowing that those options are out there, the great work that they do for people, that’s the thing that I shout from the mountain tops.
+
+Arnott: So, also on the nonprofit side, you’re a member of the board of the Rose Foundation’s Consumer Education Fund, and you’ve been an advocate for financial literacy. Why do you think financial literacy is still generally pretty poor?
+
+McBride: It is still generally pretty poor. No doubt about that. We don’t teach it enough in schools. We don’t teach it early enough. There’s not necessarily enough positive role-modeling in the sense that a lot of the parents don’t have a handle on their finances. So, how could they possibly model good habits for their kids? So, the cycle then repeats itself.
+
+I don’t know that there’s a one single magic bullet here, but certainly making it a higher priority in the education system and over an extended period of time, and then putting people in those positions to teach it that have experience in the field, that can impart those positive habits on the part of students. One of the things I did a number of years ago was I did some guest lecturing at Rutgers University, and they had a class that was in part dedicated to financial literacy, and it was always oversubscribed every semester. So, again, it just shows the demand is out there. People know that they don’t know enough, and they want to know more, and yet, I think collectively, at least from an education system standpoint, I think we kind of let them down.
+
+Benz: Wondering, Greg, you’ve been doing this a long time. Can you talk about what you think is one of the most underrated or underdiscussed aspects of personal finance?
+
+McBride: Successful saving is all about the habit. There’s really not a whole lot of magic to it. Particularly when you’re young and your earnings are low, the sooner you can get in the habit of saving 10% to 15% of your income, the better, because that habit will then stay with you for years to come. As your earnings grow, so too will your savings. What’s unlikely to happen, what’s not going to happen is you’re going to get to a certain age and all of a sudden, flip a switch and become a great saver. But yet, all the time, you hear people say, well, I’ll start saving as soon as I get the debt paid off. Well, I’ll start saving as soon as I get that next raise. Those milestones come and go, and guess what, the savings never really gets started.
+
+So, I’m just a big fan of establishing that habit of saving right from the get-go, from that very first paycheck. And the sooner you can do that, the better, because it will stay with you for years to come, time being your greatest ally from the standpoint of building wealth. Every dollar you put away into a tax-advantaged retirement account when you’re in your 20s, could be $15 or $20 by the time you retire. And so, that power of compounding is, it’s really compelling. But you’ve got to get in the game to be able to participate.
+
+Arnott: We’ve been hearing a lot about this new trend of so-called loud budgeting, where people are trying to be much more open about their finances. And maybe if they can’t go to an expensive restaurant with their friends, they’ll explain why that is and the fact that they’re trying to be more responsible with their finances. Do you think that that’s a positive thing?
+
+McBride: If it works, I’m all for it. I think whatever works for people, there’s not necessarily a right or a wrong way to do it. You’ve just got to find what works for you. It’s comforting to see that just this peer pressure I think has led people down a path of overspending and keeping up with the Joneses and trying to keep up with appearances. It’s nice to see the pendulum swing the other way and create a safe place where, hey, being mindful of your dollars, cutting back, doing without, it’s OK. And in fact, in our group, it’s cool. So, I think in that respect, it’s a very positive development.
+
+Benz: Well, Greg, we’ve loved hearing your insights today. Thank you so much for taking time out of your schedule to be with us.
+
+McBride: Oh, thank you both very much for having me. It’s been a pleasure.
+
+Arnott: Thanks again, Greg.
+
+Benz: Thank you for joining us on The Long View. If you could, please take a moment to subscribe to and rate the podcast on Apple, Spotify, or wherever you get your podcasts.
+
+You can follow me on social media @Christine_Benz on X or at Christine Benz on LinkedIn.
+
+Arnott: And at Amy Arnott on LinkedIn.
+
+Benz: George Castady is our engineer for the podcast and Kari Greczek produces the show notes each week.
+
+Finally, we’d love to get your feedback. If you have a comment or a guest idea, please email us at TheLongView@Morningstar.com. Until next time, thanks for joining us.
+
+(Disclaimer: This recording is for informational purposes only and should not be considered investment advice. Opinions expressed are as of the date of recording. Such opinions are subject to change. The views and opinions of guests on this program are not necessarily those of Morningstar, Inc. and its affiliates. While this guest may license or offer products and services of Morningstar and its affiliates, unless otherwise stated, he/she is not affiliated with Morningstar and its affiliates. Morningstar does not guarantee the accuracy, or the completeness of the data presented herein. Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from or related to the information, data analysis, or opinions, or their use. Past performance is not a guarantee of future results. All investments are subject to investment risk, including possible loss of principal. Individuals should seriously consider if an investment is suitable for them by referencing their own financial position, investment objectives and risk profile before making any investment decision.)
+
+What are the secrets to a healthy, happy, and wealthy retirement? Find out with Christine Benz’s new book, “How to Retire”
+Pre-Order
+
+The author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.
+
+Share"
+current annual percentage yield for high-yield savings accounts,Top 6 Portfolio Moves for 2024,No disponible,https://www.morningstar.com/portfolios/top-6-asset-allocation-moves-2024,"Home
+Portfolios
+Top 6 Portfolio Moves for 2024
+Top 6 Portfolio Moves for 2024
+
+Asset allocation adjustments to consider for the new year.
+
+Amy C. Arnott, CFA
+Dec 26, 2023
+Share
+Securities In This Article
+Alphabet Inc Class A
+(GOOGL)
+Tesla Inc
+(TSLA)
+Microsoft Corp
+(MSFT)
+NVIDIA Corp
+(NVDA)
+Amazon.com Inc
+(AMZN)
++2 More
+1. Check to see if your portfolio needs rebalancing.
+
+While periodically buying and selling holdings to bring your portfolio’s asset allocation in line with your target levels doesn’t usually enhance returns, rebalancing is a critical step for keeping a portfolio’s risk level in check. As market segments move in and out of favor, some areas of your portfolio might drift far above your original targets, while other areas might end up too low. If it’s been a few years since you rebalanced your portfolio, you’ll probably find that you’re overweight on domestic stocks (which have outperformed in eight of the past 10 calendar years, including the year to date in 2023) and light on international stocks. Similarly, as growth stocks returned to the fore in 2023, your portfolio might be overweight on growth stocks and light on value.
+
+2. Consider adding to your portfolio’s bond allocation.
+
+Bond investors have had a rough couple of years. The bond market suffered its worst calendar-year performance ever in 2022, when a series of aggressive interest-rate hikes led to a 13% drop in the Morningstar US Core Bond Index. Bonds fared better in 2023 but still suffered losses during the second and third quarters of the year.
+
+But after this series of events, bonds have much better prospects for future performance. That’s because bonds are now offering significantly better yields than they did a couple of years ago. The 10-year Treasury bond offered a nominal yield of 3.9% as of Dec. 26, 2023. That’s down slightly from earlier this year but still higher than yields that prevailed during most of the period following the global financial crisis. The starting yield on bonds is a strong indication of future returns, so higher bond yields suggest that future returns should be better than those in the recent past. Bond yields are not only attractive in historical terms but also relative to stocks. While earnings yields on stocks exceeded those on the 10-year Treasury bond yield from 2009 through 2022, the spread between stocks and bonds is now much smaller.
+
+There are some caveats, though. Even though the prospects for future bond returns look decent, bonds aren’t likely to keep pace with stocks over longer periods. If you’re looking to save up for a long-term goal such as retirement, you’ll want to make sure your portfolio also includes a healthy dose of stocks.
+
+3. Make sure you’re getting a competitive yield on your cash holdings.
+
+During the long period of near-zero interest rates, there wasn’t much need to shop around for interest rates on cash and other short-term holdings. Yields were low no matter what. But now that yields on the three-month Treasury bill are hovering around 5.4% (as of Dec. 26, 2023), it pays to make sure you’re getting a competitive interest rate. Traditional brick-and-mortar banks offer some of the worst payouts, with annual percentage yields averaging about 0.5% as of Dec. 18, 2023. It’s not difficult to find significantly better yields on high-yield savings accounts; money market funds; certificates of deposit; or Treasury bills, purchased via Treasury Direct.
+
+If you don’t need immediate liquidity from your cash holdings, consider building a ladder of CDs or Treasury bills to lock in higher rates over a slightly longer period.
+
+4. But don’t overdo it on cash.
+
+As mentioned in the previous section, cash yields have been unusually generous lately. Yields on the three-month Treasury bill have been as high as 5.5% so far in 2023—their highest level since December 2000. That’s not only decent in absolute terms but also well ahead of inflation, which has been running at about 3.1% year over year based on the most recent data reported on Dec. 12, 2023. The attractive yield on cash has led to a flood of cash in money market funds, totaling more than $1 trillion for the 12-month period through Nov. 30, 2023.
+
+But as I wrote in a recent article, loading up on cash can be too much of a good thing. It makes sense for most investors to hold some liquid reserves to cover emergencies and short-term spending needs. Retirees may want to hold a bigger chunk of cash to cover planned portfolio withdrawals for at least two to three years. For other investors, however, cash isn’t the best way to build long-term wealth.
+
+5. Don’t get too complacent about inflation.
+
+After a series of encouraging inflation reports, the market has been heartened to see evidence that inflation is finally under control. The current consensus forecast is for inflation to ease to about 2.4% by the end of 2024.
+
+That would undoubtedly be a great outcome, but there are a few things to keep in mind. First, even 2.4% is still higher than the Fed’s long-term target of 2.0%. And even moderate inflation represents a significant loss of value over time: A 2.0% annual inflation translates into nearly a 22% loss of purchasing power over 10 years. Second, the market’s current inflation outlook could prove overly optimistic. Unemployment remains well below longer-term averages, while huge amounts of pandemic-driven spending have led to record budget deficits.
+
+Most investors will therefore probably want to maintain some level of inflation protection, such as Treasury Inflation-Protected Securities, I Bonds, or a small stake in commodities.
+
+6. Consider adding some exposure to small-cap stocks.
+
+Bigger has been better for most of the past decade. While smaller-cap stocks pulled ahead in 2022, mega-cap stocks—especially the “Magnificent Seven” (Alphabet GOOGL, Amazon.com AMZN, Apple AAPL, Meta Platforms META, Microsoft MSFT, Nvidia NVDA, and Tesla TSLA) stocks that have dominated the market—have outperformed in eight of the past 10 calendar years. For the year to date through Dec. 21, 2023, for example, the Morningstar US Large Cap Index posted a gain of about 29%—about 9 percentage points higher than Morningstar’s small-cap benchmark.
+
+As a result, valuations on small-cap stocks are now looking significantly more attractive. While large-cap stocks look fairly valued overall, the average small-cap stock was trading at a 19% discount to fair value based on Morningstar’s analyst estimates as of Dec. 13, 2023. Granted, smaller companies tend to be less profitable and have weaker balance sheets than bigger, more-established companies. As a result, they could fall behind if the U.S. economy weakens. Still, long-term investors may want to consider adding a modest stake in smaller-cap issues, partly as a counterweight to the large, growth-oriented tech stocks that now dominate most broad market indexes.
+
+The author or authors own shares in one or more securities mentioned in this article. Find out about Morningstar’s editorial policies.
+
+Share"
+current annual percentage yield for high-yield savings accounts,Bryan Armour: Is Index Investing’s Superpower Unstoppable?,No disponible,https://www.morningstar.com/personal-finance/bryan-armour-is-index-investings-superpower-unstoppable,"Home
+Personal Finance
+Bryan Armour: Is Index Investing’s Superpower Unstoppable?
+Bryan Armour: Is Index Investing’s Superpower Unstoppable?
+
+A Morningstar researcher discusses rising passive share, bitcoin ETFs, and the future of active management.
+
+Christine Benz
+ and Dan Lefkovitz
+Mar 19, 2024
+Share
+
+Listen Now: Listen and subscribe to Morningstar’s The Long View from your mobile device: Apple Podcasts | Spotify | Google Play
+
+Our guest this week is our colleague, Bryan Armour, who is director of passive investment strategies research, North America, for Morningstar Research Services. Bryan is also editor of the ETFInvestor newsletter. Before joining Morningstar in 2020, Bryan spent seven years working for Finra, the Financial Industry Regulatory Authority, conducting trade surveillance and investigations specializing in exchange-traded funds. Prior to Finra, he worked for a proprietary trading firm as an options trader at the Chicago Mercantile Exchange. Bryan holds a BA in Economics from the University of Illinois and the Chartered Financial Analyst designation.
+
+Background
+
+Bio
+
+Passive Investing and ETFs
+
+“Index Funds Have Officially Won,” by John Rekenthaler, Morningstar.com, Feb. 13, 2024.
+
+“Active Funds Fell Short of Passive Peers in 2023,” by Bryan Armour, Morningstar.com, March 12, 2024.
+
+“It’s Official: Passive Funds Overtake Active Funds,” by Adam Sabban, Morningstar.com, Jan. 17, 2024.
+
+“ETFs vs. Mutual Funds: The Benefits That Really Matter,” by Bryan Armour, Morningstar.com, Feb. 6, 2024.
+
+“2023 Model Portfolio Landscape,” Morningstar.com.
+
+“Markets Are ‘Fundamentally Broken’ Due to Passive Investing, Says David Einhorn,” by William Watts, marketwatch.com, Feb. 9, 2024.
+
+“How Fund Fees Are the Best Predictor of Returns,” by Russ Kinnel, Morningstar.com, Jan. 12, 2016.
+
+“Cage Match: Traditional Index Funds vs. ETFs,” by Christine Benz and Margaret Giles, Morningstar.com, Oct. 20, 2023.
+
+“Global Fund Flows: 2023 in Review,” Morningstar.com, Feb. 6, 2024.
+
+“A Closer Look at Vanguard’s Newest Core Bond ETFs,” by Dan Sotiroff, Morningstar.com, Feb. 12, 2024.
+
+“3 New ETFs That Stand Out From the Pack,” by Ryan Jackson, Morningstar.com, Aug. 30, 2023.
+
+“Converting Mutual Funds to ETFs: What to Make of the Trend,” by Daniel Sotiroff, Morningstar.com, April 11, 2023.
+
+“How to Choose a Great Dividend ETF,” by Dan Sotiroff, Morningstar.com, May 17, 2023.
+
+“The Best and Worst New ETFs of 2023,” by Bryan Armour, Morningstar.com, Dec. 19, 2023.
+
+Bitcoin and Covered-Call ETFs
+
+“Spot Bitcoin ETFs Are Here. Should You Invest?” by Bryan Armour, Morningstar.com, Jan. 11, 2024.
+
+“Grayscale’s Victory Over the SEC Doesn’t Mean a Spot Bitcoin ETF—for Now,” by Bryan Armour, Morningstar.com, Aug. 30, 2023.
+
+“Should You Buy a Covered-Call ETF?” Video interview with Bryan Armour and Ruth Saldanha, Morningstar.com, June 14, 2023.
+
+Securities Mentioned
+
+iShares ESG Aware ETF ESGU
+
+iShares MSCI USA Quality Factor ETF QUAL
+
+ARK Innovation ETF ARKK
+
+Grayscale Bitcoin Trust (BTC) GBTC
+
+JPMorgan Equity Premium Income ETF JEPI
+
+Global X Nasdaq 100 Covered Call ETF QYLD
+
+Vanguard’s High Dividend Yield ETF VYM
+
+BlackRock Flexible Income ETF BINC
+
+Schwab High Yield Bond ETF SCYB
+
+T. Rowe Price Capital Appreciation Equity ETF TCAF
+
+2x Bitcoin Strategy ETF BITX
+
+YieldMax AI Option Income Strategy ETF AIYY
+
+Other
+
+“The ETF Rule: What It Is and Why It Matters,” by Irene Huhulea, Investopedia.com, Jan. 25, 2024.
+
+Bryan Armour: Index Investing Is a Runaway Freight Train
+
+A Morningstar researcher discusses rising passive share, bitcoin ETFs, and the future of active management.
+
+(Please stay tuned for important disclosure information at the conclusion of this episode.)
+
+Dan Lefkovitz: Hi, and welcome to The Long View. I’m Dan Lefkovitz, strategist for Morningstar Indexes.
+
+Christine Benz: And I’m Christine Benz, director of personal finance and retirement planning for Morningstar.
+
+Lefkovitz: Our guest this week is our colleague, Bryan Armour, who is director of passive investment strategies research, North America, for Morningstar Research Services. Bryan is also editor of the ETFInvestor newsletter. Before joining Morningstar in 2020, Bryan spent seven years working for Finra, the Financial Industry Regulatory Authority, conducting trade surveillance and investigations specializing in exchange-traded funds. Prior to Finra, he worked for a proprietary trading firm as an options trader at the Chicago Mercantile Exchange. Bryan holds a BA in Economics from the University of Illinois and the Chartered Financial Analyst designation.
+
+Before we begin the discussion, I should say that I’m part of Morningstar’s Index group and we license to ETF providers, but we will not be discussing any investable products tracking a Morningstar Index today. In fact, Bryan’s team doesn’t cover them.
+
+Bryan, thanks so much for joining us on The Long View.
+
+Bryan Armour: Thank you both for having me.
+
+Lefkovitz: Absolutely. Well, we wanted to start off with a major milestone that we hit recently in the US market, not referring to the bitcoin spot ETFs that started trading, but the fact that passive strategies now account for the majority of assets in funds and ETFs and on a global basis, passive share is about 40%. Our colleague, John Rekenthaler, recently wrote that index funds have officially won. So, do you see anything that could slow the rise of index investing?
+
+Armour: It’s a runaway freight train right now. But no, it’s been a long, persistent trend. And I think the real reason why it’s done so well is because of the cost story. Passive investing comes with lower fees, lower trading costs, greater tax efficiency. And that’s going to be hard for active managers to beat consistently because they have to beat passive on a gross basis and then by more than the difference in their fees as well.
+
+To take a step back, indexes are concentrated right now, market-cap-weighted indexes. And so, I think the S&P 500 is the highest concentration in top 10 holdings in the past 50-some years. And so there is an opportunity for active investors, I think. And you have these zombie flows that are coming from passives where it’s like savings come in and just go out to the market where active managers could really find an advantage. And so, a rough stretch for cap-weighted indexes might not be enough to move passives off the mark. But the best chance for active managers to get back on top is to cut costs and take away passives’ superpower.
+
+Benz: Well, we want to delve into some of those themes and some of the performance trends that you and the team have observed. But sticking with fund flows: It had been the case that investors were preferring actively managed fixed-income funds, but even that seems to have shifted toward passive over the past several years. Can you talk about that because it seems like the fundamental case for an active strategy in fixed income is stronger than is the case for equities, but maybe you can delve into that and what you’re seeing in terms of flows?
+
+Armour: So, in general, we’re seeing—if you draw a straight line, it’s from active mutual funds, going out of active mutual funds into passive ETFs. And it’s generally true across the board for fixed income, equity, and so on. And so, it does make the most sense, I think, to go passive in the areas where there’s the richest information embedded in prices of stocks, for example, or US Treasuries as a fixed-income example. So, large-blend-style funds, those types of stocks have the widest coverage, the fastest reaction to changes in information about the companies. And so, they tend to be priced very well, and passives can really free ride that pricing by active managers and kick it back to investors for a lower cost. Where there are some issues, like you said, or how do you index the bond market? And if you go by market weighting, then you end up investing the most in the most indebted issuers. So, in some cases, for core bonds, for things like Treasuries—very liquid market. And so, those are fit for passive investing. And if you look at like an ag-bond fund, that’s a huge chunk of the ag right now is Treasuries. But something like muni bonds, for example, there is some inefficiency in selecting munis. They’re not taking part in the issuance. So, to some extent, they might get some of the leftovers. But just in general, it’s easier for investors to understand what a passive fund is going to do. And those expectations and low fees are a good fit for most people.
+
+Lefkovitz: And it seems like a lot of advisors these days might be ETF only. I know you’ve written about models as well, model portfolios. What role are they playing in flows?
+
+Armour: So, there’s been a shift in distribution in that sense where advisors are moving to fee-based advice instead of commission-based. And what that means for investors is that they’re going to push toward cheaper funds, which often means ETFs or index mutual funds. And then if they do go active, then—ETFs are growing a menu, and we’ve seen model portfolios come as a really good option for advisors where they can just follow the script rather than spending too much time with asset allocation. And so model portfolio gives you the full portfolio of here are all the ETFs that you can invest in to follow the model. And it’s been a really good tool for investors, and it’s pushed some flows around, too. We just had the Model Flows Landscape report come out recently from Manager Research here at Morningstar. And model portfolios are growing extremely fast. And iShares, for example, is one of the biggest model portfolios. They work really closely with advisors to help them understand the changes that they’re making and give them performance attribution analysis and things like that to pass on to clients. But last March, they shifted from their iShares ESG Aware ETF, ESGU, to their Quality Factor ETF, which is QUAL. And that led to a $5 billion outflow of ESGU into QUAL. And so, it’s ending up having some pretty significant ramifications in the market.
+
+Benz: Let’s talk about providers and what you’re seeing in terms of flows to providers. It seems like the big three—Vanguard, BlackRock, State Street—have grown market share, but maybe you could just talk about that, how the spoils do seem to be going to fewer firms.
+
+Armour: The biggest have gotten bigger. And I would even say that Vanguard and iShares are in their own tier now and then State Street is alone in that next tier. But a lot of it has been scale. It’s been being able to scale their operations, scale their strategies, and offer them for low costs, which then put pressure on others to catch up. And we’re at a point where Vanguard might actually catch iShares soon. So, they’ve been winning the flows battle the past few years. But there’s two ways that assets can increase. One is new flows, net investment, and the other is performance of the existing assets. So, Vanguard does have a little bit more of a tilt toward equity assets, which means they could be boosted by a strong stock market and actually take over as the top ETF provider. And then in the active ETF space, there’s been a shift in the largest providers. Dimensional converted their first mutual fund to an ETF about three years ago, and they’ve already taken over as the largest issuer in the active ETF space. And then options-based strategies have been a huge growth engine of active ETFs, and JP Morgan has really benefited from that.
+
+Lefkovitz: Well, we want to get back to all those topics that you just touched on. But I wanted to ask you, Bryan, there’s this perennial question of whether the rise of passive share has led to market distortions. And we had a comment recently from David Einhorn, a prominent hedge fund manager, saying that passive investing has fundamentally broken the market. Wondering if you have a perspective on that?
+
+Armour: It depends where you’re coming from in your perspective on how you’re seeing the market. Because from David’s perspective, I think, he runs long-short hedge funds, for example, and the market is less reactive potentially compared to what it used to be. So, it’s difficult for that type of strategy to efficiently realize mispricings of individual stocks, and shorting is expensive. And so, the longer the lead time to realizing it, the greater the cost and then the more different ways that things can go awry. So, from most investors’ perspectives, though, they don’t have access to these hedge funds. Their investment minimums, there are all sorts of different things that prevent the average investor from buying into these things.
+
+So, it goes back to my original thought on zombie flows. There are opportunities for active managers. Right now, it’s just slower for the market to catch up. The flip side is for average investors, it’s been overwhelmingly positive. You get cheaper, better-performing strategies in most cases. Our colleague Russ Kinnel long showed that low fees are the best predictor of future success. And so, it may not be the best outcome for David Einhorn’s clients, but a vast majority of investors don’t even have access to his hedge fund. And so, it’s a clear net win for investors. And he continued on in his comments after saying that passive investing had fundamentally broken the market by saying that he had adapted. And that’s really, like any strategy from two decades ago, is less likely to work today anyway. So, it’s really adapt or die. And it sounds like he didn’t complain about it. He’s just changed his strategy to better adapt to it.
+
+Benz: Your team’s remit is passive investment strategies. You’re vehicle agnostic. So, I guess, we wanted to ask about index funds, traditional index funds versus exchange-traded funds. It does seem like the flows have very much gone to ETFs. Advisors seem to be articulating a strong preference for ETFs. I guess the question is, is that overdone? I know that there are tax efficiency benefits with ETFs versus traditional index mutual funds, but maybe you can talk about that?
+
+Armour: Comparing index ETFs to traditional index funds, that tax efficiency, that is the crown jewel of ETFs doesn’t apply as much. I would agree with that. First of all, Christine, you wrote a wonderful article for Morningstar.com on this subject. I encourage everyone to read that that’s interested in this conversation. But ETFs tend to have lower fees and tax efficiency. So, the lower fee portion of that still remains. Often their fees are priced closer to retirement plan share classes than retail investor share classes. And then when net flows are going in and out, ETFs can swap holdings for shares in kind, which doesn’t create a taxable event. So, there’s advantages for the ETF, but the problem is that for a traditional index fund, a broad index fund, the fee differences are pretty minimal. And then they’re typically market-cap weighted, so they aren’t trading much and they’re not realizing many capital gains. And so, ETF’s tax advantage is minimal. The difference really comes down to flexibility, I would say, and ETFs are easier to trade in and out of, but those trades come at a small cost like crossing bid/ask spreads, premium or discounts to NAV. But I think this is what Jack Bogle’s initial dislike of ETFs, where it came from, is that the ease of trading could actually be to investors’ detriment if they end up over-trading.
+
+Benz: I wanted to just follow up and stick with this tax efficiency question. I do feel like there’s confusion about fixed-income ETFs being particularly tax-efficient. Like they might have some tax efficiency benefits relative to an active fund, but generally they’re not all that tax-efficient. So maybe you can talk about that, Bryan.
+
+Armour: Unfortunately, interest income is not a capital gain. So, the tax efficiency is purely on capital gains. If the price of the security you hold goes up and you sell it, that price from where you bought it to where you sold it is a capital gain. Interest income is separate from that. It will be taxed as normal income. And so similar also to dividends, these distributions are not incorporated in the tax efficiency of ETFs. And so, if you hold something like long-dated Treasuries and the price of yields go down, then you could potentially have a much more tax-efficient vehicle in an ETF in that circumstance. But for most of the time when prices are relatively stable and most of total return is coming from interest, then the ETF wrapper doesn’t gain any advantage over a mutual fund.
+
+Lefkovitz: I wanted to get back to actively managed ETFs because it’s a space that’s growing very fast and wanted to delve a little bit more deeply. So according to our asset flows data, actively managed ETFs grew 37% in 2023, while passives grew just 8%. Bryan, what’s behind the growth of Active ETFs, do you think?
+
+Armour: I think there are two main reasons. The SEC passed the ETF rule in 2019, which really just made launching ETFs and management of ETFs more efficient by allowing custom-creation redemption baskets is probably the primary reason for Active ETFs. But number two is, Active ETFs are meeting investors where they are. And so, starting with that second point, the increased use of ETFs, the flows going into ETFs really drives asset managers’ interest in launching ETFs and accessing other potential clients. In some cases, it could be, but in most cases, it’s not replacing mutual funds, it’s really just accessing different clients.
+
+For the ETF rule, creation/redemptions, the way the pro rata baskets used to work prior to the ETF rule is, effectively a market maker would go out, buy all the stocks of the S&P 500, for example, in the correct proportion. They would hand those over to an ETF provider. They would get ETF shares back. If they wanted to redeem those ETF shares, then they would get the stocks back. And by doing that in-kind transfer, they never have a taxable event that occurs.
+
+What’s changed is that they no longer get a pro rata slice of the portfolio. Now they have the ability to use custom baskets. So, if you think of an active manager that holds Nvidia, a year ago, it was a $100-something dollars and it got up to $700 recently. And that would be a $600 capital gain you’re sitting on. You could negotiate a custom basket with a market maker to basically get rid of all your Nvidia and take no capital gains on any of that gain. And so, the benefits from custom baskets are tax efficiency. It also pushes some of the trading costs. If you’re using the custom basket for portfolio management, then those trading costs are borne by the market maker, not you, because the transaction is in kind. And then it’s just another tool for PMs. And so, we’ve seen the uptake by some traditional mutual fund providers in response. You can see the increase in products in assets and flows start after 2019 after the ETF rule was enacted. And since then, Dimensional Fund Advisors, Capital Group, T. Rowe Price, Morgan Stanley have all started to dip their toes into the ETF market.
+
+Benz: I think I heard someone characterize active ETFs as the last gasp of a dying industry, the active asset-management industry. Do you think that’s too harsh?
+
+Armour: No. I mean, yes, I do think that’s too harsh. I disagree with that comment. There are still use cases for active. Like I said, there’s still plenty of opportunities in the ETF wrapper. Mutual fund providers still have a major role in retirement plans. We’ve seen growth of CITs and other vehicles to gain more efficiencies there as well. But we’re still in the early phases of active ETF trend. And just now we’re starting to see portfolio managers accept greater transparency. And so, star managers like BlackRock’s Rick Rieder, T. Rowe Price’s David Giroux launched their first ETFs last year. So, I think it’s actually an exciting time. There’s a lot going on in the ETF space. It’s not the end of asset management overall.
+
+Lefkovitz: Are there areas where you think that active ETFs won’t work so well?
+
+Armour: There are strategies where ETFs aren’t as effective as mutual funds. And a prime example of that would be discretionary active in illiquid markets or small caps or something where there isn’t as much liquidity in the underlying stocks. So, for example, ARKK, the ARK Innovation ETF, there is a direct correlation between flows and performance back in 2020, 2021 when it was going up and down dramatically. But capacity is a concern. It’s something that strategies need to be aware of before going into the ETF wrapper because ETFs can’t close to new investors. And that’s something that has led active ETF providers like Dimensional, Avantis to really lead because they have very well-diversified portfolios. They hold a bunch of stocks and then they tilt things the way they see fit. But the more discretionary active, smaller portfolio-type active strategies don’t seem to do as well in the ETF wrapper.
+
+Benz: I wanted to go back to the tax efficiency of active ETFs, active equity ETFs specifically. It does seem like based on what you’ve said that there would be tax efficiency benefits of the active ETF relative to an active traditional mutual fund. But how about relative to a passive, say, total market ETF, that’s still going to be more tax-efficient, right?
+
+Armour: Well, it’s actually going to be pretty close because there are instances where, depending on how the active manager deploys their strategy in the ETF wrapper—if you look at like Dimensional, Avantis, those are more well-diversified portfolios, but they’ve never realized, or most have never realized, a capital gain. Capital Group, T. Rowe Price have had very minimal capital gains in the ETF wrapper. They had none last year between both of them. So there really isn’t much more to gain from a tax efficiency perspective than that. And so, it just really depends on the strategy though.
+
+Benz: So, the low-turnover piece is crucial, it seems like, right?
+
+Armour: It’s low turnover, but it’s also when you redeem ETF shares, when you have a custom redemption basket, you can put your highest capital gain security as a higher weight in the portfolio and when you redeem it out, you get rid of it and then you can bring it back in at a higher cost basis. And so there are ways to gain tax efficiency beyond just limiting trading. And so that’s really where the biggest advantage has been for active ETFs.
+
+Lefkovitz: Bryan, Vanguard launched some active bond funds in December and your team, when you wrote about them, put active in quotations. Can you talk about those?
+
+Armour: So, Dan Sotiroff does a great job of distilling down the strategies of the new Vanguard bond funds. I believe, one is Core, one is Core-Plus Bond Fund. He put active in quotes because these are well diversified bond funds that are meant to be sit at the core of your portfolio and they’re low cost. In general, they hold duration in line with their benchmarks. So, in a lot of ways, that’s a passive approach where they then add an increment of active is by taking on a little bit more credit risk than their benchmark. And then they look to generate alpha a bit through individual bond selection. But generally, they’re matching the characteristics of their benchmark. And then the fee is very close to passives. So, with incremental benefits, by taking on a little bit more risk and be more thoughtful about which bonds they hold.
+
+Benz: We wanted to ask about active versus passive performance, which you’ve already alluded to, but you’re involved in this semiannual active Passive/Barometer Study, which looks at the success rates for active funds relative to passive in different categories. First, maybe you can talk about what a success rate is, how we define that, and also what you’ve observed having looked at these data over the years?
+
+Armour: So, we’re actually about to publish year-end 2023. So that might even be out by the time this comes out. But we look at success rates for active managers across different categories and holistically. But what we’re looking for is, does an active fund beat the average passive fund? And we look at that as an equal-weighted average of all passive funds within that category. So, we create the peer group, we create the benchmark. This way it’s not like an index where there are no fees, or it’s held to the index construction rules or anything like that. If you were going to pick up the average passive fund, would this active fund beat it? And so, success rates generally over the long term are lower than 50% and in certain areas of the market significantly lower than 50%. And so, if you look at large-blend category, for example, like I alluded to before, there’s incredible coverage of those stocks that sit in that portion of the market. And so, the prices, it’s really hard to carve an edge for an active manager because all the information is priced in. And so, what we’ve seen is over the long term, not only are success rates low, but active managers tend to lag the average passive peer significantly for the ones that do survive. And so that’s one thing with success rates. We look at not only do they beat the average passive fund, but they also have to survive over the period. So over longer-term periods, very difficult to beat passives, but over the short term, things can be pretty noisy.
+
+Lefkovitz: And what have been some areas where active has been successful?
+
+Armour: So, the key is there are two different things that dictate success for active funds. Number one, what are the odds of picking a winner? And then number two, how much can you win versus how much can you lose? And so, indexes prefer liquid markets, ones where the information is embedded in the price quickly and the index funds can represent the market well. Illiquid markets tend to be tougher to index. They usually have to create index rules to get around some of the more illiquid holdings, which creates opportunities for active managers to find advantages over their index peers. So, some of the ones that usually as you go down the market-cap ladder from large cap to mid-cap to small cap, success rates will increase. If you look at like foreign small/mid versus foreign large-blend, actives tend to do better in the smaller-cap area. Real estate is another example. Emerging markets tends to be better for actives. And bonds is more of a mixed bag, but high-yield bonds, active managers tend to do better than core bond funds.
+
+Benz: We wanted to ask about these waves of mutual fund to exchange-traded fund conversions and also ETFs being created as a share class of a mutual fund. You referenced, Bryan previously, DFA having done some of these conversions over the past few years, but maybe you can talk about what’s going on there.
+
+Armour: I believe there’s been about 70 mutual fund ETF conversions at this point. It depends on the strategy at hand. So DFA, they originally moved over some of their tax-managed strategies because the ETF wrapper, for the reasons I discussed, is more tax-efficient. And then also they have these extra portfolio management tools through the use of in-kind creation/redemption baskets. And so, for them, it made sense. If there are complications with strategy fit, like I said before, they can’t close to new investors in the ETF wrapper. So small-cap, more-niche strategies, it might not make as much sense to convert over to ETFs. But generally, what happens is, one day a mutual fund wakes up as an ETF and that track record is still there. But it’s not a panacea for mutual fund managers. DFA has experienced significant inflows, but some of the other ones that converted have actually been seeing outflows. It’s not automatically by joining the ETF market do you see inflows.
+
+And then the other caveat for mutual fund ETF conversions is it doesn’t work if assets are held in retirement accounts. Generally speaking, retirement accounts are built for mutual funds for end-of-day NAV pricing and intraday pricing and nonfractional shares of ETFs make it really hard to switch over. So generally speaking, those with higher retirement account assets or more-niche strategies will find it hard to convert to ETFs.
+
+Benz: And how about the idea of an ETF being created as a share class of an existing mutual fund? I think that was originally a Vanguard innovation, but now other firms have jumped onto that.
+
+Armour: And their patent expired early last year for that. We’ve seen Dimensional, Fidelity, Morgan Stanley, a few others apply for that same treatment, and the SEC is currently reviewing those applications. But I think there the advantage is if you do have retirement assets, if you do have some reason, distribution, or whatever reason that exists that you want your mutual funds, but you also want to reach ETF investors, then this is a really good way of doing that. And some of the ETF, if it gets large enough, some of those creation/redemptions, the in-kind creation/redemptions can actually enhance the tax efficiency of the mutual fund share classes then. But the downside for the ETF investors is if investors are redeeming their mutual funds, that could create some capital gains taxes and that could make their way over to the ETF shareholders.
+
+Lefkovitz: Well, let’s get to bitcoin, the moment that many listeners are waiting for. This has been one of the biggest stories in ETF lands in recent years. SEC approved ETFs tracking the spot price of bitcoin. We now have several bitcoin ETFs. So, what have you observed watching this space since these funds started trading in January?
+
+Armour: I think the biggest thing at the beginning was fee wars broke out at the 11th hour. And we saw a very consistent lineup of fees between 19 basis points and 25 if you exclude waivers, the one outlier being Grayscale Bitcoin Trust, which converted to an ETF from a private trust into an over-the-counter trust now currently an ETF for the first time. And they are charging 1.5% and big reason why is because they came in with large assets and they have investors in their asset base that have large capital gains they’re sitting on. They know they’re not going to leave and switch to a different bitcoin ETF. But there’s a huge disadvantage for new investors by investing in GBTC. But the rest are all very tight in terms of fees in that 6-basis-point range.
+
+But so far since it started trading, the liquidity ecosystem has been very strong. So, there was a batch approval. Nine new ETFs were approved for trading on the same day and then Grayscale also converted. So, there are 10 new ETFs on Jan. 11. And the existing funds in the market, so GBTC is an example, but also futures-based bitcoin ETFs, and then futures on the Chicago Mercantile Exchange, and spot bitcoin itself creates a whole liquidity ecosystem where market makers can hedge between all these different products, and they can look for arbitrage between them. And so, it’s led to really tight bid/ask spreads and very strong liquidity overall. And then they’ve gathered considerable assets. IShares and Fidelity currently lead the pack. I believe there’s now four ETFs over $1 billion. Maybe I shouldn’t even say that at this point because it’s all going to change by the time this goes live.
+
+But they’ve gathered considerable assets. IShares and Fidelity are leading the pack. Bitwise and ARKK are really in that next tier. And they’ve lived up to the billing in terms of volatile performance. Early investors were hit with an immediate 15% drawdown. They’ve already reversed the course and are up since their inception. So overall, it’s gone extremely well for the bitcoin ETFs. But obviously it’s been a volatile few weeks for the ETFs in terms of performance.
+
+Benz: So how about for investors? I guess setting aside the merits of crypto and bitcoin, how about the introduction of ETFs for investors who would be inclined to invest in these assets? Do you think that this is a development for the greater good?
+
+Armour: Well, it’s a positive development for crypto investors. I think it’s better than what currently existed prior to the spot bitcoin ETFs hitting the market. So, there are futures ETFs that had launched in 2021. And there are some frictions in rolling futures that made it underperform the price of bitcoin on its own. GBTC charged 2% and operated like a closed-end fund prior to becoming an ETF. It created all sorts of problems for investors. And crypto exchanges are very expensive to trade on. There’s always a concern of losing your key or how are you going to custody all your bitcoin. So, it’s a good thing for crypto investors in general. But to some extent, I don’t think most investors need to speculate on bitcoin. So, to me, overall, it’s more of a distraction than a benefit for investors.
+
+Lefkovitz: And Vanguard has sat it out. Curious what you make of that.
+
+Armour: So, Vanguard has shown no interest in launching a bitcoin ETF themselves. But a step further, they don’t even make the other bitcoin ETFs available to their investors. And so, they believe it’s speculative. There’s no inherent economic value or cash flows and volatility can wreak havoc on portfolios. Our research has found the same—in terms of it’s very difficult to create a fundamental value for bitcoin. What should it be worth? And we’ve shown that the volatility has a pretty big impact on portfolios, even in a very small allocation like 5% or lower. To some extent, I almost feel like the SEC refusing to approve the spot bitcoin ETF actually gave bitcoin more legs and got more attention for bitcoin. And in the same vein, Vanguard takes the decision out of investors’ hands. And I don’t really feel strongly either way. But in general, sometimes it gives it more power to say no to it.
+
+Benz: Are there any other areas that you’re watching for regulatory approval or maybe new product development? There’s naturally been talk of non-bitcoin crypto ETFs. But I’m wondering if you’ve heard anything about that or other areas?
+
+Armour: The current one in the queue for the SEC is spot ethereum. So, ethereum futures ETFs already exist, but the spot version is the next one waiting on approval. SEC is currently taking the same course as it did with bitcoin. So, it’s been just delaying decisions and waiting until the last second until they get a hard deadline to actually make a decision. But in the same vein as bitcoin, since a futures ETF already exists, they would really struggle with explaining why they would be able to deny spot ethereum versus approve the futures ETF. So, the likely outcome is approval for ethereum, but it is a little bit different than bitcoin, so it remains in flux. Beyond that, we’ve seen all the common product variants that exist in ETF form already filed to come into the market like covered-call versions of bitcoin ETFs, leverage, inverse. But these are things that most investors shouldn’t really take interest in.
+
+Lefkovitz: And then covered-call ETFs that are tracking equity indexes, those have been very popular recently. What do you think is behind that trend?
+
+Armour: I don’t know how the hot trend in the market flipped from meme stocks to covered calls. It’s a little bit of whiplash for investors. But it’s been an astonishing trend in terms of assets and product development. It seems like a covered call is being slapped on every single strategy from single stocks to Bitcoin to S&P 500. JPMorgan Equity Premium Income ETF, JEPI, is the poster child right now. It’s over $30 billion in assets, and we actually cover this ETF. It’s sensible approach, low-risk strategy. But most covered-call strategies are highly tax inefficient. In the same way we were talking about bond ETFs earlier, the premium received from covered calls is not considered a capital gain. So that’s something that will be distributed as income that investors will have to pay taxes on and then reinvest if they’re not using the income for personal uses. And there’s a huge opportunity cost for covered-call ETFs. So, Eugene Fama’s doctoral thesis remains true today where the distribution of market returns have fat tails. So that means there are more extreme gains and losses than expected from a normal distribution of returns. And so, we always talk about downside risk and how that can set investors back. But the same is true of missing out on the best months or years for an investment. And so, it doesn’t make sense to give up the good fat tail and keep exposure to the bad one for covered-call strategies. Because what you’re doing is you’re selling upside and cashing in that expected volatility and taking the income instead of and capping upside. And so, a prime example would be Global X Nasdaq 100 Covered Call ETF, which is QYLD. It launched in December 2013. And it’s basically like QQQ except with a covered call attached. And it’s trailed QQQ by an annualized 10 percentage points since its launch in 2013. So QQQ over that whole time is up 450%. QYLD is up 100%. So, it’s a substantial opportunity cost that you’re giving up with covered calls.
+
+Benz: Sticking with some of the fads in the ETF space, we wanted to ask about strategic beta, smart beta, factor investing, whatever you want to call it. It seems like just a few years ago, maybe five years ago, that was like the hot topic. Maybe you can talk about what you’re seeing these days in that strategic beta area.
+
+Armour: It’s slowed down for sure. There’s not as much attention from investors or inflows coming in. But generally speaking, there’s still solid strategies. It’s something similar to active investing, except they codified it to track an index of some of the active risks that it takes. And so, it’s still a reasonable investment thesis. The biggest problem has been that market-cap weighted and growth stocks have really done the best. And most of strategic beta is about value. It’s low volatility. It’s some of these things that haven’t kept pace with the market overall over the past decade or so. And so, it’s sort of swung out of favor, but it’s still a very good option for investors.
+
+Lefkovitz: Dividends seem to be an area within strategic beta that remains popular with investors, probably for income. I think your team recently upgraded some dividend-focused ETFs. What was behind that?
+
+Armour: So, when dividend ETFs or strategies are done well, their portfolios can tap into cheap stocks with strong fundamentals, and when done poorly, they can fall victim to value traps. So those are stocks that their prices are dropping alongside their business as their business deteriorates. And so, what we saw from these four dividend ETFs is they have very steady approaches. We’re seeing a lot of consistency in their holdings and their factor exposures over time. They have resilient portfolios, and they really do a good job of addressing the value traps. So, what ends up coming out of that is a strong risk/reward profile. So, it’s typically for those ETFs that are performing similar to the market in terms of returns but with lower risk. And there’s a couple different ways that they get there and between the four ETFs two are dividend growth ETFs, which is, you’re looking more at quality companies that have been steadily growing dividends for eight to 10 years, something like that. And then the high dividend yield strategies look for above-average yielders, but then they pair back some of the risks that can come with that by controlling Vanguard’s High Dividend Yield ETF, for example, takes the top half of dividend yielders and market-cap weights it, and that effectively takes out some of the risk of value traps. But overall, they just give a really solid combination of value, quality, profitability that has tended to work well over the long term and basically all markets.
+
+Benz: I wanted to ask about thematic funds, which is another trend that was really popular just a couple of years ago, things like AI or clean energy. Interest seems to have cooled in those types of products as well. What have you observed in that space?
+
+Armour: It has cooled. Absolutely. I think a lot of investors were burned in 2021, 2022 when thematics were hitting a fever pitch and then markets turned south and a lot of the growth stocks, a lot of the ESG stocks that had done so well in 2020 dropped significantly. And so, it still gets tons of attention. Thematics is nothing new, but it tends to do really well when there’s a market bubble. And so, lots of product development in 2000 and 2007 and 2020 and then shortly thereafter, markets dropped. But AI, I’ve talked a lot about AI ETFs, especially with reporters and that’s something that my friends would ask about. And the problem with AI ETFs is it’s really hard to define the theme and which stocks fit within AI. So, Nvidia is the one that’s held in all AI ETFs, but from there, there’s very little consensus about what stock counts as AI. And some hold Amazon and Apple and Google and Microsoft. And then some hold these small companies that develop chatbots or robots that are more AI directly. And so, there’s not a great way to capture the trend as it currently stands. And that’s often the case with thematics in general. It’s something that will stick around. I think there will still be investors interested in it because the narratives are so strong. But generally speaking, it’s really hard for investors to perform well in those types of ETFs.
+
+Lefkovitz: Bryan, wanted to get your thoughts on direct indexing—taking an index and then making some adjustments, customizing, personalizing. This is an area that got a lot of discussion a few years ago as an alternative, even a rival to ETFs. What are you seeing in the direct-indexing space?
+
+Armour: Direct indexing is hard to make available to everyone. There’s lots of considerations with smaller accounts, how are you breaking up fractional shares, and there’s a lot more risk taken on by the asset managers doing this for smaller investors. So, it’s really targeted toward wealthier investors. But with an ETF, like I said, a lot of the benefit from direct indexing that they talk about is tax-loss harvesting. In general, in ETFs, you can already do that without needing to tax-loss harvest. So, there’s not a significant advantage for direct indexing over just holding an ETF. I think it’d be more about the personalization, the customization of the strategies depending on the particular investor. And so, it remains a high-net-worth strategy. I don’t see it as something that’s going to help the everyday investor.
+
+Benz: I wanted to ask about this annual list that you put out of best and worst ETFs. It’s instructive not just for the specific funds that you’re flagging, but it also gives a sense of what we think are useful vehicles that address a real investment need versus just products that might be beneficial only to the asset manager or sponsor. Can you take us through a couple of case studies on your 2023 best and worst list?
+
+Armour: Definitely. So, this is a fun activity that team all weighs in. We all vote on which ETFs we believe are best and worst. So, we go through like a nomination process and vote on them. And so, there’s a couple of different ways that new ETFs can really break into the market. And so, most of what we think of ETFs like S&P 500 ETF, Total Market—that’s already been done. So, the way our asset managers can differentiate new ETFs is by giving access to something that doesn’t currently exist in the market or improving on an existing asset class.
+
+And so, the two best new ETFs that we highlighted last year—one of them was a BlackRock Flexible Income ETF, which is Rick Rieder’s first ETF that he’s launched. So, he was Morningstar’s 2023 Outstanding Portfolio Manager of the Year. And he’s had a long track record of success and it’s something that’s new that investors couldn’t get in the ETF wrapper before. And so, it’s been just a new way for active ETF investors to engage with ETFs.
+
+And the other best new ETF was Schwab High Yield Bond ETF. What I liked about that one is it was almost like the Vanguard effect in bonds where they come in, they cut expense ratios, and force others to cut with them. This one played out a little differently, though. They came in at 10 basis points, which was the lowest fee on the market in State Street. And State Street then cut their High Yield Bond ETF to 5 in response, and then Schwab shortly thereafter cut theirs to 3. So, in the course of a couple months, the cheapest high-yield bond ETF went from 10 basis points to 3. And then in response, you saw other asset managers cutting their fees, maybe not down to 3 basis points, but to 8, to 5. So, it’s really created a fee war, or at least a fee skirmish in high-yield bonds.
+
+Another good example would be T. Rowe Price Capital Appreciation Equity ETF. There’s a mutual fund strategy. It’s multi-asset. This is equity-only, the ETF, but the mutual fund has been closed to new investors for a number of years. So, it’s really opened the doors for investors and to David Giroux and into that strategy, at least the equity portion.
+
+In terms of worst ETFs, it’s often these types of strategies that tend to help the issuer more than investors. And the first one was this 2 times Bitcoin Strategy ETF. So not only is this futures-based but it’s also leveraged to 2 times. It’s just really unnecessary. I mean, bitcoin is highly, highly volatile. There’s been several times where they’ve experienced over 40% drawdowns in the past five years without leverage. And so, this is just unnecessary, and then they add almost a 2% fee on top of it. It’s just really playing into some of investors’ worst habits and trying to cash in on those. Another one is YieldMax, AI option-income strategy. So, it looks like it might be AI thematic ETF, but that’s actually a stock with the ticker AI. So, it’s a single-stock ETF, and then they sell a covered call against it. Why investors would need to buy this and for this particular stock that has only a $3 billion market cap is beyond me. I think it’s just taking advantage of the fact that its ticker is AI, to be honest.
+
+Lefkovitz: Well, Bryan, thanks so much for sharing your insights. This has been great.
+
+Armour: Absolutely. Thanks for having me on.
+
+Benz: Thanks for being here, Bryan.
+
+Thank you for joining us on The Long View. If you could, please take a moment to subscribe to and rate the podcast on Apple, Spotify, or wherever you get your podcasts.
+
+You can follow us on Twitter @Christine_Benz.
+
+Lefkovitz: And at Dan Lefkovitz on LinkedIn.
+
+Benz: George Castady is our engineer for the podcast and Kari Greczek produces the show notes each week.
+
+Finally, we’d love to get your feedback. If you have a comment or a guest idea, please email us at TheLongView@Morningstar.com. Until next time, thanks for joining us.
+
+(Disclaimer: This recording is for informational purposes only and should not be considered investment advice. Opinions expressed are as of the date of recording. Such opinions are subject to change. The views and opinions of guests on this program are not necessarily those of Morningstar, Inc. and its affiliates. While this guest may license or offer products and services of Morningstar and its affiliates, unless otherwise stated, he/she is not affiliated with Morningstar and its affiliates. Morningstar does not guarantee the accuracy, or the completeness of the data presented herein. Morningstar shall not be responsible for any trading decisions, damages or other losses resulting from or related to the information, data analysis, or opinions, or their use. Past performance is not a guarantee of future results. All investments are subject to investment risk, including possible loss of principal. Individuals should seriously consider if an investment is suitable for them by referencing their own financial position, investment objectives and risk profile before making any investment decision.)
+
+What are the secrets to a healthy, happy, and wealthy retirement? Find out with Christine Benz’s new book, “How to Retire”
+Pre-Order
+
+The author or authors do not own shares in any securities mentioned in this article. Find out about Morningstar’s editorial policies.
+
+Share"
+high-yield savings accounts reviews and performance,3 Investing Trends to Keep on Your Radar,No disponible,https://www.morningstar.com/personal-finance/3-investing-trends-keep-your-radar,"Home
+Personal Finance
+3 Investing Trends to Keep on Your Radar
+3 Investing Trends to Keep on Your Radar
+
+We round up some of the most notable developments, from passives to robo-advice, and discuss their implications for investors.
+
+Christine Benz
+Jul 13, 2017
+Share
+
+More and more cars are electric, and self-driving ones are on the horizon. We can order paper towels and dog food online in the afternoon and find them on our doorsteps the next morning. Most of us carry powerful computers in our purses and pockets that don't just allow us to conduct work and stay in touch with our loved ones, they also enable us to track our fitness levels, order our morning coffee, and watch our favorite TV shows.
+
+No doubt about it: The pace of change in our world is breathtaking, thanks in no small part to technological advances.
+
+What's gotten less attention, however, is that the earth as been shifting beneath investors' feet, too.
+
+If an investor wanted investment help 25 years ago, for example, she might call a full-service broker, who in turn might steer her toward a mutual fund, probably with an active stock- or bond-picker at the helm. The investor would likely pay a 5.75% sales charge to get into such a fund, as well as an annual expense ratio of as much as 1.75% or even more. If she wanted to keep tabs on the fund's performance, she'd have to find its return in the newspaper, and wait until the end of each quarter to receive a report from her broker on how she’s doing overall.
+
+In the space of a few decades, however, the entire process has been turned on its head. Although investors continue to seek financial help, very few are paying full freight to buy load funds these days. Instead, most financial advisors are employing inexpensive passively managed products for their client portfolios, and charging them a separate fee, independent from the products, for their planning services. Investors can check up on their holdings and their total performance in real-time using a site like Morningstar.com or via client portals supplied by their advisors. They can also review performance or make trades on their phones or even on their watches.
+
+To be sure, there's a lot to like about these developments. But investors need to be aware of both the positive and potential negative consequences of these trends to be able to make good decisions about them. Here's a roundup of some of the key ones that should be on their radar today.
+
+Trend: Passive products continue to gain assets. This is the trend shaping the investment management industry today. Asset flows to passive products, both traditional index mutual funds and exchange-traded funds, began in earnest following disappointing active-fund performance during the financial crisis. And they show no sign of slowing down: In 2016, investors sent more than $500 billion to index fund products, including ETFs, while yanking more than $340 billion from various actively managed funds. Passive products have continued to attract monster inflows so far in 2017, too.
+
+What's to like: Index funds and ETFs typically feature lower costs than their actively managed counterparts, and Morningstar's research has found that low expenses are the single most important predictor of whether mutual funds beat their peers. Many broad-market equity ETFs and index funds also tend to have lower tax-related costs than actively managed funds, helping to further increase take-home returns for investors who hold the funds in taxable (i.e., nonretirement) accounts. And because index funds and ETFs are usually ""pure plays,"" giving investors unadulterated exposure to a given market segment, managing the asset-class and other exposures of an all-index fund portfolio is simpler than managing a portfolio composed of active funds.
+
+What to watch out for: Active-fund partisans have argued that index funds and ETFs lack a toolkit for protecting against losses in bear markets; passively managed products don't have the latitude to retreat to cash or load up on defensive holdings when things look worrisome. That's true, but it's not as though most active funds did such a great job of limiting losses during the financial crisis. That said, it is highly likely that the performance of capitalization-weighted U.S. equity index funds won't always look as unassailable relative to active as it has in the recent past; there will no doubt be years when performance will look a little 'meh' relative to the active universe. That's not a reason to avoid index funds, certainly, but something to be aware of. It's also true that some asset classes simply don't lend themselves well to basic, cap-weighted passive approaches. On the short list: high-yield bonds and emerging-markets equities. Moreover, plenty of ETFs are neither cheap nor tax-efficient, even though the vast majority of investor dollars are in products that look good on both attributes. The popularity of ETFs has given rise to a wave to gimmicky products that don't serve investors well.
+
+But there are more substantive risks for investors embracing index funds. One is that investors who use advisors to manage their portfolios may be paying lower fees on their portfolio holdings, but their advisors may be charging them higher fees for their services, thereby offsetting or even negating the savings on the product side. That argues for investors giving due attention to their all-in costs: how much their funds charge as well as how much they're paying their advisors. Additionally, because ETFs and index funds are so easy to trade and make it simple to manipulate a portfolio's exposures, some investors and their advisors may be engaging in tactical strategies that don't necessarily contribute to better returns. This article includes some of the key questions to ask your advisor--or yourself--if you plan to shift more of your portfolio into passively managed products.
+
+Trend: New ways to hire--and pay for--financial advice. Just a decade ago, investors could pay for financial advice in a few main ways: They could work with a commission-based advisor who was compensated via sales charges on product sales. Alternatively, they could hire a fee-only advisor who charged them a percentage of their assets each year (the assets under management--or AUM--model). ""Fee-based"" advisors charge clients a percentage of their assets annually and may also use commission products.
+
+The Department of Labor's fiduciary rule seeks to reduce the conflicts of interest that can go along with the commission model. As a result, many advisory firms have scrapped commission-based sales or have moved to allow investors to operate in both a commission- and fee-based capacity.
+
+Meanwhile, the fee-only model is alive and well, but the umbrella has gotten broader. In addition to the AUM model, fee-only advisors may charge for their services on an hourly basis or a per-engagement basis. Alternatively, some advisory firms have styled their services as a monthly or annual subscription, similar to how you'd pay for a gym membership; this is often called the ""retainer"" model.
+
+Finally, some new models have gained prominence. Robo-advisors provide automated advice for a low annual fee as low as 0.25% or even less. Meanwhile, mutual fund companies and brokerage firms may provide advice for customers who have amassed sufficient assets at the firm. For example, Vanguard Personal Advisor Service charges 0.30% and is available to investors with at least $50,000 in assets at the firm. (The service combines human financial advisors with robo-advisor technology.) Most of these services focus on low-cost index funds and ETFs.
+
+What's to like: With more variations in advice models, consumers have the opportunity to ""right-size"" their advice buys. Investors who need ongoing comprehensive financial guidance may want to stick with the AUM model or opt for a retainer-based program. Meanwhile, investors seeking infrequent and/or surgical guidance will likely find that paying for advisory services on a per-project or hourly basis is more cost-effective.
+
+What to watch out for: The profusion of different business models means that the business of selecting an advisor is more complicated than ever. This article reviews some of the key considerations to bear in mind; at a minimum, ask if a prospective advisor is a fiduciary and a certified financial planner. It's also worth asking exactly what types of services are included in the fee you're paying: Robo-advisor fees might look like a screaming buy relative to the fees that a full-service human advisor charges, but the robo won't be able to give you advice on nonportfolio matters like whether to pay off your mortgage or purchase long-term care insurance.
+
+Trend: An increased emphasis on behavioral factors that can affect investor outcomes. Researchers have long known that bad timing decisions have the potential to drag on returns. For example, many investors hunkered down in bonds during and after the financial crisis; by the time they got themselves out of their defensive crouches, they had missed out on a meaningful chunk of stocks' returns after the recovery. Morningstar has attempted to shine a light on and quantify investor behavior--the good, the bad, and the ugly--via its investor return data and director of fund research Russ Kinnel's annual ""Mind the Gap"" study. Beyond portfolios, financial professionals and researchers have also become increasingly attuned to other behavioral factors that can shape outcomes for individuals--for example, the tendency for retirees to prefer spending income from their portfolios rather than touching their principal via liquidating highly appreciated positions.
+
+What's to like: In recognition of the fact that even the best-laid financial and investment plans won't be successful if they run counter to the investors' behavioral biases, financial advisors and institutions are increasingly incorporating behavioral-finance findings into their product offerings and services. Many robo-advisors have also embedded behaviorial research into their services. In short, investments are optimized not just for returns, but with an eye toward earning competitive returns while also ensuring that the investor sticks with the program.
+
+What to watch out for: Behavioral finance is trendy right now, and with any trend comes the opportunity for gimmickry. Beware of advisors who are using behavioral finance as their main hook to snag clients; high-quality advisors have been employing behavioral finance into their practices for years. Likewise, some of the best products from an outcome standpoint aren't newfangled products at all, but rather tried and true options like balanced and allocation funds. (Target-date funds also look great from the standpoint of investor returns.) Because their performance is typically even-keeled and their strategies embed regular rebalancing, such products can be fine options for minimalists who want to keep a lid on their all-in costs while also managing behavioral risk factors.
+
+Share"
