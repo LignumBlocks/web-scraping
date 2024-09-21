@@ -5,7 +5,12 @@ from fastapi import FastAPI
 from dotenv import load_dotenv
 import os
 from typing import List, Dict, Any
+from scrapers.forbes_scraper import scrape_forbes
+from scrapers.consumer_finance_scraper import scrape_consumer_finance
 from scrapers.investopedia_scraper import scrape_investopedia
+from scrapers.marketwatch_scraper import scrape_marketwatch
+from scrapers.morningstar_scraper import scrape_morningstar
+from scrapers.the_balance_money_scraper import scrape_the_balance_money
 
 # Cargar las variables de entorno desde el archivo .env
 load_dotenv()
@@ -66,9 +71,30 @@ async def run_scraping(data: List[Dict[str, Any]], active_scrapers: List[str]):
                 query_list = item['queries']  # Lista de queries
                 file_name = item['file_name']  # Nombre del archivo
 
-                if scraper_name == 'investopedia':
+                # Ejecutar scrapers para la fuente actual
+                if scraper_name == 'forbes':
+                    for query in query_list:
+                        results.extend(await tg.create_task(scrape_forbes(query)))
+
+                elif scraper_name == 'consumer finance':
+                    for query in query_list:
+                        results.extend(await tg.create_task(scrape_consumer_finance(query)))
+
+                elif scraper_name == 'investopedia':
                     for query in query_list:
                         results.extend(await tg.create_task(scrape_investopedia(query)))
+
+                elif scraper_name == 'marketwatch':
+                    for query in query_list:
+                        results.extend(await tg.create_task(scrape_marketwatch(query)))
+
+                elif scraper_name == 'morningstar':
+                    for query in query_list:
+                        results.extend(await tg.create_task(scrape_morningstar(query)))
+
+                elif scraper_name == 'the balance money':
+                    for query in query_list:
+                        results.extend(await tg.create_task(scrape_the_balance_money(query)))
 
                 # Aquí agregaríamos el resto de los scrapers como marketwatch, etc.
                 
