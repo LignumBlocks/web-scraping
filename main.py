@@ -104,6 +104,10 @@ async def run_scraping(data: List[Dict[str, Any]], active_scrapers: List[str]):
     
     return results
 
+@app.get("/")
+async def read_root():
+    return {"message": "Hola. API is up and running!"}
+
 # Endpoint para recibir el JSON de fuentes y queries
 @app.post("/scrape/")
 async def scrape(
